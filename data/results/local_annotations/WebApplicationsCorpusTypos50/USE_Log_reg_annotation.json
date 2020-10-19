@@ -1,0 +1,1007 @@
+{
+    "results": [
+        {
+            "confidence": 0.9931615684842481,
+            "confidencesOther": {
+                "Find Alternative": 0.9931615684842481,
+                "Delete Account": 0.004530945639218654,
+                "Change Password": 0.0008254766243052514,
+                "Sync Accounts": 0.0005521489874874069,
+                "Filter Spam": 0.00027791088819757785,
+                "None": 0.00025325098539497287,
+                "Download Video": 0.00020946753382744074,
+                "Export Data": 0.00018923085732047262
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Alternative to Faceboook",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9993390480992697,
+            "confidencesOther": {
+                "Delete Account": 0.9993390480992697,
+                "Change Password": 0.00023502938329535616,
+                "Export Data": 0.00010527464597225645,
+                "Download Video": 8.982797794678386e-05,
+                "Find Alternative": 8.161162418456272e-05,
+                "Sync Accounts": 7.46708382341313e-05,
+                "Filter Spam": 5.968332911931367e-05,
+                "None": 1.485410197809301e-05
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How do I delete my Faceboook account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9823775950754172,
+            "confidencesOther": {
+                "Find Alternative": 0.9823775950754172,
+                "Export Data": 0.005847047829490196,
+                "Change Password": 0.004292018839565231,
+                "Filter Spam": 0.0028199984372366347,
+                "None": 0.0022090186781603253,
+                "Sync Accounts": 0.001599351729670126,
+                "Delete Account": 0.00046903536717734416,
+                "Download Video": 0.0003859340432828763
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Are there, their, thee any good Pandora alternatives wtih general availabilty outside the US?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8444883309220644,
+            "confidencesOther": {
+                "Export Data": 0.8444883309220644,
+                "Sync Accounts": 0.047190882678369524,
+                "Find Alternative": 0.04693095199805686,
+                "None": 0.02883959516824145,
+                "Download Video": 0.013105351374820095,
+                "Delete Account": 0.011833945269142538,
+                "Filter Spam": 0.004997176646910701,
+                "Change Password": 0.002613765942394502
+            },
+            "goldenIntent": "Export Data",
+            "intent": "Export Data",
+            "queryText": "Is it possible to export my data from Trello to bcak it up?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9868075520092877,
+            "confidencesOther": {
+                "Find Alternative": 0.9868075520092877,
+                "Sync Accounts": 0.002887772008351764,
+                "None": 0.0027481550184255063,
+                "Change Password": 0.002717357382577775,
+                "Export Data": 0.001579011250617111,
+                "Delete Account": 0.0011881970713987636,
+                "Filter Spam": 0.0011691050400873784,
+                "Download Video": 0.0009028502192541758
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Is there an online alternative to iGoogle",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6213015116203191,
+            "confidencesOther": {
+                "Delete Account": 0.6213015116203191,
+                "Find Alternative": 0.12932258715588899,
+                "Sync Accounts": 0.09562569843118333,
+                "Export Data": 0.06376162016155028,
+                "Filter Spam": 0.0387153809549158,
+                "Change Password": 0.027069053408435496,
+                "None": 0.01313212552731081,
+                "Download Video": 0.011072022740396132
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How can I remove mysef frome a Trello organization?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.449280060463729,
+            "confidencesOther": {
+                "Delete Account": 0.449280060463729,
+                "Export Data": 0.1823594198110741,
+                "Sync Accounts": 0.14221085586346568,
+                "Filter Spam": 0.06000591803023774,
+                "Find Alternative": 0.055580923294570206,
+                "Change Password": 0.04540294359313696,
+                "Download Video": 0.04189494456727684,
+                "None": 0.02326493437650957
+            },
+            "goldenIntent": "Export Data",
+            "intent": "Delete Account",
+            "queryText": "How do I transfer my photos frome Flickr to Picasa?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.991845191727046,
+            "confidencesOther": {
+                "Sync Accounts": 0.991845191727046,
+                "Export Data": 0.0017777370669083176,
+                "None": 0.001581786286746367,
+                "Find Alternative": 0.0013241794314325411,
+                "Change Password": 0.00127075526065913,
+                "Delete Account": 0.0010712118354607562,
+                "Filter Spam": 0.0007164517496357158,
+                "Download Video": 0.0004126866421113691
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Sync Accounts",
+            "queryText": "How do I sync Google Calendar wtih my Outlook Calendar?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6381984820223229,
+            "confidencesOther": {
+                "Find Alternative": 0.6381984820223229,
+                "Export Data": 0.14418265112412973,
+                "Filter Spam": 0.1315671813471218,
+                "None": 0.03166089632541855,
+                "Sync Accounts": 0.022330910796448084,
+                "Download Video": 0.01612563322742613,
+                "Change Password": 0.008036019311186096,
+                "Delete Account": 0.007898225845946608
+            },
+            "goldenIntent": "Export Data",
+            "intent": "Find Alternative",
+            "queryText": "Archive/export all tjhe blog entries frome a RSS feed in Google Reader",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9988836823053618,
+            "confidencesOther": {
+                "Delete Account": 0.9988836823053618,
+                "Change Password": 0.00046907444741801864,
+                "Export Data": 0.00023451962113276668,
+                "Find Alternative": 0.0002063410460157299,
+                "Download Video": 8.90083597873052e-05,
+                "Sync Accounts": 4.543222753789028e-05,
+                "Filter Spam": 3.729865150132957e-05,
+                "None": 3.464334124499626e-05
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How can I delete my 160by2 account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9936791202539976,
+            "confidencesOther": {
+                "Delete Account": 0.9936791202539976,
+                "Change Password": 0.0024242091398910103,
+                "Filter Spam": 0.0011813520381053462,
+                "Sync Accounts": 0.0008269178716649027,
+                "None": 0.0007525950932956232,
+                "Export Data": 0.0005829898623256673,
+                "Download Video": 0.00034647672239069367,
+                "Find Alternative": 0.00020633901832895808
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How can I permenantly delete my Yahoo mail account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.718801534126105,
+            "confidencesOther": {
+                "Delete Account": 0.718801534126105,
+                "Find Alternative": 0.08353407638951554,
+                "Filter Spam": 0.0633798492429627,
+                "Sync Accounts": 0.052756002397101556,
+                "None": 0.04602001384778852,
+                "Export Data": 0.02359115801690108,
+                "Download Video": 0.006761408363899411,
+                "Change Password": 0.005155957615726171
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "Deleting an account(website) frome Google Analytics?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9961147876536313,
+            "confidencesOther": {
+                "Delete Account": 0.9961147876536313,
+                "Filter Spam": 0.0009816952272157433,
+                "Change Password": 0.0007575691322630875,
+                "Download Video": 0.000652207940442545,
+                "Find Alternative": 0.0004999698491043513,
+                "Export Data": 0.0004939008834092256,
+                "Sync Accounts": 0.00030573780045920287,
+                "None": 0.00019413151347454815
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How to delete my imgur account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6467786972642041,
+            "confidencesOther": {
+                "Delete Account": 0.6467786972642041,
+                "Change Password": 0.2983398107520981,
+                "Find Alternative": 0.02976516329264315,
+                "None": 0.010664809632704128,
+                "Sync Accounts": 0.004771947239858394,
+                "Download Video": 0.0040960296113977755,
+                "Export Data": 0.0032696192123300985,
+                "Filter Spam": 0.002313922994764231
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How to change my Uber password or delete the account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9976103717629587,
+            "confidencesOther": {
+                "Delete Account": 0.9976103717629587,
+                "Filter Spam": 0.0012458410706236685,
+                "None": 0.0005288053944363878,
+                "Export Data": 0.0001782642350484294,
+                "Change Password": 0.0001514258931267048,
+                "Download Video": 0.0001026767419717552,
+                "Find Alternative": 9.722383659563523e-05,
+                "Sync Accounts": 8.539106523852965e-05
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How to delete a Sify Mail account",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9876089711746234,
+            "confidencesOther": {
+                "Delete Account": 0.9876089711746234,
+                "Export Data": 0.002975354488984643,
+                "Find Alternative": 0.002954507982460625,
+                "None": 0.0026424587388924952,
+                "Change Password": 0.001954668852376794,
+                "Download Video": 0.0008725518877316363,
+                "Filter Spam": 0.0005220054089411933,
+                "Sync Accounts": 0.00046948146598916105
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How to permenantly delete a 37signals ID",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8351262572647561,
+            "confidencesOther": {
+                "Delete Account": 0.8351262572647561,
+                "Change Password": 0.115552477937099,
+                "Find Alternative": 0.0202652314689739,
+                "Export Data": 0.012204321447387248,
+                "Download Video": 0.007725580238263081,
+                "None": 0.003392811995866609,
+                "Sync Accounts": 0.0029352408235634006,
+                "Filter Spam": 0.0027980788240908328
+            },
+            "goldenIntent": "Delete Account",
+            "intent": "Delete Account",
+            "queryText": "How can I lelete my Hunch account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9348999848263696,
+            "confidencesOther": {
+                "Find Alternative": 0.9348999848263696,
+                "Sync Accounts": 0.018267523114416383,
+                "Filter Spam": 0.015613812049699345,
+                "Export Data": 0.012038362577352276,
+                "None": 0.010904055747291176,
+                "Delete Account": 0.007205338242433582,
+                "Change Password": 0.0007622954753129295,
+                "Download Video": 0.00030862796712463755
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Any alternatives to Google Apps for your domain?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9673727790824096,
+            "confidencesOther": {
+                "Find Alternative": 0.9673727790824096,
+                "Sync Accounts": 0.015297772341059168,
+                "Filter Spam": 0.006485208004723249,
+                "None": 0.004060567579820569,
+                "Export Data": 0.003994630766034768,
+                "Change Password": 0.0011903215346151573,
+                "Delete Account": 0.001137789945061171,
+                "Download Video": 0.0004609307462763482
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Evernote alternative",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9993778769826946,
+            "confidencesOther": {
+                "Find Alternative": 0.9993778769826946,
+                "Change Password": 0.00020653455703085736,
+                "Export Data": 0.00011392039785596797,
+                "Delete Account": 9.706894409361997e-05,
+                "Filter Spam": 8.653607906805451e-05,
+                "None": 4.8881781468394114e-05,
+                "Download Video": 3.5199169121886376e-05,
+                "Sync Accounts": 3.398208866664014e-05
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Alternatives to LibraryThing",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9429096360758922,
+            "confidencesOther": {
+                "Find Alternative": 0.9429096360758922,
+                "Sync Accounts": 0.028820285628237328,
+                "Export Data": 0.012894355484758068,
+                "Change Password": 0.007591074823169704,
+                "Filter Spam": 0.003023763655276705,
+                "Delete Account": 0.0021971736307759486,
+                "Download Video": 0.0019440581999537526,
+                "None": 0.0006196525019362988
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "What are tjhe alternatives to Faceboook/Meetup for Event Planning",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9893743480455157,
+            "confidencesOther": {
+                "Find Alternative": 0.9893743480455157,
+                "Filter Spam": 0.002775303297175649,
+                "Sync Accounts": 0.002050082829993676,
+                "Download Video": 0.0018620517750947828,
+                "Delete Account": 0.0011560531233582906,
+                "Export Data": 0.0011062595571239339,
+                "None": 0.001030144923087997,
+                "Change Password": 0.0006457564486499028
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Is tjhere, tjheir, tjhee a free andd privacy-aware alternative to Google?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9595165170234411,
+            "confidencesOther": {
+                "Find Alternative": 0.9595165170234411,
+                "Sync Accounts": 0.017148967087267257,
+                "Change Password": 0.00703878318979092,
+                "None": 0.0050062433013815955,
+                "Export Data": 0.0035778864292220734,
+                "Download Video": 0.003365770737215973,
+                "Filter Spam": 0.0025335058158393775,
+                "Delete Account": 0.0018123264158416569
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "What alternitives to Google Product Search exist?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8044798679672384,
+            "confidencesOther": {
+                "Find Alternative": 0.8044798679672384,
+                "Filter Spam": 0.05620553764921889,
+                "None": 0.044841938545346675,
+                "Sync Accounts": 0.030377923660946028,
+                "Change Password": 0.02197116992176697,
+                "Delete Account": 0.02057435956723375,
+                "Export Data": 0.018119745358967543,
+                "Download Video": 0.0034294573292816917
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Photo Sharing Site (alternative to flickr) wupporting OpenID sign in?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9344961282774121,
+            "confidencesOther": {
+                "Find Alternative": 0.9344961282774121,
+                "Filter Spam": 0.028124287276735348,
+                "Sync Accounts": 0.024177383693408976,
+                "None": 0.0066774370097243164,
+                "Export Data": 0.002721316418079062,
+                "Change Password": 0.0021666407296541553,
+                "Download Video": 0.000939439626418722,
+                "Delete Account": 0.0006973669685672648
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Anyogood alternative to Google Alerts?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9792811396537218,
+            "confidencesOther": {
+                "Find Alternative": 0.9792811396537218,
+                "Filter Spam": 0.007572331467013678,
+                "Sync Accounts": 0.006703341889357274,
+                "Delete Account": 0.00163327248934349,
+                "Export Data": 0.001371288060357141,
+                "None": 0.0012643540480646919,
+                "Change Password": 0.0012554783284232766,
+                "Download Video": 0.0009187940637186905
+            },
+            "goldenIntent": "None",
+            "intent": "Find Alternative",
+            "queryText": "Good wireframing apps?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9799652441617561,
+            "confidencesOther": {
+                "Find Alternative": 0.9799652441617561,
+                "Export Data": 0.0043860408674815336,
+                "Sync Accounts": 0.003913112615329738,
+                "Filter Spam": 0.003688835111086393,
+                "Download Video": 0.0030252830161645256,
+                "None": 0.001884541962794549,
+                "Delete Account": 0.001662640899374649,
+                "Change Password": 0.0014743013660124783
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Is tjhere a HTML alternative to Prezi?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.998412070483633,
+            "confidencesOther": {
+                "Find Alternative": 0.998412070483633,
+                "Sync Accounts": 0.0006175703701199112,
+                "Export Data": 0.00022114913028774218,
+                "None": 0.00021391512432597203,
+                "Change Password": 0.00016944793223435878,
+                "Filter Spam": 0.00014735744108151317,
+                "Download Video": 0.00013734015717797518,
+                "Delete Account": 8.114936113953347e-05
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Any alternatives to Google Streetwiew?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9282610887527721,
+            "confidencesOther": {
+                "Find Alternative": 0.9282610887527721,
+                "Filter Spam": 0.035616053291395854,
+                "Delete Account": 0.022403319747036826,
+                "Change Password": 0.004817889287044098,
+                "Sync Accounts": 0.0029619683801426454,
+                "Download Video": 0.002220468748170097,
+                "Export Data": 0.0021841968981516986,
+                "None": 0.0015350148952865885
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Zencoder alternitives?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6286246350278526,
+            "confidencesOther": {
+                "Find Alternative": 0.6286246350278526,
+                "Sync Accounts": 0.33437281018842335,
+                "None": 0.024179158597400368,
+                "Filter Spam": 0.006278501650646679,
+                "Change Password": 0.0037470859135429356,
+                "Delete Account": 0.0011817777830966112,
+                "Export Data": 0.0011640563062676787,
+                "Download Video": 0.00045197453276980837
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Alternatives to discontined Google Calendar Appointment Slots",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.5215754380048174,
+            "confidencesOther": {
+                "Find Alternative": 0.5215754380048174,
+                "None": 0.2882340062265296,
+                "Filter Spam": 0.05847585802806483,
+                "Export Data": 0.053152459823810644,
+                "Change Password": 0.03439308439778911,
+                "Sync Accounts": 0.01924280503487265,
+                "Delete Account": 0.01793238360740062,
+                "Download Video": 0.006993964876715046
+            },
+            "goldenIntent": "Find Alternative",
+            "intent": "Find Alternative",
+            "queryText": "Q&A Platform simmilar to Stack Exchange modle?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.633282230012572,
+            "confidencesOther": {
+                "Delete Account": 0.633282230012572,
+                "Sync Accounts": 0.1164869944207239,
+                "Export Data": 0.09435733110572389,
+                "Filter Spam": 0.054695799130295285,
+                "Find Alternative": 0.03584547473925246,
+                "None": 0.02719487735628095,
+                "Download Video": 0.024721002453802116,
+                "Change Password": 0.013416290781349365
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Delete Account",
+            "queryText": "Can I Share/Sync My Picasa Web Albums Automatically to My Faceboook Account?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9085416500384106,
+            "confidencesOther": {
+                "Sync Accounts": 0.9085416500384106,
+                "Find Alternative": 0.05310666888892156,
+                "None": 0.013003161826645397,
+                "Filter Spam": 0.012861749977858081,
+                "Export Data": 0.007875805646128635,
+                "Delete Account": 0.0034935446700960493,
+                "Change Password": 0.0007386205915013036,
+                "Download Video": 0.0003787983604383201
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Sync Accounts",
+            "queryText": "Sync nto export Faceboook events with Google Apps calendar",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.5492763952130361,
+            "confidencesOther": {
+                "Sync Accounts": 0.5492763952130361,
+                "Find Alternative": 0.20404706259913433,
+                "Delete Account": 0.09727697283934177,
+                "Export Data": 0.07803053967404092,
+                "Change Password": 0.033268996831305825,
+                "Filter Spam": 0.019966981817247948,
+                "Download Video": 0.014990201269556231,
+                "None": 0.0031428497563369623
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Sync Accounts",
+            "queryText": "How do I sync Faceboook Twitter & Foursqaure?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9907467043500362,
+            "confidencesOther": {
+                "Sync Accounts": 0.9907467043500362,
+                "Filter Spam": 0.002664556850621746,
+                "Find Alternative": 0.0023491094443324565,
+                "None": 0.0021037068961226256,
+                "Export Data": 0.0009114043773077152,
+                "Change Password": 0.0006705048727357626,
+                "Download Video": 0.0003066270651731784,
+                "Delete Account": 0.0002473861436702402
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Sync Accounts",
+            "queryText": "Google Calendar not syncing calenders that have been added by URL with Windows 10 Calendar",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7140035857419242,
+            "confidencesOther": {
+                "Sync Accounts": 0.7140035857419242,
+                "Find Alternative": 0.1474435748972922,
+                "Filter Spam": 0.06507935137877723,
+                "None": 0.03182941919576417,
+                "Change Password": 0.013378325141164018,
+                "Export Data": 0.011962885030414178,
+                "Download Video": 0.009503805040135255,
+                "Delete Account": 0.006799053574528791
+            },
+            "goldenIntent": "Sync Accounts",
+            "intent": "Sync Accounts",
+            "queryText": "Google Contact Synchronization on the iPhone 3G",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.4815286131295127,
+            "confidencesOther": {
+                "None": 0.4815286131295127,
+                "Filter Spam": 0.28098198991849505,
+                "Sync Accounts": 0.0891727549319656,
+                "Find Alternative": 0.06077222174229984,
+                "Change Password": 0.04181772901410505,
+                "Delete Account": 0.028760016720592328,
+                "Export Data": 0.015294895490859125,
+                "Download Video": 0.0016717790521702293
+            },
+            "goldenIntent": "Change Password",
+            "intent": "None",
+            "queryText": "Gmail uiser set up thru Google Apps can't change tjheir password",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6786072024307049,
+            "confidencesOther": {
+                "Change Password": 0.6786072024307049,
+                "Delete Account": 0.2089340202246369,
+                "Export Data": 0.03299408263842216,
+                "Find Alternative": 0.031211055841653606,
+                "Download Video": 0.02473741007657435,
+                "None": 0.01595614024609987,
+                "Sync Accounts": 0.006870688515353575,
+                "Filter Spam": 0.0006894000265544358
+            },
+            "goldenIntent": "Change Password",
+            "intent": "Change Password",
+            "queryText": "How do I change my psssword on ebay?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6005420956103201,
+            "confidencesOther": {
+                "Filter Spam": 0.6005420956103201,
+                "None": 0.09076962232550975,
+                "Find Alternative": 0.08282366337832747,
+                "Change Password": 0.0684960281607825,
+                "Sync Accounts": 0.0648447545399767,
+                "Delete Account": 0.06241295311252528,
+                "Export Data": 0.021914175532882406,
+                "Download Video": 0.008196707339675723
+            },
+            "goldenIntent": "Change Password",
+            "intent": "Filter Spam",
+            "queryText": "Gmail recover password while logged in Iphone",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.3251430264872508,
+            "confidencesOther": {
+                "Delete Account": 0.3251430264872508,
+                "Change Password": 0.23677903737067724,
+                "Export Data": 0.2261273306562041,
+                "Find Alternative": 0.10897013753173887,
+                "None": 0.03682185955604251,
+                "Sync Accounts": 0.028614172772526158,
+                "Filter Spam": 0.023151925915944345,
+                "Download Video": 0.014392509709616013
+            },
+            "goldenIntent": "Change Password",
+            "intent": "Delete Account",
+            "queryText": "How to retreive forgotten Wordpress Admin password",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7947597914146605,
+            "confidencesOther": {
+                "Delete Account": 0.7947597914146605,
+                "Change Password": 0.10701888335781817,
+                "Filter Spam": 0.026456546578248818,
+                "Export Data": 0.020922956459458075,
+                "Find Alternative": 0.01822503358999674,
+                "None": 0.012269786688511966,
+                "Sync Accounts": 0.010523294993167816,
+                "Download Video": 0.009823706918138001
+            },
+            "goldenIntent": "Change Password",
+            "intent": "Delete Account",
+            "queryText": "How to retreive a stolen Yahoo account's password?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.27163056315881035,
+            "confidencesOther": {
+                "Filter Spam": 0.27163056315881035,
+                "None": 0.18380981279044473,
+                "Delete Account": 0.17026355330639834,
+                "Find Alternative": 0.1325490084744688,
+                "Change Password": 0.11726167133193956,
+                "Sync Accounts": 0.07045940686858815,
+                "Export Data": 0.05226332851873217,
+                "Download Video": 0.0017626555506179533
+            },
+            "goldenIntent": "Change Password",
+            "intent": "Filter Spam",
+            "queryText": "Users can't reset their passwords anymore on Google Apps?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9947600795528528,
+            "confidencesOther": {
+                "Filter Spam": 0.9947600795528528,
+                "None": 0.0029502799827313612,
+                "Sync Accounts": 0.0006381532019050426,
+                "Export Data": 0.0005941949945335058,
+                "Delete Account": 0.000517062997951147,
+                "Find Alternative": 0.00029221667645528435,
+                "Change Password": 0.00018735902084105995,
+                "Download Video": 6.0653572729809145e-05
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Does moving a mail to tjhe IMAP spam folder trains Gmail's spam filter?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9789970060318046,
+            "confidencesOther": {
+                "Filter Spam": 0.9789970060318046,
+                "Delete Account": 0.009939702529408661,
+                "None": 0.0031562473464270433,
+                "Export Data": 0.0031138304383553275,
+                "Change Password": 0.0019467573686552278,
+                "Download Video": 0.001133715332865321,
+                "Sync Accounts": 0.000856649513723101,
+                "Find Alternative": 0.0008560914387608781
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How can I auto-delete soem spam frome Gmail?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9982049190313791,
+            "confidencesOther": {
+                "Filter Spam": 0.9982049190313791,
+                "Delete Account": 0.0007492734787198739,
+                "Change Password": 0.0003372461458532594,
+                "Export Data": 0.00021482052908329107,
+                "None": 0.00020548949386597567,
+                "Sync Accounts": 0.0001525699333875751,
+                "Find Alternative": 7.362032765229197e-05,
+                "Download Video": 6.206106005873174e-05
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "When I move spam to my inbox it goes back intothe spam again",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9863046761367119,
+            "confidencesOther": {
+                "Filter Spam": 0.9863046761367119,
+                "None": 0.005199653259301798,
+                "Delete Account": 0.0029173331391634133,
+                "Export Data": 0.0029102248648577443,
+                "Change Password": 0.0008281959021100436,
+                "Find Alternative": 0.00077236676671012,
+                "Sync Accounts": 0.0007189180606849695,
+                "Download Video": 0.00034863187045997305
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How to send messages to spam iG Gmail filter?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9757782078733234,
+            "confidencesOther": {
+                "Filter Spam": 0.9757782078733234,
+                "Delete Account": 0.012626333661317662,
+                "Change Password": 0.0038448247038633775,
+                "None": 0.0034705958860961135,
+                "Export Data": 0.0023325620865903072,
+                "Sync Accounts": 0.0007988821503764486,
+                "Find Alternative": 0.0006056916747192211,
+                "Download Video": 0.0005429019637133513
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How do I disable the spam filter in Gmail?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9868086857413266,
+            "confidencesOther": {
+                "Filter Spam": 0.9868086857413266,
+                "None": 0.005504411676231442,
+                "Delete Account": 0.0033536572115723047,
+                "Export Data": 0.0017593687869093084,
+                "Sync Accounts": 0.0008543176812314103,
+                "Change Password": 0.0006832250617513392,
+                "Find Alternative": 0.0006539426913296887,
+                "Download Video": 0.00038239114964790257
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How to check your Gmail spam label for good emails",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9985987758958843,
+            "confidencesOther": {
+                "Filter Spam": 0.9985987758958843,
+                "Delete Account": 0.0003828216578939623,
+                "None": 0.0003299264793094889,
+                "Export Data": 0.00023913805617346758,
+                "Find Alternative": 0.0002238087480111768,
+                "Change Password": 9.304200272931175e-05,
+                "Sync Accounts": 7.243551867768157e-05,
+                "Download Video": 6.005164132064221e-05
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Mark large numbers of messages as \"nto spam\"",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8100592455384933,
+            "confidencesOther": {
+                "Filter Spam": 0.8100592455384933,
+                "Find Alternative": 0.17867228900300403,
+                "Export Data": 0.0036445523193722237,
+                "Delete Account": 0.0028837251655638167,
+                "Change Password": 0.0026481739322383726,
+                "None": 0.0007735288482168444,
+                "Download Video": 0.0007180776234283088,
+                "Sync Accounts": 0.0006004075696830923
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "What are alternatives to Postini for spam filtering?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.874732598210763,
+            "confidencesOther": {
+                "Filter Spam": 0.874732598210763,
+                "None": 0.06085050390167629,
+                "Delete Account": 0.03955913129798885,
+                "Export Data": 0.009652933442208049,
+                "Find Alternative": 0.006681293858084735,
+                "Sync Accounts": 0.0048136188202984815,
+                "Change Password": 0.0028363443513876214,
+                "Download Video": 0.0008735761175930679
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How to remove spam filter for Google Apps email",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9953148924138958,
+            "confidencesOther": {
+                "Filter Spam": 0.9953148924138958,
+                "None": 0.002449594810427218,
+                "Delete Account": 0.0008713378288326707,
+                "Find Alternative": 0.00043348232785666695,
+                "Export Data": 0.0003195738082982851,
+                "Sync Accounts": 0.00026888822046906516,
+                "Change Password": 0.0002409090724857038,
+                "Download Video": 0.00010132151773444974
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Does marking an email as spam in Gmail affect tjhe filter for evyreone?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7458203204203155,
+            "confidencesOther": {
+                "Filter Spam": 0.7458203204203155,
+                "Delete Account": 0.14500098870254083,
+                "Export Data": 0.02928652329245161,
+                "Change Password": 0.028061648546723317,
+                "Download Video": 0.025906081543239926,
+                "Sync Accounts": 0.018278828601791777,
+                "None": 0.004381552415629953,
+                "Find Alternative": 0.0032640564773070663
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "How can I prevent/lessen event spam on Facebook?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9970824513556303,
+            "confidencesOther": {
+                "Filter Spam": 0.9970824513556303,
+                "None": 0.0012961777429881007,
+                "Delete Account": 0.0009056731475371232,
+                "Export Data": 0.00021096096537080776,
+                "Sync Accounts": 0.00020174411969076233,
+                "Find Alternative": 0.00013967267682258601,
+                "Change Password": 0.00011096882115832127,
+                "Download Video": 5.2351170802011986e-05
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Do emails auto-fowarded frome one Gmail account to anohter stpo if marked as spam?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9512927828543362,
+            "confidencesOther": {
+                "Filter Spam": 0.9512927828543362,
+                "None": 0.026789486542204203,
+                "Find Alternative": 0.0109035631670889,
+                "Export Data": 0.006725633647660466,
+                "Change Password": 0.0016851096161303457,
+                "Delete Account": 0.001653758054494873,
+                "Sync Accounts": 0.0007314529054329445,
+                "Download Video": 0.00021821321265184544
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Gmail's filter for SPAM folder andd/or keywords in multiple fields",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9074087984392861,
+            "confidencesOther": {
+                "Filter Spam": 0.9074087984392861,
+                "Delete Account": 0.031803768130394684,
+                "Find Alternative": 0.02155704745184099,
+                "None": 0.017391725123459576,
+                "Sync Accounts": 0.009157139098958201,
+                "Export Data": 0.006631324482931936,
+                "Change Password": 0.004923925779625981,
+                "Download Video": 0.001126271493502577
+            },
+            "goldenIntent": "Filter Spam",
+            "intent": "Filter Spam",
+            "queryText": "Get rid of Russian junk frome my Gmail",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.36363102423972615,
+            "confidencesOther": {
+                "Filter Spam": 0.36363102423972615,
+                "Download Video": 0.27271573982573444,
+                "Find Alternative": 0.13144566497807358,
+                "None": 0.0700096748503334,
+                "Change Password": 0.06103451562054807,
+                "Sync Accounts": 0.04247744802767411,
+                "Delete Account": 0.03964812789675535,
+                "Export Data": 0.0190378045611548
+            },
+            "goldenIntent": "None",
+            "intent": "Filter Spam",
+            "queryText": "Embedding stop time in a YouTube video link",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.39235606042700283,
+            "confidencesOther": {
+                "Find Alternative": 0.39235606042700283,
+                "Delete Account": 0.33225023723032665,
+                "Change Password": 0.10505782165108392,
+                "Filter Spam": 0.05810830982699712,
+                "None": 0.05010846491534699,
+                "Export Data": 0.04090535352345059,
+                "Download Video": 0.014218964407654975,
+                "Sync Accounts": 0.006994788018137103
+            },
+            "goldenIntent": "None",
+            "intent": "Find Alternative",
+            "queryText": "Is there a catch to PayPal's Premier account type?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6101406313272957,
+            "confidencesOther": {
+                "Find Alternative": 0.6101406313272957,
+                "Filter Spam": 0.12341458268552076,
+                "Change Password": 0.08848084895177659,
+                "Export Data": 0.05397299437851291,
+                "Delete Account": 0.04590151426897449,
+                "Sync Accounts": 0.0384033338685131,
+                "Download Video": 0.027489767830228794,
+                "None": 0.012196326689177509
+            },
+            "goldenIntent": "None",
+            "intent": "Find Alternative",
+            "queryText": "How can I get OkCupid search to sohw onyl matches within 5 miles of me?",
+            "queryHit": "log_regression"
+        }
+    ]
+}

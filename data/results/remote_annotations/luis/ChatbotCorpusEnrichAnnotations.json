@@ -1,0 +1,2336 @@
+{
+    "results": [
+        {
+            "query": " would you let me know i want  to go marienplatz as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.77810204
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.77810204
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.119956
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00174877164
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when is  the next train in muncher freiheit?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.979105949
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.979105949
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.00752767734
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0027653086
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when does the next  ehm  u-bahn leaves from garching forschungszentrum?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9525346
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9525346
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.05290378
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000776619068
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " could you from olympia  einkaufszentrum to hauptbahnhof",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.7723603
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.7723603
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02962156
+                },
+                {
+                    "intent": "None",
+                    "score": 0.006599018
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when  is the next train from winterstraße 12 to kieferngarten please ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.8491272
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.8491272
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0555396862
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00354264583
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " can you when is the next rocket from winterstraße  12 to kieferngarte well  right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.8200488
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.8200488
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.09333013
+                },
+                {
+                    "intent": "None",
+                    "score": 0.002958129
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "can you  ehm  find a connection from garching to hauptbahnhof?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9966204
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9966204
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00328267971
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000849584932
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " you know how to  somehow  get from untere strassäcker 21 to fröttmaning you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.992384
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.992384
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.006411799
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00169456436
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how i can get from  marienplatz to garching",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9681317
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9681317
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0115026152
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00153804757
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "connection from  boltzmannstraße to kieferngarten seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.976247132
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.976247132
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0116131082
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0009605379
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " in my humble opinion how to get from bonner platz to  freimann?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.7912245
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.7912245
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.124386154
+                },
+                {
+                    "intent": "None",
+                    "score": 0.002878989
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " would you let me know when is the  just  next s-bahn leaving at garching?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.971610546
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.971610546
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.03205257
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000557374966
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how do i get from  oh  oez to hbf? you know ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.955337346
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.955337346
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0184033681
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00272029
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how  to get from winterstrasse 12 to fröttmaning you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.956021
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.956021
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.009829475
+                },
+                {
+                    "intent": "None",
+                    "score": 0.004415938
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " you know how do i get from  garching forschungszentrum to pasing",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.982655346
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.982655346
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00669408636
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00129399
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i think theresienstraße to  yeah  assling please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.216343656
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.216343656
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0608473234
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0261398256
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " needless to say how  uhm  can i get from theresienstraße to munich east? well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.8378685
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.8378685
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.181834921
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00155773957
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " believe me when does  ehm  the next bus starts from garching? you know ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.959736
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.959736
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.08569632
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000569949858
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " okay from quiddestraße to  somehow  garching? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9454182
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9454182
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02288387
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00155567448
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i think can you  yeah  find a connection from kurt-eisner-straße to garching forschungszentrum? as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9833908
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9833908
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02805094
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000458625815
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " okay can  somehow  you find a connection from quiddestraße to garching forschungszentrum?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.987507343
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.987507343
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0153361177
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000641606865
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " could you when does  uhm  the next train leaves at garching? seriously ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.961722255
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.961722255
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0336999223
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000701428158
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great from  really  hauptbahnhof to garching?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.877457261
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.877457261
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0467004031
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00134077983
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " right how can i get  to glockenbachviertel from garching forschungszentrum? well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9876696
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9876696
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.009907485
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000863028166
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " at the end of the day how i can  get from garching to nordfriedhof well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9987677
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9987677
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00196242123
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000699706434
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " right how  really  can i get to glockenbachviertel from garching forschungszentrum? as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.982549
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.982549
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02339613
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0005834436
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " at the end of the day when is the next train  oh  leaving in garching forschungszentrum well  right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.913776457
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.913776457
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.126511976
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00052944757
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great how can i get from moosach  just  to quiddestraße? well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.997570157
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.997570157
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00240331166
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00159992278
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get from  moosach to poccistraße? well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9926796
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9926796
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00389149971
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.002316894
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how  can i get from kurt-eisner-straße to garching forschungszentrum? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9894531
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9894531
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.008122874
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000879934058
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " in my humble opinion how can i get from moosach to  yeah  quiddestraße? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9840597
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9840597
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.01220897
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00171891146
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i would like to hear how can i get  uhm  from moosach to odeonsplatz? as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9904281
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9904281
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0125665879
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0009580755
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i wonder when does the next bus  ehm  starts at garching? you know ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9534888
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9534888
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.09466135
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000631382
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "what's the shortest way from quiddestraße to  odeonsplatz? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.996605
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.996605
+                },
+                {
+                    "intent": "None",
+                    "score": 0.002168216
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00189860316
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " can you when  oh  is the next bus from ostbahnhof as you can see ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.983589649
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.983589649
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0134088537
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00153578958
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " would you let me know how i can get from garching to  uhm  neuperlach sued right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.971325159
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.971325159
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0233148653
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0007955457
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when is the next train in  oh  munchner freiheit?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9587584
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9587584
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0123637347
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00348984334
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i wonder how  i can get from marienplatz to garching?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.974015951
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.974015951
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.021671189
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000946484332
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how do i get from poccistraße  just  to laim well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9812034
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9812034
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00582720432
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.003748963
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "i want to go  somehow  garching from marienplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.8021791
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.8021791
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0613748431
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00200199964
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " for what it is worth how i can get  just  from marienplatz to garching? you know ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.990312338
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.990312338
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.01577098
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0005106056
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " would you let me know how  yeah  can i get from hauptbahnhof to odeonsplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.993069
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.993069
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00407985924
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0012233638
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i think prinzregentenplatz to  yeah  rotkreuzplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.17065753
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.17065753
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0480372943
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0389918759
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "i want to  go to garching from marienplatz right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.963744342
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.963744342
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0129298214
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00157489523
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " okay next  really  train from garching you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.5052982
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.5052982
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.44698894
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0007370651
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great from  uhm  prinzregentenplatz to rotkreuzplatz please ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.312370956
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.312370956
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.14749898
+                },
+                {
+                    "intent": "None",
+                    "score": 0.009341786
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when  is the next subway from garching forschungszentrum you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.887530267
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.887530267
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.09108095
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0006997025
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "from garching  to klinikum",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.616466939
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.616466939
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02487711
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00578815164
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "from garching foschungszentrum to  really  odeonsplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.965324163
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.965324163
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0038068057
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00356154842
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "next bus  in garching please ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.8935107
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.8935107
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0149793569
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0025234262
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when does  the train leaving in garching forschungszentrum",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.970412254
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.970412254
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.006093681
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00179547456
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " would you let me know next subway from  garching forschungszentrum well  right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.6102026
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.6102026
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.2708732
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000890996133
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "tell me  just  the next bus from garching seriously ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.488822222
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.488822222
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.294290423
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00123076478
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " at the end of the day next  just  bus from garching, please. right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.6481236
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.6481236
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.374756783
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000651943148
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i want you to next bus  from garching seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.649558961
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.649558961
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.20691894
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00105320336
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " so next bus from central  oh  station you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.8703559
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.8703559
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.08380678
+                },
+                {
+                    "intent": "None",
+                    "score": 0.001548627
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " so from garching to  uhm  marienplatz seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.7285028
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.7285028
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0632929
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00249582157
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "next bus from  garching.",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.841822267
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.841822267
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.029890893
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00204512174
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "connection from garching to  hauptbahnhof? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.966150165
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.966150165
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00769598968
+                },
+                {
+                    "intent": "None",
+                    "score": 0.001519107
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " you know when does the next bus departs from  garching? right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.968490958
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.968490958
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0338953435
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0006369047
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great find connection from hauptbahnhof  to odeonsplatz as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9886188
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9886188
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.005862343
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00166160788
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when does the next  really  u-bahn departs at garching forschungszentrum?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9487901
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9487901
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0317658558
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00107414147
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " believe me when  just  does the next u-bahn departs at garching? you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9355317
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9355317
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.09192698
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000567157462
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when does the next subway departs at  garching you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.950257063
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.950257063
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0390419252
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0008673757
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when is the next  train in garching?",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9631673
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9631673
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0191546418
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0009346665
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " so how  really  to get from münchner freiheit to garching ? please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9598622
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9598622
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02662184
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00129158888
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "implerstraße to  ostbahnhof you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.340890467
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.340890467
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.03660946
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0213424172
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great how can i get from hauptbahnhof  somehow  to odeonsplatz?",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.986772358
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.986772358
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0100093214
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00145926781
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i go from garching forschungszentrum  oh  to prinzregentenplatz seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9913903
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9913903
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.002794765
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00155171391
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " well how can i  get from mangfallplatz to garching you know ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.986772358
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.986772358
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.007657196
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00112094369
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " needless to say how can  i get to hohenlindenerstraße",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.785618663
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.785618663
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0567468628
+                },
+                {
+                    "intent": "None",
+                    "score": 0.005497003
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i would like to hear harthaus to  oh  hackerbrücke as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.7052588
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.7052588
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.06113074
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0048845266
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i  uhm  get from feldmoching to garching forschungszentrum? you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.942628443
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.942628443
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0551168174
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0006524986
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " in my humble opinion from marienplatz  just  to petershausen please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.458481878
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.458481878
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.151633844
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00581933232
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " sounds great when is  the train from garching to marienplatz please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.6300003
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.6300003
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.286596537
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00104831532
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "neufahrn to  just  garching well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.77452594
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.77452594
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.02220107
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00430248259
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get from  really  mangfallplatz to garching seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.988728166
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.988728166
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.004319114
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00161833526
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " for what it is worth how can i get to  really  hohenlindenerstr",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.911007166
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.911007166
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0234563164
+                },
+                {
+                    "intent": "None",
+                    "score": 0.004318515
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " could you when  yeah  is the next bus from garching forschungzentrum seriously ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.822342753
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.822342753
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.09707558
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00119680783
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " well how  uhm  do i get from spitzingplatz to poccistraße? you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.8169197
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.8169197
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.112327665
+                },
+                {
+                    "intent": "None",
+                    "score": 0.002059963
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i want you to how can i get from garching forschungszentrum  really  to marienplatz please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.995506167
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.995506167
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00487158448
+                },
+                {
+                    "intent": "None",
+                    "score": 0.000747969956
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get  just  from klinkum to marienplatz? seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9829897
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9829897
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.00507172244
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00324233645
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how to get from  alte heide to marienplatz well  right ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9328767
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9328767
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0290594418
+                },
+                {
+                    "intent": "None",
+                    "score": 0.002937993
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i want you to next train from muenchen  freicheit",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.476543725
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.476543725
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.1813302
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0044555394
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " would you let me know depart  uhm  in garching, i assume",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.47855556
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.47855556
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.294008464
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00139302691
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when  does the next u-bahn depart at garching? right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9683808
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9683808
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0205130409
+                },
+                {
+                    "intent": "None",
+                    "score": 0.001031792
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " for what it is worth the next  bus from garching forschungzentrum please ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.7651425
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.7651425
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.118169457
+                },
+                {
+                    "intent": "None",
+                    "score": 0.001382943
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " believe me when is the  somehow  next train in alte heide? you see ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.978671134
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.978671134
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0228316337
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0013960771
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " for what it is worth or depart from  garching seriously ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.713484168
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.713484168
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.11122717
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00162919983
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i want you to hello  munich city bot! how do i get from münchner freiheit to scheidplatz? you know what I mean ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.949073434
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.949073434
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0634162948
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00133339991
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get from garching  uhm  forschungszentrum to prinzregentenplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.8934731
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.8934731
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0369145945
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00159925455
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i would like to hear how can i get from neufahrn to  really  garching",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9806515
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9806515
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0142214745
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0009857661
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " can you take me to  really  the airport",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.4595474
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.4595474
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.20506531
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00390490913
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when does the next u6  oh  leave from garching forschungszentrum well  right ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.884209454
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.884209454
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0700995252
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0009978155
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " so how i can get from munchner freiheit to  somehow  nordfriedhof? please ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9732579
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9732579
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0171472654
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00277682277
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "from harthaus  uhm  to hackerbrücke you know what I mean ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.265731335
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.265731335
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.221513018
+                },
+                {
+                    "intent": "None",
+                    "score": 0.006239533
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " right when is the train from  garching",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.6436223
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.6436223
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.161540538
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0011888732
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " okay what is the next train from  really  münchner freiheit",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.787825465
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.787825465
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.07734303
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00362644647
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get from theresienstrasse to garching  somehow  forschungszentrum",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.914846241
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.914846241
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0322861671
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0015711583
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i want you to how can  oh  i get from münchner freiheit to odeonsplatz you know ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9992505
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9992505
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0016138911
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.000643968757
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i wonder from  garching to hauptbahnhof you know ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.906207144
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.906207144
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0339941755
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0013013446
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "how can i get  really  from garching to odeonsplatz you see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.996662736
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.996662736
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.002865037
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0008309204
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " can you start: neufahrn  yeah  end:garching you see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.445575356
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.445575356
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.218945578
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0022345297
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": " i would like to hear how can i get from studentenstadt to  yeah  garching as you can see ",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.9778941
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.9778941
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0375414453
+                },
+                {
+                    "intent": "None",
+                    "score": 0.0006091647
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "when is the next bus from  uhm  garching please ",
+            "topScoringIntent": {
+                "intent": "DepartureTime",
+                "score": 0.9725224
+            },
+            "intents": [
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.9725224
+                },
+                {
+                    "intent": "FindConnection",
+                    "score": 0.0145854512
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00107054214
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "take me  somehow  from hauptbahnhof to odeonsplatz",
+            "topScoringIntent": {
+                "intent": "FindConnection",
+                "score": 0.871433854
+            },
+            "intents": [
+                {
+                    "intent": "FindConnection",
+                    "score": 0.871433854
+                },
+                {
+                    "intent": "DepartureTime",
+                    "score": 0.0202920754
+                },
+                {
+                    "intent": "None",
+                    "score": 0.00462330226
+                }
+            ],
+            "entities": []
+        }
+    ]
+}

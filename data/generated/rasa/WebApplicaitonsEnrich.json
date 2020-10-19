@@ -1,0 +1,224 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Change Password",
+      "features": []
+    },
+    {
+      "name": "Delete Account",
+      "features": []
+    },
+    {
+      "name": "Download Video",
+      "features": []
+    },
+    {
+      "name": "Export Data",
+      "features": []
+    },
+    {
+      "name": "Filter Spam",
+      "features": []
+    },
+    {
+      "name": "Find Alternative",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "Sync Accounts",
+      "features": []
+    }
+  ],
+  "entities": [
+    {
+      "name": "Browser",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "OperatingSystem",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "WebService",
+      "children": [],
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "alternatives for google reader (with somehow android synchronizing) right",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "alternatives somehow to google groups with more features? please",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day how to disable/delete a harvest account? you see",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "basically are there any oh good veoh or youtube alternatives? well right",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "basically does using gmail's \"never send it to spam\" filter mean i can't train their spam just filter?",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "believe me bugmenot (registration yeah bypasser) alternative that doesn't suck?",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "believe me how do i delete my uhm linkedin account?",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "can you correctly really identifying spam messages",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "can you mint alternatives for somehow canada",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "could you totally blocking spam to gmail account you see",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "google bookmarks and chrome bookmark sync -- different?",
+      "intent": "Sync Accounts",
+      "entities": []
+    },
+    {
+      "text": "how can i export track.scrobble data from last.fm? as you can see",
+      "intent": "Export Data",
+      "entities": []
+    },
+    {
+      "text": "how do i delete my gmail account?",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "how do i download a ehm youtube video? seriously",
+      "intent": "Download Video",
+      "entities": []
+    },
+    {
+      "text": "how do i yeah change my password on tv tropes? well right",
+      "intent": "Change Password",
+      "entities": []
+    },
+    {
+      "text": "i wonder email yeah google form daily? seriously",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear google really search engine alternatives please",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear how can i permanently delete my myspace account? you know what i mean",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "in my humble opinion discarding spam mail faster in gmail you see",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "in my humble opinion why can't somehow i change my password and login with skype? well right",
+      "intent": "Change Password",
+      "entities": []
+    },
+    {
+      "text": "okay how do i sync my runkeeper workout schedule with google calender? as you can see",
+      "intent": "Sync Accounts",
+      "entities": []
+    },
+    {
+      "text": "right how uhm can i sync my yahoo! calendar with google calendar?",
+      "intent": "Sync Accounts",
+      "entities": []
+    },
+    {
+      "text": "sounds great twitter and echofon ehm spam right",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "stopping spam emails in gmail by pattern please",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "well how can i delete my twitter account? you know",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "well how do i delete yeah my ohloh profile? you know",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "well how uhm can i backup my wordpress.com hosted blog? you know",
+      "intent": "Export Data",
+      "entities": []
+    },
+    {
+      "text": "you know alternatives to somehow twitter please",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "you know change subject line in new gmail compose window please",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "you know how do i delete my experts exchange ehm account? please",
+      "intent": "Delete Account",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1.0",
+  "name": "WebApplicaitonsEnrich",
+  "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

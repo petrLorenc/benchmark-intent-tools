@@ -1,0 +1,3355 @@
+{
+    "luis_schema_version": "2.2.0",
+    "versionId": "0.1.0",
+    "name": "paper-data-limit-H-F-D",
+    "desc": "Petr Lorenc",
+    "culture": "en-us",
+    "intents": [
+        {
+            "name": "wait_G"
+        },
+        {
+            "name": "volumeDown_G"
+        },
+        {
+            "name": "playOtherGame_G"
+        },
+        {
+            "name": "Repeat_G"
+        },
+        {
+            "name": "-3_L"
+        },
+        {
+            "name": "volumeUp_G"
+        },
+        {
+            "name": "timesPlayed_G"
+        },
+        {
+            "name": "stillThere_G"
+        },
+        {
+            "name": "stop_G"
+        },
+        {
+            "name": "-18_L"
+        },
+        {
+            "name": "-17_L"
+        },
+        {
+            "name": "totalStop_G"
+        },
+        {
+            "name": "gamesCounter_G"
+        },
+        {
+            "name": "listOfGames_G"
+        }
+    ],
+    "entities": [],
+    "bing_entities": [],
+    "model_features": [],
+    "regex_features": [],
+    "regex_entities": [],
+    "composites": [],
+    "closedLists": [],
+    "utterances": [
+        {
+            "text": "yea ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yes  somehow ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea  i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  yeah you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great  sure i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder all  right",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " could you oh  all right",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right oh definitely  really ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i am ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you  oh yea i am",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "sure  i am",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " you know alright i  am in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "absolutely i am  would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  uhm  definitely i am i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  somehow  yes i do",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  somehow  yea i do",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh sure  somehow  i do at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh alright i do  uhm ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "all right  really  i do right ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh  absolutely i do",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth definitely i do ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes i have  could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh yes i  really  have",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear yeah i  have would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah  hmm  i have sounds great ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay sure  i have",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "alright  i have at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " uhm  all right i have i would like to hear ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh all right i  somehow  have so ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear absolutely i  uhm  have believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so oh absolutely i have ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great  definitely i have",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " well oh definitely i  really  have you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right yes i  will could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i will ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yea i will  just ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear  just  yeah i will",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  oh  oh absolutely i will",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  oh  yes i would sounds great ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah  oh  i would",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think oh sure i  would",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " well alright i  would i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right all right i  hmm  would at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder oh  oh  all right i would believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day absolutely  really  i would",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh definitely i would",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yes i did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " uhm  yea i did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear yeah i  somehow  did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you  hmm  oh yeah i did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "alright i  did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so  all right i did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think oh all right i  did",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "definitely i did  really ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " basically oh definitely i did  well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder yea i  uhm  had would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " well yeah i had ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh alright i had  just ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion definitely i  had",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh definitely i  had",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes indeed  i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yes  somehow  indeed okay ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea indeed ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  just  yea indeed",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " alright indeed",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh all right  really  indeed",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " absolutely indeed",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh absolutely indeed  really ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " believe me oh definitely indeed  somehow  would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth yes  somehow  absolutely would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh yes absolutely  yeah  can you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yea absolutely i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so oh yea  absolutely could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " believe me sure absolutely ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " hmm  alright absolutely i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think  yeah  oh all right absolutely for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh absolutely  absolutely basically ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  definitely absolutely",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say yes definitely  somehow ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay oh yes  uhm  definitely in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea  definitely",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " just  oh yea definitely you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " you know sure definitely  really ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  yeah  sure definitely i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear  hmm  alright definitely at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so oh all right definitely  just ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " definitely definitely",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh definitely  somehow  definitely can you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes  i think can you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea  yeah  i think could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh yea i think  just  for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you oh yeah i  think at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sure i think at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great  somehow  oh alright i think at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right absolutely  i think",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  absolutely i think",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so of course i am  you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder  somehow  of course i do",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i think i  have i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to i  uhm   agree so ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you  agree right ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " hmm  i totally agree",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "totally agree ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "absolutely  just  agree",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "probably  yeah i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "ok ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " basically  really  okay okay ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " well that sounds good  so ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "it  sounds good well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "sounds like a  somehow  good idea",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "sounds good to  me",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  just  that sounds good to me sounds great ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "sounds like a good  yeah  idea to me for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "that  sounds like a good idea to me well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth that's a great idea  at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i  hmm  am believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i  uhm  have",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great i would  just  could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay i  did right ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "indeed ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "please do  could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear  please do it believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear let's go ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to for  hmm  sure right ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "that's  uhm  right",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " correct believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " let's try it",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "let's  do it for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " uhm  let's do that i would like to hear ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes kind of  well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say yea kind of ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yeah  kind of",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  oh  oh yeah kind of",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know oh  kind  somehow  of",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yes kinda",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth oh yes  just  kinda sounds great ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " hmm  yea kinda",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think oh yea kinda ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yeah  kinda i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh yeah  kinda believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so kinda  oh  for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh   yeah  kinda",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  yeah  yea sort of",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "sort  yeah  of i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  oh   sort of in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yes very much ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " really  yea very much",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  just  yeah very much",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  very  oh  much",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yes i guess",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i guess  i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh  yeah i guess",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth i  uhm  guess needless to say ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh   i guess",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay oh yes i guess so  well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh yeah  just  i guess so",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  yeah   i guess so needless to say ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes  exactly",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh yes exactly i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right  oh yeah exactly in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  exactly  at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you yes  yeah  probably well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so oh yes  probably",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea  probably",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say oh  hmm  yea probably",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yeah probably  hmm  basically ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " probably i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " hmm  yes quite",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh  oh yea quite",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " you know yeah  really  quite could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so  oh yeah quite",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder  quite",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  quite ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to  yeah  yes quite a lot well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yes quite  oh  a lot at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " could you yea quite a  lot",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " somehow  oh yea quite a lot",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yeah quite a lot",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder oh yeah quite a lot  i wonder ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " yes  sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you oh  oh  yes  sometimes right ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea   sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  really  yea  sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  oh  yeah  sometimes would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day oh    sometimes i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes  i am sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to  yea i am sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  oh yeah i am sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i do  sometimes believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " could you yeah i do sometimes  somehow ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah  oh  i do sometimes for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think i do  somehow  sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know yes i  have sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth oh yes i  yeah  have sometimes i would like to hear ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i have  sometimes i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yea i have  sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh yeah i have sometimes at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so i have  just  sometimes i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes i would sometimes ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yeah i would  somehow  sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion yes  i will sometimes could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you oh  i will sometimes  yeah  needless to say ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder yes i did  sometimes you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " basically yea i  did sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i did sometimes at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh   i did sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so yes  i had sometimes",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay yea i had  really  sometimes i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so yeah i  oh  had sometimes could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah i had sometimes ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know oh  i  really  had sometimes in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right yes  from time to  yeah  time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " well oh yes   from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you yea   from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yeah  from time  to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh   from time to time ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i am from time to time  at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know yeah i am from  time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " believe me oh  i am from time  to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yea i  hmm  do from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah i do from time  yeah  to time so ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  i do from  time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yea i  have from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i  uhm  have from time to time basically ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh   i have from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes i would from  somehow  time to time can you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " right  uhm  yea i would from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yea i would from time to  time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes i will from time to  uhm  time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " could you yea  hmm  i will from time to time could you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say oh yea i will from time to  somehow  time believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh yeah i will from time to time believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " you know oh yes i did  uhm  from time to time would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay oh yea i did  oh  from time to time you know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you oh yeah i did from time  to time well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day yes  i had from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day oh yes i  had from time to time",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " really  oh yeah i had from time to time believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " hmm  i had from time to time at the end of the day ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " uhm  yes  on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder oh yes  on some  somehow  occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " could you  yea  on some occasions well ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think oh yea  on some  occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say  hmm  yeah  on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yeah   on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh   on some  occasions i want you to ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder yes  i am on some occasions needless to say ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know oh  hmm  yeah i am on some occasions believe me ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh  i am on some occasions  hmm ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day yes i do on some  occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  somehow  yeah i do on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i do on some occasions ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder oh  i  do on some occasions for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " oh yes i have on some occasions can you ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i think oh yeah i have on some occasions  uhm ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " can you  i have on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  somehow   i have on some occasions i would like to hear ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " basically yes i would on  just  some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so yea i would on  some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great oh yea i would on  somehow  some occasions for what it is worth ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth i would  on some occasions i would like to hear ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh   i would on some occasions i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " so yea  i will on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear oh yea i will on some occasions ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " somehow  yeah i will on some occasions in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  just  oh yeah i will on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "yes  i did on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " okay oh yes  oh  i did on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great oh  yea i did on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i  did on some occasions sounds great ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  i did on some occasions ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh yea i  oh  had on some occasions would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great yeah i had on  uhm  some occasions would you let me know ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "oh  somehow  yeah i had on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i had on some  occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " basically  uhm  oh  i had on some occasions",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great  who doesn't",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "who  wouldn't in my humble opinion ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " who hasn't",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "i would  love  really  that i think ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": "don't stop  just  basically ",
+            "intent": "-3_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to never  really  i wonder ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " okay no i'm  not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh  no i'm not needless to say ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion oh  nope i'm not believe me ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion nah i'm not ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nope i am  not in my humble opinion ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day oh  nah i am not believe me ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so nope i  just  don't i want you to ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i want you to oh nope  uhm  i don't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nah i don't ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " oh no i do not basically ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " you know oh nah i  oh  do not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " you know no  just  i haven't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so nope  hmm  i haven't i wonder ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " basically oh  just  nah i haven't i think ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think no  i have not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh no i have not ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " could you oh nope i  uhm  have not i would like to hear ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "no  i wouldn't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nope i  wouldn't i want you to ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so  nah i wouldn't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nope i  would not can you ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nah  i would not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "no i  hmm  won't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " okay oh no i  somehow  won't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " nope i won't sounds great ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  really  oh nope i won't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh  uhm  nope i will not i would like to hear ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " nah i will not believe me ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "no i didn't ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day nope i  really  didn't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " could you oh nah i  oh  didn't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear no  i did not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh  just  no i did not can you ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think no  i hadn't well ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh nope i hadn't ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh  nah i hadn't so ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nope i had not ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " oh nah i had not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "no  oh  i guess",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder oh  oh  no i guess okay ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh nope i  guess",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "oh  nah i guess",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " okay  oh no i think",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day nope  i think",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "nah i think  basically ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so  oh  oh nah i think",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " just  nah",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " probably not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "that's  false i want you to ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder that's  negative",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth  please don't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "don't  uhm ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "please don ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth please don't do  uhm  it for what it is worth ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say please don do it ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder  please don continue",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " you know don continue  just  would you let me know ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day no  idea",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "definitely not  just  you know ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  probably no",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " just  i think i'm not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i think i don't  oh ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think i  think i have not believe me ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i think i  won't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " basically i think  i will not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " can you i think i didn't  really ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i think i did not ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i think  somehow  i hadn't",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  just  i don't think i am",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " you know i don't think  somehow  i do",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so i don't  think i did",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i don't think that's  a good idea believe me ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " basically i'm  not sounds great ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i don't  somehow  well ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  i do not right ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i haven't ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear i  would not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i will not ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know i didn't  uhm ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder i hadn't  well ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "haven't  oh ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so  didn't basically ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  none",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " uhm  i have no",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i have none  uhm ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " somehow  i have not",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " sounds great maybe  later",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " needless to say that's   not okay in my humble opinion ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think  that's absolutely not okay can you ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  that's  not ok i wonder ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "that's totally  just  not ok",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think that's definitely not  uhm  ok",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion that's really  oh  not ok",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " just  that's totally not ok",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " so that's really not ok ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder that's  just   not o.k. basically ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i think that's totally not o.k.  basically ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder that's  really  really not o.k.",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i don't  really  really wanna i would like to hear ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " basically i don't  feel like  it well ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "i don't really feel like it  just  sounds great ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  just  not  now in my humble opinion ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "that's okay ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear that's ok  really  needless to say ",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " that's o.k.",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear that's  ok alexa",
+            "intent": "-17_L",
+            "entities": []
+        },
+        {
+            "text": "may be ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear don't really  uhm  know needless to say ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " would you let me know do  yeah  not really know believe me ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " okay  i don't  know for what it is worth ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": "do not   know believe me ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " believe me i do not   know",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " believe me i'm  oh  not  sure i think ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " can you i am  not  sure",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day not  quite sure at the end of the day ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day i am not  really  quite sure believe me ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": "possibly  oh  sounds great ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " basically i'm  hmm  indifferent sounds great ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " can you  i am indifferent",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " oh  indifferent sounds great ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " yeah  i can't remember you know ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " i wonder  uhm  can't remember basically ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " cannot remember so ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": "i  can not remember",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": "can  not remember i think ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": "that  really  doesn't  matter",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " i think i think it doesn't  really matter at the end of the day ",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear it  doesn't really matter",
+            "intent": "-18_L",
+            "entities": []
+        },
+        {
+            "text": " i want to quit i would like to hear ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " somehow  exit",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " you know stop  would you let me know ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " oh  i want to stop i would like to hear ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth stop  just  it",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " i think  oh  turn you off i wonder ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear i  uhm  want to turn you off well ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": "don't talk  just  okay ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " well stop talking ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": "i  don't want to play  anymore",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  yeah  i don't want to play any game anymore",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": "i don't want  somehow  to play any game you know ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " so i don't like this game anymore ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say i'm not enjoying  this game right ",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  oh  goodbye",
+            "intent": "stop_G",
+            "entities": []
+        },
+        {
+            "text": " i want you to repeat  yeah  i want you to ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " i think could you  oh  repeat it so ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " well could you  really  repeat the question right ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": "can  you repeat the question",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": "can you  repeat that please",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth could you  repeat it please",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  uhm  can you repeat it please so ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " can you  once more right ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " yeah  once more please for what it is worth ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": "say that again  would you let me know ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " so what are  you saying",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": " hmm  what i would like to hear ",
+            "intent": "Repeat_G",
+            "entities": []
+        },
+        {
+            "text": "i  want to play  more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " can you let's  play  more games basically ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " right play  more games  uhm  i would like to hear ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " you know  let's open  more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "start  more  games i think ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " right  somehow  let's play some more games i wonder ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's open some  yeah  more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " really  open some more games i want you to ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want to start some more games ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's start some more  uhm  games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "start  uhm  some more games you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want  to play a few more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's play a  few more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "play  hmm  a few more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " you know i want to open a few more  games right ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " i think let's open  oh  a few more games i wonder ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " you know open  yeah  a few more games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want  oh  to start a few more games sounds great ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " can you let's play   other games needless to say ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want  to open  other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know let's open   somehow  other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want  to start  other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "start  other  games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " you know i want  oh  to play some other games for what it is worth ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " basically let's play  just  some other games i would like to hear ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say play  uhm  some other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want to  uhm  open some other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's open  really  some other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " well i want to start some  really  other games okay ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's play  somehow  a few other games so ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want to  open a few other games for what it is worth ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " right i want to  start a few other games",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " let's start another  game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " well start  somehow  another  game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's open a different  game  i would like to hear ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear  open a different  game would you let me know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great  i want to start a different  game could you ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great let's start  a different  game you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "start a different   just  game in my humble opinion ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " basically i  hmm  want to play one more  game you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " could you open  yeah  one more  game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's start  uhm  one more  game in my humble opinion ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " right start one  more  game you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  somehow  let's play another memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "play  another memory game well ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say i want to open  another memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " really  open another memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "start another  hmm  memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "i want to  open a different memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear let's open a different  somehow  memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day  open a different memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " uhm  i want to start a different memory game would you let me know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "let's  open one more memory game i would like to hear ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day i want  yeah  to start one more memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " so let's start  yeah  one more memory game",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " could you  i don't want to end  yet",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " believe me i don't want to turn you off  oh   yet can you ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " can you i don't want to end just yet ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " i think don't turn off  yet  uhm  you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "no don't turn off   yet",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "no don't turn  really  off just yet you know ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear i  don't wanna play this game sounds great ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know i don't like this game  just ",
+            "intent": "playOtherGame_G",
+            "entities": []
+        },
+        {
+            "text": "stop  and shut up can you ",
+            "intent": "totalStop_G",
+            "entities": []
+        },
+        {
+            "text": " really  wait",
+            "intent": "wait_G",
+            "entities": []
+        },
+        {
+            "text": "wait a second ",
+            "intent": "wait_G",
+            "entities": []
+        },
+        {
+            "text": " believe me wait  please  would you let me know ",
+            "intent": "wait_G",
+            "entities": []
+        },
+        {
+            "text": "one  somehow  moment",
+            "intent": "wait_G",
+            "entities": []
+        },
+        {
+            "text": "one  moment please",
+            "intent": "wait_G",
+            "entities": []
+        },
+        {
+            "text": " can you what  uhm   games can i play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which other  games can i play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  game can i play ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which other game can  uhm  i play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  games  can we play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which other games can we play  i think ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth which  game can we play  basically ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " well what   just  game can we play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " believe me which other game  oh  can we play in my humble opinion ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " well what  else can we play could you ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  other games can you play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what  somehow  other games can you play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what   somehow  game can you play",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " can you which  games do  you have could you ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " oh  which other games do you have",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  game do  you have okay ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " can you which other game  just  do you have in my humble opinion ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " yeah  what other game do you have i would like to hear ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what else  somehow  do you have",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what  do you have",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which   games do you know i wonder ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " you know what  games do you know  hmm ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " could you what  game do you know  yeah ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what  yeah  other game do you know",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what else  uhm  do you know in my humble opinion ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " okay  which  games is available i wonder ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " believe me what other games is available  uhm  needless to say ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth what  game  just  is available",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " which other game is available",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  games  oh  are available",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "what other games are  available",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "which  game are  available believe me ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear what  game are available ",
+            "intent": "listOfGames_G",
+            "entities": []
+        },
+        {
+            "text": "how many  games have  yeah  we played sounds great ",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": " well how many memory games have i  played i would like to hear ",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": "how many  really   games have i played so far",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": "how many memory games  have i played so far in my humble opinion ",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear how many memory games have we played in this session  i think ",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": "how  many memory games have i played in this session",
+            "intent": "gamesCounter_G",
+            "entities": []
+        },
+        {
+            "text": "would you speak  louder you know ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " i think could   speak louder",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say will you talk  louder i would like to hear ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "could  oh   talk louder i wonder ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " believe me can   yeah  talk louder basically ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " right will  talk louder  i wonder ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "would  talk louder  in my humble opinion ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " right  talk louder in my humble opinion ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "you speak  more loud",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " well could  speak  hmm  more loud well ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth would  speak more loud  uhm  i would like to hear ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " could you speak more  loud",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "can you talk more  oh  loud",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "would you talk  more loud",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "can  talk more  loud i wonder ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " believe me will  talk more loud  well ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great talk more  hmm  loud i think ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "could you speak higher  you know ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "can you speak  higher",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " somehow  will you speak higher",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " really  can  speak higher i think ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth will  speak higher  yeah ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " so  oh  speak higher can you ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know can  hmm  you talk higher right ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know  would you talk higher",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " really  you talk higher would you let me know ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "could   talk higher",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know would   talk higher",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " you know talk higher  for what it is worth ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say i can't hear you very  hmm  well",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "i can't  oh  hear you  well",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " i can't hear you very i want you to ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " okay  just  you are talking too quiet right ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "you are speaking too low  somehow  basically ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "you are talking too  uhm  low basically ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " you are  too low",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": "you are  speaking too quietly believe me ",
+            "intent": "volumeUp_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great could you speak quiet  yeah  i wonder ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " can you speak quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "will you speak quiet  somehow  i would like to hear ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would you  speak quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could   speak quiet right ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day would  speak  just  quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " okay  hmm  speak quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could you  talk quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "can you talk  oh  quiet i wonder ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say  you talk quiet well ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great can   talk quiet right ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " i want you to talk quiet  just ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could  yeah  you speak more quiet i want you to ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " could you can you speak  uhm  more quiet i would like to hear ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " believe me will you speak more  quiet can you ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would you speak more  uhm  quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could you talk more quiet  uhm  sounds great ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " i wonder can you talk more quiet  needless to say ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would you talk more  oh  quiet in my humble opinion ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " needless to say could  talk more quiet  yeah  in my humble opinion ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great will   talk more quiet would you let me know ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth  yeah  talk more quiet",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know can you speak  uhm  less loud right ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "you speak less  loud",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " you know will  speak less  just  loud",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would   somehow  speak less loud",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "can you talk less loud  in my humble opinion ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "will you  talk less loud",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "can  talk  less loud can you ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "will  talk less  uhm  loud",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would   uhm  talk less loud sounds great ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " believe me talk less loud ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " basically could you  speak quieter needless to say ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great can you speak  really  quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day will you speak  quieter sounds great ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "you  speak quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could  speak quieter  i want you to ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " hmm  will  speak quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day speak  just  quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " uhm  would you talk quieter well ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " okay you talk  quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " i want you to  hmm  could  talk quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " you know  can  talk quieter",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion would  talk quieter ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "you speak  silently would you let me know ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "would   speak silently needless to say ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " i think could  just  you talk silently",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "will you talk silently  right ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "you talk  uhm  silently at the end of the day ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "can  talk  really  silently",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "talk silently ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "can you  somehow  speak down",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion would you speak down  uhm ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could   uhm  speak down i would like to hear ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth can  speak  somehow  down",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " will  speak down",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " would you let me know speak  hmm  down in my humble opinion ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " right will you talk  oh  down at the end of the day ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " i wonder would you talk  down could you ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": "could  talk  uhm  down at the end of the day ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " could you keep it down  yeah  please at the end of the day ",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth  oh  volume down",
+            "intent": "volumeDown_G",
+            "entities": []
+        },
+        {
+            "text": " how many times have we chatted already",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " right how  many times have we spoken already",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": "how  really  many times have i launched you already in my humble opinion ",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": "how  many times have we talked so far",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " right how many  yeah  times have we spoken so far",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " believe me how many times have i opened you so  far",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion  how many times have we talked",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " sounds great  uhm  how many times have i launched you",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " could you how many times have i  started you",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " believe me how many times have i opened you  right ",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": "how many times  have i talked to you okay ",
+            "intent": "timesPlayed_G",
+            "entities": []
+        },
+        {
+            "text": " are you still there",
+            "intent": "stillThere_G",
+            "entities": []
+        },
+        {
+            "text": "are you  sleeping",
+            "intent": "stillThere_G",
+            "entities": []
+        },
+        {
+            "text": "have you turned  just  off",
+            "intent": "stillThere_G",
+            "entities": []
+        },
+        {
+            "text": "have you  stopped",
+            "intent": "stillThere_G",
+            "entities": []
+        }
+    ]
+}

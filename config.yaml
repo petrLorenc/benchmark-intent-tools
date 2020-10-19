@@ -1,0 +1,15 @@
+dialogflow:
+  project_id: "ZZZ"
+
+luis:
+  subscription_key: "XXX"
+
+watson:
+  api_key: "XXX"
+  v1_url: "https://api.eu-de.assistant.watson.cloud.ibm.com/instances/YYY/v1/workspaces/ZZZ/message?version=2020-04-01"
+
+rasa:
+  url: "http://localhost:5005/model/parse?emulation_mode=luis"
+
+output:
+  base_path: "./data/results/"

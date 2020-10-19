@@ -1,0 +1,50 @@
+{
+    "name": "Download Video",
+    "auto": true,
+    "contexts": [],
+    "priority": 500000,
+    "fallbackIntent": false,
+    "webhookUsed": false,
+    "events": [],
+    "userSays": [
+        {
+            "data": [
+                {
+                    "text": "How do I download a "
+                },
+                {
+                    "text": "YouTube",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " video?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c4ca4238a0b923820dcc509a6f75849b"
+        }
+    ],
+    "responses": [
+        {
+            "affectedContexts": [],
+            "resetContexts": false,
+            "dataType": "@Download Video",
+            "name": "Download Video",
+            "value": "$Download Video",
+            "parameters": [
+                {
+                    "isListe": false
+                }
+            ],
+            "messages": [
+                {
+                    "type": 0,
+                    "speech": []
+                }
+            ]
+        }
+    ]
+}

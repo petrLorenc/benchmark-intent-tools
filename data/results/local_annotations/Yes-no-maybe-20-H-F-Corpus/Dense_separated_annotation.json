@@ -1,0 +1,3524 @@
+{
+    "results": [
+        {
+            "confidence": "0.1828954",
+            "confidencesOther": {
+                "volumeUp": "0.1828954",
+                "MaybeNode": "0.16369498",
+                "Repeat": "0.14951204",
+                "volumeDown": "0.13616395",
+                "listOfGames": "0.123776115",
+                "totalStop": "0.12211017",
+                "gamesCounter": "0.12184733"
+            },
+            "goldenIntent": "-18",
+            "intent": "volumeUp",
+            "queryText": " i would like to hear maybe",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.22091599",
+            "confidencesOther": {
+                "MaybeNode": "0.22091599",
+                "listOfGames": "0.14119112",
+                "Repeat": "0.13621375",
+                "volumeDown": "0.12999868",
+                "volumeUp": "0.12584482",
+                "gamesCounter": "0.122920394",
+                "totalStop": "0.12291544"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " would you let me know may be can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29972395",
+            "confidencesOther": {
+                "MaybeNode": "0.29972395",
+                "volumeDown": "0.12314464",
+                "volumeUp": "0.120222904",
+                "listOfGames": "0.11713024",
+                "gamesCounter": "0.113433965",
+                "totalStop": "0.11317696",
+                "Repeat": "0.11316729"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " sounds great might be",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30870584",
+            "confidencesOther": {
+                "MaybeNode": "0.30870584",
+                "volumeDown": "0.11807506",
+                "Repeat": "0.11580163",
+                "listOfGames": "0.11530238",
+                "volumeUp": "0.11407854",
+                "totalStop": "0.11402424",
+                "gamesCounter": "0.11401235"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "don't really know",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24508812",
+            "confidencesOther": {
+                "MaybeNode": "0.24508812",
+                "listOfGames": "0.17152764",
+                "volumeDown": "0.123748675",
+                "volumeUp": "0.115722306",
+                "gamesCounter": "0.11477563",
+                "Repeat": "0.11473254",
+                "totalStop": "0.114405304"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "do not really know in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3055711",
+            "confidencesOther": {
+                "MaybeNode": "0.3055711",
+                "listOfGames": "0.12184582",
+                "volumeDown": "0.11559213",
+                "Repeat": "0.11495246",
+                "totalStop": "0.11420277",
+                "gamesCounter": "0.11399471",
+                "volumeUp": "0.11384096"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "i do not really know",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3048943",
+            "confidencesOther": {
+                "MaybeNode": "0.3048943",
+                "Repeat": "0.11969934",
+                "volumeUp": "0.1158733",
+                "listOfGames": "0.11533693",
+                "volumeDown": "0.11520834",
+                "gamesCounter": "0.11449606",
+                "totalStop": "0.1144918"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " sounds great i don't  know okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3055242",
+            "confidencesOther": {
+                "MaybeNode": "0.3055242",
+                "gamesCounter": "0.122305445",
+                "volumeDown": "0.11560558",
+                "Repeat": "0.114832565",
+                "totalStop": "0.114041686",
+                "volumeUp": "0.11396333",
+                "listOfGames": "0.113727264"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " needless to say do not  know so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29368508",
+            "confidencesOther": {
+                "MaybeNode": "0.29368508",
+                "totalStop": "0.11974384",
+                "listOfGames": "0.11836221",
+                "Repeat": "0.11798774",
+                "volumeDown": "0.117750384",
+                "volumeUp": "0.11634709",
+                "gamesCounter": "0.116123505"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " could you i do not  know at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26518583",
+            "confidencesOther": {
+                "MaybeNode": "0.26518583",
+                "Repeat": "0.15872784",
+                "volumeUp": "0.124121755",
+                "listOfGames": "0.11905959",
+                "volumeDown": "0.11099921",
+                "gamesCounter": "0.110957116",
+                "totalStop": "0.110948704"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " can you i'm not  sure",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21270129",
+            "confidencesOther": {
+                "YesNode": "0.21270129",
+                "NoNode": "0.15359728",
+                "playOtherGame": "0.11511233",
+                "stop": "0.10389738",
+                "timesPlayed": "0.1037879",
+                "stillThere": "0.103651024",
+                "wait": "0.10363274"
+            },
+            "goldenIntent": "-18",
+            "intent": "YesNode",
+            "queryText": "i am not  sure",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29732138",
+            "confidencesOther": {
+                "MaybeNode": "0.29732138",
+                "volumeDown": "0.13095576",
+                "Repeat": "0.118547164",
+                "gamesCounter": "0.11374473",
+                "totalStop": "0.113645926",
+                "listOfGames": "0.11333224",
+                "volumeUp": "0.11245286"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "not quite sure",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30243123",
+            "confidencesOther": {
+                "MaybeNode": "0.30243123",
+                "volumeDown": "0.12019253",
+                "Repeat": "0.1184608",
+                "gamesCounter": "0.11509866",
+                "listOfGames": "0.11497458",
+                "volumeUp": "0.11459708",
+                "totalStop": "0.11424503"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "i'm not quite sure",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.17613657",
+            "confidencesOther": {
+                "YesNode": "0.17613657",
+                "NoNode": "0.14798348",
+                "stop": "0.121054165",
+                "playOtherGame": "0.11107998",
+                "timesPlayed": "0.11099011",
+                "stillThere": "0.11092712",
+                "wait": "0.11092056"
+            },
+            "goldenIntent": "-18",
+            "intent": "YesNode",
+            "queryText": "i am not quite sure",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26279947",
+            "confidencesOther": {
+                "MaybeNode": "0.26279947",
+                "gamesCounter": "0.16285786",
+                "Repeat": "0.12679878",
+                "volumeDown": "0.11385559",
+                "volumeUp": "0.1132346",
+                "totalStop": "0.11222712",
+                "listOfGames": "0.10822675"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "possibly needless to say ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21906911",
+            "confidencesOther": {
+                "listOfGames": "0.21906911",
+                "MaybeNode": "0.13942122",
+                "volumeUp": "0.13566785",
+                "volumeDown": "0.13476749",
+                "Repeat": "0.12581407",
+                "totalStop": "0.12285374",
+                "gamesCounter": "0.12240629"
+            },
+            "goldenIntent": "-18",
+            "intent": "listOfGames",
+            "queryText": " for what it is worth i'm indifferent okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.18383928",
+            "confidencesOther": {
+                "YesNode": "0.18383928",
+                "stillThere": "0.15644002",
+                "playOtherGame": "0.11181262",
+                "stop": "0.11036712",
+                "NoNode": "0.10960791",
+                "timesPlayed": "0.10942198",
+                "wait": "0.10926082"
+            },
+            "goldenIntent": "-18",
+            "intent": "YesNode",
+            "queryText": "i am indifferent i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.20149261",
+            "confidencesOther": {
+                "volumeDown": "0.20149261",
+                "MaybeNode": "0.16639699",
+                "listOfGames": "0.13258246",
+                "gamesCounter": "0.12639755",
+                "totalStop": "0.12629475",
+                "volumeUp": "0.12543204",
+                "Repeat": "0.121403776"
+            },
+            "goldenIntent": "-18",
+            "intent": "volumeDown",
+            "queryText": "indifferent",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29284915",
+            "confidencesOther": {
+                "MaybeNode": "0.29284915",
+                "volumeUp": "0.15220022",
+                "Repeat": "0.11632013",
+                "gamesCounter": "0.1117343",
+                "listOfGames": "0.1095532",
+                "totalStop": "0.108870044",
+                "volumeDown": "0.10847309"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " so i can't remember",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29636094",
+            "confidencesOther": {
+                "MaybeNode": "0.29636094",
+                "volumeUp": "0.13548678",
+                "listOfGames": "0.118758",
+                "Repeat": "0.114847325",
+                "gamesCounter": "0.11346031",
+                "totalStop": "0.1111464",
+                "volumeDown": "0.10994022"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "can't remember basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2777155",
+            "confidencesOther": {
+                "MaybeNode": "0.2777155",
+                "volumeUp": "0.18109378",
+                "Repeat": "0.11914972",
+                "gamesCounter": "0.10794112",
+                "listOfGames": "0.10541463",
+                "totalStop": "0.10461384",
+                "volumeDown": "0.104071565"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "i cannot remember",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2967379",
+            "confidencesOther": {
+                "MaybeNode": "0.2967379",
+                "volumeUp": "0.138844",
+                "listOfGames": "0.11428502",
+                "Repeat": "0.11397336",
+                "gamesCounter": "0.11223769",
+                "volumeDown": "0.11220559",
+                "totalStop": "0.11171658"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "cannot remember you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25148165",
+            "confidencesOther": {
+                "MaybeNode": "0.25148165",
+                "listOfGames": "0.15341604",
+                "volumeUp": "0.123129584",
+                "Repeat": "0.120328605",
+                "volumeDown": "0.11791495",
+                "gamesCounter": "0.11699717",
+                "totalStop": "0.11673183"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "i can not remember in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3069809",
+            "confidencesOther": {
+                "MaybeNode": "0.3069809",
+                "Repeat": "0.11968361",
+                "volumeUp": "0.11640874",
+                "gamesCounter": "0.11579307",
+                "listOfGames": "0.113784544",
+                "volumeDown": "0.113726504",
+                "totalStop": "0.1136227"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " needless to say can not remember",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3010848",
+            "confidencesOther": {
+                "MaybeNode": "0.3010848",
+                "Repeat": "0.13859624",
+                "volumeDown": "0.11296398",
+                "volumeUp": "0.11267327",
+                "gamesCounter": "0.11172245",
+                "listOfGames": "0.111522235",
+                "totalStop": "0.111437105"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " well i don't remember",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30813053",
+            "confidencesOther": {
+                "MaybeNode": "0.30813053",
+                "Repeat": "0.11756779",
+                "volumeUp": "0.11676919",
+                "listOfGames": "0.11461839",
+                "volumeDown": "0.11444557",
+                "totalStop": "0.114287935",
+                "gamesCounter": "0.11418055"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "i don't really care",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30305594",
+            "confidencesOther": {
+                "MaybeNode": "0.30305594",
+                "Repeat": "0.12540412",
+                "volumeUp": "0.115203425",
+                "totalStop": "0.114830345",
+                "listOfGames": "0.11388415",
+                "volumeDown": "0.11386428",
+                "gamesCounter": "0.11375783"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " okay i think it doesn't  matter",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30693385",
+            "confidencesOther": {
+                "MaybeNode": "0.30693385",
+                "Repeat": "0.11963052",
+                "volumeUp": "0.11558309",
+                "volumeDown": "0.115275465",
+                "gamesCounter": "0.1144322",
+                "totalStop": "0.11408169",
+                "listOfGames": "0.114063166"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "it doesn't  matter",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30364522",
+            "confidencesOther": {
+                "MaybeNode": "0.30364522",
+                "Repeat": "0.12644331",
+                "volumeUp": "0.11622463",
+                "gamesCounter": "0.11358979",
+                "totalStop": "0.113418415",
+                "volumeDown": "0.11338238",
+                "listOfGames": "0.11329612"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": "that doesn't  matter",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29627022",
+            "confidencesOther": {
+                "MaybeNode": "0.29627022",
+                "volumeUp": "0.12631673",
+                "Repeat": "0.12567927",
+                "listOfGames": "0.11453213",
+                "volumeDown": "0.11240825",
+                "gamesCounter": "0.11240182",
+                "totalStop": "0.112391666"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " can you doesn't  matter i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30833519",
+            "confidencesOther": {
+                "MaybeNode": "0.30833519",
+                "Repeat": "0.120224364",
+                "volumeDown": "0.114630744",
+                "volumeUp": "0.114557035",
+                "listOfGames": "0.11415706",
+                "totalStop": "0.11406638",
+                "gamesCounter": "0.11402935"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " could you i think it doesn't really matter",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3026461",
+            "confidencesOther": {
+                "MaybeNode": "0.3026461",
+                "volumeUp": "0.1209713",
+                "Repeat": "0.118000925",
+                "volumeDown": "0.11602263",
+                "listOfGames": "0.11423509",
+                "gamesCounter": "0.114068285",
+                "totalStop": "0.114055775"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " i would like to hear it doesn't really matter",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3050438",
+            "confidencesOther": {
+                "MaybeNode": "0.3050438",
+                "volumeUp": "0.118835695",
+                "volumeDown": "0.11664798",
+                "Repeat": "0.11614715",
+                "listOfGames": "0.114917",
+                "gamesCounter": "0.11425307",
+                "totalStop": "0.114155345"
+            },
+            "goldenIntent": "-18",
+            "intent": "MaybeNode",
+            "queryText": " sounds great it's the same",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.22673966",
+            "confidencesOther": {
+                "volumeUp": "0.22673966",
+                "MaybeNode": "0.15600814",
+                "Repeat": "0.13190886",
+                "totalStop": "0.13105775",
+                "listOfGames": "0.12686434",
+                "gamesCounter": "0.11400961",
+                "volumeDown": "0.11341182"
+            },
+            "goldenIntent": "stop",
+            "intent": "volumeUp",
+            "queryText": " right stop",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23654173",
+            "confidencesOther": {
+                "stop": "0.23654173",
+                "playOtherGame": "0.21811676",
+                "YesNode": "0.09859709",
+                "NoNode": "0.09059077",
+                "stillThere": "0.08941907",
+                "timesPlayed": "0.08928195",
+                "wait": "0.08872997"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": "i want to quit",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19652723",
+            "confidencesOther": {
+                "stop": "0.19652723",
+                "wait": "0.14881913",
+                "YesNode": "0.11015626",
+                "NoNode": "0.10987877",
+                "playOtherGame": "0.10964173",
+                "timesPlayed": "0.108447984",
+                "stillThere": "0.108321644"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": " i think exit so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19248416",
+            "confidencesOther": {
+                "stop": "0.19248416",
+                "playOtherGame": "0.13224098",
+                "YesNode": "0.12221193",
+                "stillThere": "0.11842075",
+                "NoNode": "0.11026068",
+                "wait": "0.108407654",
+                "timesPlayed": "0.108158186"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": "i want to exit",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21760863",
+            "confidencesOther": {
+                "stop": "0.21760863",
+                "YesNode": "0.13122544",
+                "wait": "0.11474696",
+                "playOtherGame": "0.10807745",
+                "NoNode": "0.10759451",
+                "stillThere": "0.10704427",
+                "timesPlayed": "0.106854506"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": " okay stop",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2213651",
+            "confidencesOther": {
+                "playOtherGame": "0.2213651",
+                "stop": "0.16199644",
+                "YesNode": "0.12090409",
+                "stillThere": "0.10242255",
+                "NoNode": "0.09951238",
+                "wait": "0.09849606",
+                "timesPlayed": "0.09768713"
+            },
+            "goldenIntent": "stop",
+            "intent": "playOtherGame",
+            "queryText": "i want to stop",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.14290868",
+            "confidencesOther": {
+                "stop": "0.14290868",
+                "wait": "0.14264955",
+                "YesNode": "0.13410571",
+                "playOtherGame": "0.12295806",
+                "timesPlayed": "0.115015075",
+                "NoNode": "0.11435343",
+                "stillThere": "0.11426769"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": "stop it basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.14195427",
+            "confidencesOther": {
+                "playOtherGame": "0.14195427",
+                "YesNode": "0.14021155",
+                "stop": "0.12596197",
+                "wait": "0.12428098",
+                "NoNode": "0.11741149",
+                "stillThere": "0.11680897",
+                "timesPlayed": "0.116732165"
+            },
+            "goldenIntent": "stop",
+            "intent": "playOtherGame",
+            "queryText": " basically i want to stop it",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2390245",
+            "confidencesOther": {
+                "stop": "0.2390245",
+                "stillThere": "0.21401452",
+                "playOtherGame": "0.101284385",
+                "NoNode": "0.09038405",
+                "YesNode": "0.08910502",
+                "timesPlayed": "0.08901931",
+                "wait": "0.08860155"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": "i want to turn  off",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23762622",
+            "confidencesOther": {
+                "stop": "0.23762622",
+                "stillThere": "0.23235877",
+                "NoNode": "0.089795224",
+                "timesPlayed": "0.08845775",
+                "YesNode": "0.088357225",
+                "wait": "0.08790912",
+                "playOtherGame": "0.087777965"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": "turn you off",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.22239675",
+            "confidencesOther": {
+                "stillThere": "0.22239675",
+                "stop": "0.18868497",
+                "YesNode": "0.13775526",
+                "NoNode": "0.0905679",
+                "timesPlayed": "0.09015798",
+                "playOtherGame": "0.090155594",
+                "wait": "0.09014955"
+            },
+            "goldenIntent": "stop",
+            "intent": "stillThere",
+            "queryText": "i want to turn you off can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.17785528",
+            "confidencesOther": {
+                "volumeDown": "0.17785528",
+                "MaybeNode": "0.16284993",
+                "volumeUp": "0.13592374",
+                "Repeat": "0.13164693",
+                "listOfGames": "0.13071936",
+                "gamesCounter": "0.13054445",
+                "totalStop": "0.13046022"
+            },
+            "goldenIntent": "stop",
+            "intent": "volumeDown",
+            "queryText": "don't talk basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19206922",
+            "confidencesOther": {
+                "volumeDown": "0.19206922",
+                "MaybeNode": "0.15539409",
+                "volumeUp": "0.13292882",
+                "listOfGames": "0.13233118",
+                "Repeat": "0.13204513",
+                "totalStop": "0.12765448",
+                "gamesCounter": "0.12757689"
+            },
+            "goldenIntent": "stop",
+            "intent": "volumeDown",
+            "queryText": " would you let me know stop talking right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2180721",
+            "confidencesOther": {
+                "MaybeNode": "0.2180721",
+                "listOfGames": "0.20555665",
+                "gamesCounter": "0.11569293",
+                "Repeat": "0.11546429",
+                "volumeUp": "0.11543958",
+                "volumeDown": "0.114923276",
+                "totalStop": "0.114851266"
+            },
+            "goldenIntent": "stop",
+            "intent": "MaybeNode",
+            "queryText": "i don't want to play  anymore",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25880626",
+            "confidencesOther": {
+                "playOtherGame": "0.25880626",
+                "NoNode": "0.16141242",
+                "stop": "0.09678276",
+                "stillThere": "0.096627064",
+                "wait": "0.09660193",
+                "YesNode": "0.09659212",
+                "timesPlayed": "0.09658971"
+            },
+            "goldenIntent": "stop",
+            "intent": "playOtherGame",
+            "queryText": "i don't want to play any game anymore",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.22633086",
+            "confidencesOther": {
+                "MaybeNode": "0.22633086",
+                "listOfGames": "0.18226776",
+                "Repeat": "0.118850626",
+                "gamesCounter": "0.11836407",
+                "volumeDown": "0.118190676",
+                "volumeUp": "0.11817453",
+                "totalStop": "0.11782143"
+            },
+            "goldenIntent": "stop",
+            "intent": "MaybeNode",
+            "queryText": " well i don't want to play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26396212",
+            "confidencesOther": {
+                "playOtherGame": "0.26396212",
+                "NoNode": "0.15078327",
+                "stillThere": "0.09767747",
+                "stop": "0.0975323",
+                "YesNode": "0.097518355",
+                "wait": "0.097510934",
+                "timesPlayed": "0.09751012"
+            },
+            "goldenIntent": "stop",
+            "intent": "playOtherGame",
+            "queryText": "i don't want to play any game",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.16138725",
+            "confidencesOther": {
+                "MaybeNode": "0.16138725",
+                "Repeat": "0.1475353",
+                "listOfGames": "0.1471503",
+                "volumeUp": "0.14185585",
+                "volumeDown": "0.13463746",
+                "gamesCounter": "0.13399723",
+                "totalStop": "0.13343649"
+            },
+            "goldenIntent": "stop",
+            "intent": "MaybeNode",
+            "queryText": " i would like to hear i don't like this game anymore",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28769362",
+            "confidencesOther": {
+                "MaybeNode": "0.28769362",
+                "volumeDown": "0.1291079",
+                "Repeat": "0.119962834",
+                "listOfGames": "0.11607556",
+                "gamesCounter": "0.11594191",
+                "volumeUp": "0.115873046",
+                "totalStop": "0.11534488"
+            },
+            "goldenIntent": "stop",
+            "intent": "MaybeNode",
+            "queryText": " needless to say i'm not enjoying this would you let me know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24158178",
+            "confidencesOther": {
+                "playOtherGame": "0.24158178",
+                "NoNode": "0.123019315",
+                "stillThere": "0.10953155",
+                "stop": "0.10546247",
+                "YesNode": "0.10517784",
+                "wait": "0.10508796",
+                "timesPlayed": "0.10506992"
+            },
+            "goldenIntent": "stop",
+            "intent": "playOtherGame",
+            "queryText": " i want you to i'm not enjoying this game",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.1656048",
+            "confidencesOther": {
+                "Repeat": "0.1656048",
+                "volumeUp": "0.15646437",
+                "listOfGames": "0.14752646",
+                "MaybeNode": "0.13534114",
+                "volumeDown": "0.13473953",
+                "gamesCounter": "0.1302466",
+                "totalStop": "0.1300773"
+            },
+            "goldenIntent": "stop",
+            "intent": "Repeat",
+            "queryText": "this is boring can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24018887",
+            "confidencesOther": {
+                "stop": "0.24018887",
+                "NoNode": "0.11237055",
+                "stillThere": "0.110510804",
+                "playOtherGame": "0.11045475",
+                "YesNode": "0.10668624",
+                "timesPlayed": "0.106658906",
+                "wait": "0.106564984"
+            },
+            "goldenIntent": "stop",
+            "intent": "stop",
+            "queryText": " would you let me know bye bye",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24452984",
+            "confidencesOther": {
+                "MaybeNode": "0.24452984",
+                "volumeUp": "0.14973755",
+                "listOfGames": "0.1254517",
+                "volumeDown": "0.12351304",
+                "Repeat": "0.1194821",
+                "gamesCounter": "0.11920487",
+                "totalStop": "0.118080825"
+            },
+            "goldenIntent": "stop",
+            "intent": "MaybeNode",
+            "queryText": "goodbye sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3003696",
+            "confidencesOther": {
+                "Repeat": "0.3003696",
+                "volumeUp": "0.1235316",
+                "gamesCounter": "0.12128126",
+                "totalStop": "0.11489887",
+                "MaybeNode": "0.1145001",
+                "volumeDown": "0.11295389",
+                "listOfGames": "0.11246452"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": "repeat",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2936623",
+            "confidencesOther": {
+                "Repeat": "0.2936623",
+                "MaybeNode": "0.12349682",
+                "volumeUp": "0.12197368",
+                "gamesCounter": "0.11567594",
+                "totalStop": "0.11519027",
+                "listOfGames": "0.115127504",
+                "volumeDown": "0.11487366"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " i think can you repeat that needless to say ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28836596",
+            "confidencesOther": {
+                "Repeat": "0.28836596",
+                "MaybeNode": "0.13278466",
+                "volumeUp": "0.124955006",
+                "volumeDown": "0.11410925",
+                "listOfGames": "0.113877416",
+                "gamesCounter": "0.113046885",
+                "totalStop": "0.11286085"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " right could you repeat it",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21611844",
+            "confidencesOther": {
+                "Repeat": "0.21611844",
+                "listOfGames": "0.14550571",
+                "MaybeNode": "0.13588136",
+                "volumeUp": "0.12797329",
+                "volumeDown": "0.12787344",
+                "gamesCounter": "0.123342805",
+                "totalStop": "0.12330488"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": "could you repeat the question for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19193015",
+            "confidencesOther": {
+                "Repeat": "0.19193015",
+                "volumeUp": "0.15303361",
+                "listOfGames": "0.1380589",
+                "MaybeNode": "0.13149258",
+                "volumeDown": "0.12945327",
+                "gamesCounter": "0.12804379",
+                "totalStop": "0.12798782"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " in my humble opinion can you repeat the question i would like to hear ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24868068",
+            "confidencesOther": {
+                "Repeat": "0.24868068",
+                "MaybeNode": "0.18586639",
+                "volumeUp": "0.116207145",
+                "volumeDown": "0.1135426",
+                "listOfGames": "0.11237993",
+                "gamesCounter": "0.11167896",
+                "totalStop": "0.11164429"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " could you could you repeat that please sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24220474",
+            "confidencesOther": {
+                "Repeat": "0.24220474",
+                "listOfGames": "0.14146052",
+                "volumeUp": "0.13377",
+                "MaybeNode": "0.12126859",
+                "volumeDown": "0.121138066",
+                "gamesCounter": "0.12015175",
+                "totalStop": "0.12000655"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " well can you repeat that please in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27427503",
+            "confidencesOther": {
+                "Repeat": "0.27427503",
+                "MaybeNode": "0.13641725",
+                "volumeDown": "0.119608104",
+                "volumeUp": "0.11869799",
+                "listOfGames": "0.11813841",
+                "gamesCounter": "0.11645518",
+                "totalStop": "0.11640805"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": "could you repeat it please you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28451598",
+            "confidencesOther": {
+                "Repeat": "0.28451598",
+                "volumeUp": "0.15570836",
+                "listOfGames": "0.12673144",
+                "MaybeNode": "0.10924985",
+                "volumeDown": "0.10797072",
+                "gamesCounter": "0.107915185",
+                "totalStop": "0.10790842"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " can you can you repeat it please can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27547374",
+            "confidencesOther": {
+                "Repeat": "0.27547374",
+                "MaybeNode": "0.16688146",
+                "volumeUp": "0.1125503",
+                "volumeDown": "0.11198147",
+                "gamesCounter": "0.111216776",
+                "listOfGames": "0.11101178",
+                "totalStop": "0.110884495"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " i wonder could you repeat the question please needless to say ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28860053",
+            "confidencesOther": {
+                "Repeat": "0.28860053",
+                "listOfGames": "0.12703684",
+                "volumeUp": "0.12603083",
+                "MaybeNode": "0.11887072",
+                "gamesCounter": "0.11326441",
+                "totalStop": "0.11316025",
+                "volumeDown": "0.11303648"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " basically can you repeat the question please",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.17475192",
+            "confidencesOther": {
+                "MaybeNode": "0.17475192",
+                "volumeUp": "0.1720281",
+                "gamesCounter": "0.13822646",
+                "volumeDown": "0.13618386",
+                "totalStop": "0.12791409",
+                "Repeat": "0.12765637",
+                "listOfGames": "0.12323916"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "MaybeNode",
+            "queryText": " so once more",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.18281049",
+            "confidencesOther": {
+                "MaybeNode": "0.18281049",
+                "volumeDown": "0.16479106",
+                "listOfGames": "0.13398676",
+                "Repeat": "0.13273406",
+                "volumeUp": "0.13037282",
+                "gamesCounter": "0.12766948",
+                "totalStop": "0.1276355"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "MaybeNode",
+            "queryText": " would you let me know once more please",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25841296",
+            "confidencesOther": {
+                "Repeat": "0.25841296",
+                "volumeDown": "0.12901562",
+                "MaybeNode": "0.12789291",
+                "volumeUp": "0.12276441",
+                "totalStop": "0.120918304",
+                "listOfGames": "0.1206731",
+                "gamesCounter": "0.12032275"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "Repeat",
+            "queryText": " you know say that again",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.15543644",
+            "confidencesOther": {
+                "wait": "0.15543644",
+                "stop": "0.15307964",
+                "stillThere": "0.12852012",
+                "NoNode": "0.116785415",
+                "YesNode": "0.11305182",
+                "playOtherGame": "0.111142315",
+                "timesPlayed": "0.11099254"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "wait",
+            "queryText": "say that again please believe me ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2697968",
+            "confidencesOther": {
+                "listOfGames": "0.2697968",
+                "Repeat": "0.17852601",
+                "volumeUp": "0.11164999",
+                "volumeDown": "0.11119265",
+                "totalStop": "0.11033097",
+                "MaybeNode": "0.10925694",
+                "gamesCounter": "0.10924663"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "listOfGames",
+            "queryText": "what was that",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21342137",
+            "confidencesOther": {
+                "listOfGames": "0.21342137",
+                "volumeUp": "0.1984803",
+                "Repeat": "0.1432177",
+                "volumeDown": "0.112210535",
+                "totalStop": "0.111134",
+                "MaybeNode": "0.11080207",
+                "gamesCounter": "0.110734224"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "listOfGames",
+            "queryText": "what are you saying",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2927699",
+            "confidencesOther": {
+                "listOfGames": "0.2927699",
+                "Repeat": "0.12491363",
+                "volumeUp": "0.1203352",
+                "MaybeNode": "0.11650545",
+                "totalStop": "0.11649017",
+                "volumeDown": "0.11630607",
+                "gamesCounter": "0.11267942"
+            },
+            "goldenIntent": "Repeat",
+            "intent": "listOfGames",
+            "queryText": " so what",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27421004",
+            "confidencesOther": {
+                "totalStop": "0.27421004",
+                "volumeDown": "0.14164503",
+                "Repeat": "0.1318125",
+                "volumeUp": "0.1166687",
+                "listOfGames": "0.1143635",
+                "MaybeNode": "0.11194516",
+                "gamesCounter": "0.109355114"
+            },
+            "goldenIntent": "totalStop",
+            "intent": "totalStop",
+            "queryText": "stop and shut up",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2648343",
+            "confidencesOther": {
+                "wait": "0.2648343",
+                "stop": "0.13757347",
+                "stillThere": "0.101480655",
+                "timesPlayed": "0.099915296",
+                "YesNode": "0.09967126",
+                "playOtherGame": "0.099447206",
+                "NoNode": "0.09918163"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": "wait",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27359337",
+            "confidencesOther": {
+                "wait": "0.27359337",
+                "YesNode": "0.116888314",
+                "NoNode": "0.10185187",
+                "stop": "0.10178235",
+                "playOtherGame": "0.10172139",
+                "timesPlayed": "0.10156426",
+                "stillThere": "0.10133544"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": "wait a second needless to say ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26164663",
+            "confidencesOther": {
+                "wait": "0.26164663",
+                "playOtherGame": "0.1210385",
+                "stop": "0.10866782",
+                "YesNode": "0.10583145",
+                "NoNode": "0.10177944",
+                "timesPlayed": "0.100804105",
+                "stillThere": "0.1002187"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": "wait a while i wonder ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26307556",
+            "confidencesOther": {
+                "wait": "0.26307556",
+                "YesNode": "0.11729898",
+                "stop": "0.10907847",
+                "playOtherGame": "0.10645292",
+                "NoNode": "0.10153632",
+                "timesPlayed": "0.100887254",
+                "stillThere": "0.1008551"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": " i wonder wait  please",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27751946",
+            "confidencesOther": {
+                "wait": "0.27751946",
+                "NoNode": "0.10413106",
+                "stop": "0.10401622",
+                "playOtherGame": "0.10331696",
+                "timesPlayed": "0.103265174",
+                "stillThere": "0.10277749",
+                "YesNode": "0.102720365"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": "wait a minute please",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27007023",
+            "confidencesOther": {
+                "wait": "0.27007023",
+                "stop": "0.12077799",
+                "stillThere": "0.10833242",
+                "NoNode": "0.10076672",
+                "YesNode": "0.100649424",
+                "playOtherGame": "0.100050814",
+                "timesPlayed": "0.09967855"
+            },
+            "goldenIntent": "wait",
+            "intent": "wait",
+            "queryText": " okay wait a while please believe me ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.14109693",
+            "confidencesOther": {
+                "YesNode": "0.14109693",
+                "stop": "0.13266832",
+                "wait": "0.12678255",
+                "timesPlayed": "0.12184588",
+                "playOtherGame": "0.121824406",
+                "stillThere": "0.1188869",
+                "NoNode": "0.11861799"
+            },
+            "goldenIntent": "wait",
+            "intent": "YesNode",
+            "queryText": "one moment okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.1918747",
+            "confidencesOther": {
+                "volumeUp": "0.1918747",
+                "MaybeNode": "0.1670645",
+                "Repeat": "0.14025857",
+                "volumeDown": "0.13337503",
+                "listOfGames": "0.12703303",
+                "totalStop": "0.120262496",
+                "gamesCounter": "0.1201317"
+            },
+            "goldenIntent": "wait",
+            "intent": "volumeUp",
+            "queryText": " i would like to hear one moment please",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3064196",
+            "confidencesOther": {
+                "listOfGames": "0.3064196",
+                "gamesCounter": "0.12808995",
+                "Repeat": "0.113362834",
+                "volumeUp": "0.113128066",
+                "volumeDown": "0.11311984",
+                "totalStop": "0.11294096",
+                "MaybeNode": "0.11293861"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  games can i play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30997527",
+            "confidencesOther": {
+                "listOfGames": "0.30997527",
+                "volumeUp": "0.11625817",
+                "gamesCounter": "0.11528453",
+                "volumeDown": "0.114709675",
+                "Repeat": "0.114695534",
+                "MaybeNode": "0.114688374",
+                "totalStop": "0.11438842"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " right what  games can i play for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31038254",
+            "confidencesOther": {
+                "listOfGames": "0.31038254",
+                "gamesCounter": "0.11746497",
+                "Repeat": "0.11460793",
+                "volumeUp": "0.11451798",
+                "volumeDown": "0.11445564",
+                "totalStop": "0.11429331",
+                "MaybeNode": "0.11427756"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other games can i play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3106092",
+            "confidencesOther": {
+                "listOfGames": "0.3106092",
+                "volumeDown": "0.115612134",
+                "Repeat": "0.115012966",
+                "MaybeNode": "0.114792876",
+                "gamesCounter": "0.11470278",
+                "volumeUp": "0.11466024",
+                "totalStop": "0.114609756"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " would you let me know what other games can i play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31006378",
+            "confidencesOther": {
+                "listOfGames": "0.31006378",
+                "gamesCounter": "0.11801224",
+                "Repeat": "0.11483352",
+                "volumeUp": "0.114473104",
+                "volumeDown": "0.11424672",
+                "totalStop": "0.11419813",
+                "MaybeNode": "0.11417257"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  game can i play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30976465",
+            "confidencesOther": {
+                "listOfGames": "0.30976465",
+                "gamesCounter": "0.116916806",
+                "Repeat": "0.114903055",
+                "MaybeNode": "0.11475574",
+                "volumeUp": "0.11471999",
+                "volumeDown": "0.1144924",
+                "totalStop": "0.114447206"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other game can i play needless to say ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31110993",
+            "confidencesOther": {
+                "listOfGames": "0.31110993",
+                "Repeat": "0.11575666",
+                "volumeUp": "0.1147576",
+                "volumeDown": "0.114686675",
+                "MaybeNode": "0.114600606",
+                "gamesCounter": "0.11457446",
+                "totalStop": "0.114514135"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " could you what other game can i play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30383775",
+            "confidencesOther": {
+                "listOfGames": "0.30383775",
+                "gamesCounter": "0.13484733",
+                "Repeat": "0.11241771",
+                "volumeDown": "0.11239984",
+                "volumeUp": "0.11233838",
+                "totalStop": "0.11208962",
+                "MaybeNode": "0.11206942"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  games can we play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30575922",
+            "confidencesOther": {
+                "listOfGames": "0.30575922",
+                "Repeat": "0.12171707",
+                "volumeUp": "0.11695996",
+                "gamesCounter": "0.11410367",
+                "MaybeNode": "0.11384598",
+                "volumeDown": "0.11383488",
+                "totalStop": "0.113779314"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " can you what  games can we play can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30978763",
+            "confidencesOther": {
+                "listOfGames": "0.30978763",
+                "gamesCounter": "0.11892384",
+                "volumeUp": "0.11438141",
+                "volumeDown": "0.114359245",
+                "Repeat": "0.114357576",
+                "totalStop": "0.114106774",
+                "MaybeNode": "0.11408365"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other games can we play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30900893",
+            "confidencesOther": {
+                "listOfGames": "0.30900893",
+                "totalStop": "0.11591328",
+                "gamesCounter": "0.11591171",
+                "volumeDown": "0.114853315",
+                "volumeUp": "0.11479955",
+                "Repeat": "0.11479525",
+                "MaybeNode": "0.11471807"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what other games can we play at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30935958",
+            "confidencesOther": {
+                "listOfGames": "0.30935958",
+                "gamesCounter": "0.11971021",
+                "Repeat": "0.11464069",
+                "volumeUp": "0.11426165",
+                "MaybeNode": "0.1140449",
+                "totalStop": "0.11402731",
+                "volumeDown": "0.11395561"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  game can we play basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30477843",
+            "confidencesOther": {
+                "listOfGames": "0.30477843",
+                "Repeat": "0.11615712",
+                "MaybeNode": "0.11607952",
+                "totalStop": "0.11580806",
+                "volumeDown": "0.115765",
+                "gamesCounter": "0.11572843",
+                "volumeUp": "0.11568344"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " could you what  game can we play at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30392024",
+            "confidencesOther": {
+                "listOfGames": "0.30392024",
+                "volumeUp": "0.11742619",
+                "MaybeNode": "0.11623377",
+                "Repeat": "0.11575106",
+                "volumeDown": "0.11571795",
+                "gamesCounter": "0.11551768",
+                "totalStop": "0.115433164"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " i would like to hear which other game can we play sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3076307",
+            "confidencesOther": {
+                "listOfGames": "0.3076307",
+                "volumeUp": "0.11730983",
+                "MaybeNode": "0.11541184",
+                "Repeat": "0.11531134",
+                "volumeDown": "0.11487003",
+                "gamesCounter": "0.11480393",
+                "totalStop": "0.11466229"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " right what else can we play you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30744135",
+            "confidencesOther": {
+                "listOfGames": "0.30744135",
+                "volumeUp": "0.11692606",
+                "volumeDown": "0.11597404",
+                "Repeat": "0.11549048",
+                "gamesCounter": "0.11515369",
+                "MaybeNode": "0.11465012",
+                "totalStop": "0.11436426"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " in my humble opinion what can we play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3071224",
+            "confidencesOther": {
+                "listOfGames": "0.3071224",
+                "volumeUp": "0.11623508",
+                "Repeat": "0.11593028",
+                "gamesCounter": "0.115421414",
+                "MaybeNode": "0.11536246",
+                "volumeDown": "0.115077205",
+                "totalStop": "0.114851154"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " right which  games can you play could you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3111362",
+            "confidencesOther": {
+                "listOfGames": "0.3111362",
+                "gamesCounter": "0.11503504",
+                "volumeUp": "0.114895195",
+                "volumeDown": "0.114855096",
+                "Repeat": "0.11482073",
+                "MaybeNode": "0.114651166",
+                "totalStop": "0.11460651"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other games can you play you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3112137",
+            "confidencesOther": {
+                "listOfGames": "0.3112137",
+                "gamesCounter": "0.11524068",
+                "Repeat": "0.11489196",
+                "volumeUp": "0.11488717",
+                "volumeDown": "0.11470298",
+                "totalStop": "0.114532806",
+                "MaybeNode": "0.114530735"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what other games can you play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30965447",
+            "confidencesOther": {
+                "listOfGames": "0.30965447",
+                "volumeDown": "0.11566306",
+                "MaybeNode": "0.11553867",
+                "Repeat": "0.115313865",
+                "volumeUp": "0.114668466",
+                "gamesCounter": "0.114626184",
+                "totalStop": "0.11453524"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " would you let me know which  game can you play so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.311011",
+            "confidencesOther": {
+                "listOfGames": "0.311011",
+                "Repeat": "0.11528569",
+                "gamesCounter": "0.11519527",
+                "volumeUp": "0.115028016",
+                "volumeDown": "0.114577085",
+                "totalStop": "0.11445239",
+                "MaybeNode": "0.11445062"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what  game can you play",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30991083",
+            "confidencesOther": {
+                "listOfGames": "0.30991083",
+                "Repeat": "0.11576315",
+                "volumeUp": "0.11556397",
+                "volumeDown": "0.11494698",
+                "MaybeNode": "0.11476635",
+                "gamesCounter": "0.11453999",
+                "totalStop": "0.11450881"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what else can you play you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24653774",
+            "confidencesOther": {
+                "listOfGames": "0.24653774",
+                "MaybeNode": "0.12720332",
+                "Repeat": "0.12663408",
+                "gamesCounter": "0.1258528",
+                "volumeUp": "0.12487456",
+                "volumeDown": "0.12472163",
+                "totalStop": "0.12417601"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " could you which  games do you have i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3030815",
+            "confidencesOther": {
+                "listOfGames": "0.3030815",
+                "Repeat": "0.119200245",
+                "volumeUp": "0.117866695",
+                "gamesCounter": "0.11581533",
+                "volumeDown": "0.11472636",
+                "MaybeNode": "0.11471014",
+                "totalStop": "0.114599675"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what  games do you have can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29255897",
+            "confidencesOther": {
+                "listOfGames": "0.29255897",
+                "volumeUp": "0.118475534",
+                "Repeat": "0.118197806",
+                "totalStop": "0.117988884",
+                "gamesCounter": "0.11769619",
+                "MaybeNode": "0.117683224",
+                "volumeDown": "0.117399454"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " can you which other games do you have at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30930585",
+            "confidencesOther": {
+                "listOfGames": "0.30930585",
+                "volumeUp": "0.11620515",
+                "volumeDown": "0.11573351",
+                "gamesCounter": "0.11493484",
+                "Repeat": "0.11479391",
+                "MaybeNode": "0.11462025",
+                "totalStop": "0.11440639"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what other games do you have for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3074257",
+            "confidencesOther": {
+                "listOfGames": "0.3074257",
+                "volumeUp": "0.11758772",
+                "volumeDown": "0.116532676",
+                "MaybeNode": "0.11514406",
+                "gamesCounter": "0.11467615",
+                "Repeat": "0.114495374",
+                "totalStop": "0.114138305"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " in my humble opinion which  game do you have for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29506642",
+            "confidencesOther": {
+                "listOfGames": "0.29506642",
+                "totalStop": "0.124944046",
+                "gamesCounter": "0.116913706",
+                "MaybeNode": "0.116125524",
+                "volumeUp": "0.1158084",
+                "Repeat": "0.11564216",
+                "volumeDown": "0.11549987"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " at the end of the day what  game do you have",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30668658",
+            "confidencesOther": {
+                "listOfGames": "0.30668658",
+                "volumeDown": "0.118058704",
+                "MaybeNode": "0.11575277",
+                "volumeUp": "0.11507665",
+                "Repeat": "0.11507514",
+                "gamesCounter": "0.114714324",
+                "totalStop": "0.11463605"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " would you let me know which other game do you have in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30480528",
+            "confidencesOther": {
+                "listOfGames": "0.30480528",
+                "totalStop": "0.11764701",
+                "volumeUp": "0.116620585",
+                "MaybeNode": "0.11552565",
+                "gamesCounter": "0.11525953",
+                "Repeat": "0.11514587",
+                "volumeDown": "0.1149961"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " right what other game do you have at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2711383",
+            "confidencesOther": {
+                "listOfGames": "0.2711383",
+                "volumeUp": "0.13161005",
+                "MaybeNode": "0.12530549",
+                "Repeat": "0.12289511",
+                "volumeDown": "0.11640144",
+                "gamesCounter": "0.116360016",
+                "totalStop": "0.11628965"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " i want you to what else do you have",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29225263",
+            "confidencesOther": {
+                "listOfGames": "0.29225263",
+                "Repeat": "0.12514803",
+                "volumeUp": "0.12455617",
+                "gamesCounter": "0.11496452",
+                "volumeDown": "0.11484275",
+                "MaybeNode": "0.11446077",
+                "totalStop": "0.11377508"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what do you have",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30448458",
+            "confidencesOther": {
+                "listOfGames": "0.30448458",
+                "volumeUp": "0.11679293",
+                "MaybeNode": "0.11614186",
+                "Repeat": "0.11597683",
+                "volumeDown": "0.11591317",
+                "gamesCounter": "0.11551722",
+                "totalStop": "0.11517338"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " can you which  games do you know in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26468554",
+            "confidencesOther": {
+                "listOfGames": "0.26468554",
+                "volumeUp": "0.12354326",
+                "MaybeNode": "0.12345399",
+                "volumeDown": "0.123135306",
+                "Repeat": "0.12214103",
+                "gamesCounter": "0.12161224",
+                "totalStop": "0.121428415"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what  games do you know i would like to hear ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3082803",
+            "confidencesOther": {
+                "listOfGames": "0.3082803",
+                "volumeDown": "0.11581767",
+                "MaybeNode": "0.115691",
+                "Repeat": "0.11548558",
+                "volumeUp": "0.115001746",
+                "gamesCounter": "0.114890836",
+                "totalStop": "0.114832975"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " could you what other games do you know",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3033691",
+            "confidencesOther": {
+                "listOfGames": "0.3033691",
+                "MaybeNode": "0.12434873",
+                "volumeUp": "0.11505786",
+                "Repeat": "0.11464903",
+                "volumeDown": "0.114279136",
+                "gamesCounter": "0.11418575",
+                "totalStop": "0.114110254"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " you know which  game do you know i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30997363",
+            "confidencesOther": {
+                "listOfGames": "0.30997363",
+                "volumeUp": "0.11597733",
+                "MaybeNode": "0.115946725",
+                "gamesCounter": "0.114661716",
+                "Repeat": "0.11462265",
+                "volumeDown": "0.11448956",
+                "totalStop": "0.11432849"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what  game do you know right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3110621",
+            "confidencesOther": {
+                "listOfGames": "0.3110621",
+                "Repeat": "0.115461156",
+                "volumeUp": "0.11491944",
+                "volumeDown": "0.11481578",
+                "MaybeNode": "0.11464876",
+                "gamesCounter": "0.1145513",
+                "totalStop": "0.11454141"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what other game do you know okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26530805",
+            "confidencesOther": {
+                "listOfGames": "0.26530805",
+                "MaybeNode": "0.14473858",
+                "volumeDown": "0.12999903",
+                "Repeat": "0.11689573",
+                "volumeUp": "0.11453344",
+                "totalStop": "0.11427325",
+                "gamesCounter": "0.114251785"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " would you let me know what else do you know",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30853698",
+            "confidencesOther": {
+                "listOfGames": "0.30853698",
+                "gamesCounter": "0.12009416",
+                "volumeUp": "0.11480899",
+                "volumeDown": "0.11476417",
+                "Repeat": "0.11406624",
+                "MaybeNode": "0.11395803",
+                "totalStop": "0.11377153"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  games is available",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3109289",
+            "confidencesOther": {
+                "listOfGames": "0.3109289",
+                "volumeUp": "0.11524408",
+                "gamesCounter": "0.115093336",
+                "volumeDown": "0.11505986",
+                "Repeat": "0.11474321",
+                "MaybeNode": "0.114469886",
+                "totalStop": "0.11446066"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what other games is available",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3106846",
+            "confidencesOther": {
+                "listOfGames": "0.3106846",
+                "Repeat": "0.11522831",
+                "volumeUp": "0.11509976",
+                "volumeDown": "0.114845134",
+                "totalStop": "0.11473215",
+                "gamesCounter": "0.11473082",
+                "MaybeNode": "0.114679076"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " i think what  game is available well ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31034368",
+            "confidencesOther": {
+                "listOfGames": "0.31034368",
+                "volumeUp": "0.11698308",
+                "Repeat": "0.11573876",
+                "volumeDown": "0.11426601",
+                "MaybeNode": "0.11425565",
+                "gamesCounter": "0.11421864",
+                "totalStop": "0.1141941"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other game is available can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30765134",
+            "confidencesOther": {
+                "listOfGames": "0.30765134",
+                "gamesCounter": "0.120285004",
+                "volumeUp": "0.11561032",
+                "totalStop": "0.11433585",
+                "Repeat": "0.11409219",
+                "MaybeNode": "0.11406369",
+                "volumeDown": "0.11396167"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  games are available i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3073484",
+            "confidencesOther": {
+                "listOfGames": "0.3073484",
+                "volumeUp": "0.12203223",
+                "Repeat": "0.115702",
+                "MaybeNode": "0.11397781",
+                "gamesCounter": "0.11371029",
+                "volumeDown": "0.1136275",
+                "totalStop": "0.113601714"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " can you what  games are available i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3095301",
+            "confidencesOther": {
+                "listOfGames": "0.3095301",
+                "gamesCounter": "0.11679739",
+                "volumeUp": "0.11645177",
+                "volumeDown": "0.11474712",
+                "Repeat": "0.11432939",
+                "totalStop": "0.11408447",
+                "MaybeNode": "0.11405972"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which other games are available",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3106281",
+            "confidencesOther": {
+                "listOfGames": "0.3106281",
+                "Repeat": "0.11535085",
+                "volumeUp": "0.11534472",
+                "MaybeNode": "0.114840776",
+                "volumeDown": "0.11473287",
+                "gamesCounter": "0.1146322",
+                "totalStop": "0.114470296"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " could you what other games are available basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3095541",
+            "confidencesOther": {
+                "listOfGames": "0.3095541",
+                "volumeUp": "0.11671151",
+                "gamesCounter": "0.11566061",
+                "totalStop": "0.11485674",
+                "Repeat": "0.11464116",
+                "MaybeNode": "0.114405684",
+                "volumeDown": "0.11417031"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "which  game are available i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30908307",
+            "confidencesOther": {
+                "listOfGames": "0.30908307",
+                "volumeUp": "0.118402936",
+                "volumeDown": "0.11546429",
+                "gamesCounter": "0.11470464",
+                "Repeat": "0.11430576",
+                "MaybeNode": "0.11414631",
+                "totalStop": "0.113893084"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": "what  game are available in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30891126",
+            "confidencesOther": {
+                "listOfGames": "0.30891126",
+                "totalStop": "0.11843337",
+                "volumeUp": "0.11507202",
+                "MaybeNode": "0.114743486",
+                "gamesCounter": "0.11441297",
+                "volumeDown": "0.11426034",
+                "Repeat": "0.114166476"
+            },
+            "goldenIntent": "listOfGames",
+            "intent": "listOfGames",
+            "queryText": " so which other game are available at the end of the day ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.234849",
+            "confidencesOther": {
+                "gamesCounter": "0.234849",
+                "listOfGames": "0.1769317",
+                "volumeUp": "0.119377084",
+                "MaybeNode": "0.117632814",
+                "Repeat": "0.11714949",
+                "volumeDown": "0.11713275",
+                "totalStop": "0.11692726"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " i want you to how many  games have we played for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30753222",
+            "confidencesOther": {
+                "gamesCounter": "0.30753222",
+                "MaybeNode": "0.11860026",
+                "listOfGames": "0.11632254",
+                "volumeUp": "0.11482509",
+                "Repeat": "0.11457227",
+                "volumeDown": "0.1140997",
+                "totalStop": "0.1140478"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " needless to say how many memory games have we played",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2924089",
+            "confidencesOther": {
+                "gamesCounter": "0.2924089",
+                "listOfGames": "0.13246119",
+                "MaybeNode": "0.117141075",
+                "volumeUp": "0.11560566",
+                "Repeat": "0.114715606",
+                "totalStop": "0.11384796",
+                "volumeDown": "0.11381966"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " i want you to how many memory games have i played",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30510047",
+            "confidencesOther": {
+                "gamesCounter": "0.30510047",
+                "listOfGames": "0.11987066",
+                "MaybeNode": "0.11683251",
+                "volumeUp": "0.11610892",
+                "volumeDown": "0.11410307",
+                "Repeat": "0.114093825",
+                "totalStop": "0.11389056"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " well how many memory games have we played so far right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3074354",
+            "confidencesOther": {
+                "gamesCounter": "0.3074354",
+                "listOfGames": "0.12234461",
+                "MaybeNode": "0.11459194",
+                "volumeUp": "0.1144627",
+                "volumeDown": "0.11394338",
+                "Repeat": "0.11361791",
+                "totalStop": "0.1136041"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": "how many  games have i played so far so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30268088",
+            "confidencesOther": {
+                "gamesCounter": "0.30268088",
+                "MaybeNode": "0.12343768",
+                "Repeat": "0.115973376",
+                "listOfGames": "0.115097016",
+                "volumeUp": "0.11445733",
+                "volumeDown": "0.1141968",
+                "totalStop": "0.114157006"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " needless to say how many memory games have i played so far i wonder ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29015702",
+            "confidencesOther": {
+                "gamesCounter": "0.29015702",
+                "listOfGames": "0.14927578",
+                "volumeUp": "0.113486685",
+                "volumeDown": "0.112348266",
+                "MaybeNode": "0.11168353",
+                "Repeat": "0.111630745",
+                "totalStop": "0.11141803"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": "how many  games have we played in this session for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30605763",
+            "confidencesOther": {
+                "gamesCounter": "0.30605763",
+                "listOfGames": "0.12256124",
+                "volumeUp": "0.11516001",
+                "MaybeNode": "0.1146246",
+                "Repeat": "0.11428887",
+                "volumeDown": "0.11374012",
+                "totalStop": "0.11356764"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": "how many memory games have we played in this session",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27226105",
+            "confidencesOther": {
+                "gamesCounter": "0.27226105",
+                "listOfGames": "0.13361132",
+                "MaybeNode": "0.121483",
+                "volumeUp": "0.11916265",
+                "volumeDown": "0.118058674",
+                "Repeat": "0.11783708",
+                "totalStop": "0.11758626"
+            },
+            "goldenIntent": "gamesCounter",
+            "intent": "gamesCounter",
+            "queryText": " in my humble opinion how many memory games have i played in this session sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24785887",
+            "confidencesOther": {
+                "volumeUp": "0.24785887",
+                "volumeDown": "0.15133205",
+                "MaybeNode": "0.12078481",
+                "Repeat": "0.120472394",
+                "listOfGames": "0.120002344",
+                "gamesCounter": "0.119775355",
+                "totalStop": "0.119774215"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " would you let me know would you speak louder",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28788397",
+            "confidencesOther": {
+                "volumeUp": "0.28788397",
+                "volumeDown": "0.1267404",
+                "MaybeNode": "0.1178525",
+                "Repeat": "0.117119074",
+                "listOfGames": "0.117049254",
+                "gamesCounter": "0.116685025",
+                "totalStop": "0.11666967"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " i would like to hear could  speak louder in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31002256",
+            "confidencesOther": {
+                "volumeUp": "0.31002256",
+                "volumeDown": "0.11808299",
+                "Repeat": "0.114475094",
+                "MaybeNode": "0.11441976",
+                "totalStop": "0.11434981",
+                "gamesCounter": "0.11432582",
+                "listOfGames": "0.114323914"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "will  speak louder",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2749182",
+            "confidencesOther": {
+                "volumeUp": "0.2749182",
+                "volumeDown": "0.12738468",
+                "MaybeNode": "0.1208844",
+                "totalStop": "0.11942431",
+                "Repeat": "0.11936066",
+                "listOfGames": "0.11904642",
+                "gamesCounter": "0.118981384"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " at the end of the day would  speak louder i would like to hear ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31022003",
+            "confidencesOther": {
+                "volumeUp": "0.31022003",
+                "volumeDown": "0.116616085",
+                "MaybeNode": "0.11471941",
+                "Repeat": "0.11463055",
+                "listOfGames": "0.11462604",
+                "totalStop": "0.11460328",
+                "gamesCounter": "0.114584565"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " you know speak louder right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2648295",
+            "confidencesOther": {
+                "volumeUp": "0.2648295",
+                "volumeDown": "0.12592511",
+                "Repeat": "0.12435327",
+                "MaybeNode": "0.12185892",
+                "listOfGames": "0.12103148",
+                "totalStop": "0.12100502",
+                "gamesCounter": "0.120996684"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " basically could you talk louder i wonder ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30872494",
+            "confidencesOther": {
+                "volumeUp": "0.30872494",
+                "volumeDown": "0.11586366",
+                "Repeat": "0.11555804",
+                "listOfGames": "0.11515957",
+                "MaybeNode": "0.1149196",
+                "totalStop": "0.114892185",
+                "gamesCounter": "0.114882074"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " basically can you talk louder",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30397677",
+            "confidencesOther": {
+                "volumeUp": "0.30397677",
+                "volumeDown": "0.12237466",
+                "MaybeNode": "0.11485264",
+                "Repeat": "0.114770785",
+                "listOfGames": "0.114746734",
+                "totalStop": "0.114640094",
+                "gamesCounter": "0.11463829"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " you know will you talk louder",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30237517",
+            "confidencesOther": {
+                "volumeUp": "0.30237517",
+                "volumeDown": "0.13383405",
+                "MaybeNode": "0.11294155",
+                "Repeat": "0.11284807",
+                "listOfGames": "0.112715855",
+                "gamesCounter": "0.11264773",
+                "totalStop": "0.11263763"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "would you talk louder right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30045488",
+            "confidencesOther": {
+                "volumeUp": "0.30045488",
+                "volumeDown": "0.121443436",
+                "Repeat": "0.116245195",
+                "MaybeNode": "0.11596558",
+                "listOfGames": "0.11534422",
+                "gamesCounter": "0.115275435",
+                "totalStop": "0.115271315"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " can you could  talk louder so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23752527",
+            "confidencesOther": {
+                "volumeUp": "0.23752527",
+                "volumeDown": "0.1418945",
+                "MaybeNode": "0.12498164",
+                "Repeat": "0.124152005",
+                "listOfGames": "0.124022156",
+                "totalStop": "0.12371248",
+                "gamesCounter": "0.12371192"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " so can  talk louder would you let me know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29634458",
+            "confidencesOther": {
+                "volumeUp": "0.29634458",
+                "volumeDown": "0.121508665",
+                "Repeat": "0.11857088",
+                "MaybeNode": "0.11608434",
+                "totalStop": "0.11584347",
+                "listOfGames": "0.11583954",
+                "gamesCounter": "0.11580853"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " i wonder will  talk louder okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23505034",
+            "confidencesOther": {
+                "volumeUp": "0.23505034",
+                "volumeDown": "0.18182567",
+                "Repeat": "0.11782037",
+                "MaybeNode": "0.116707146",
+                "totalStop": "0.11620814",
+                "listOfGames": "0.11619784",
+                "gamesCounter": "0.116190635"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " i wonder would  talk louder well ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2704909",
+            "confidencesOther": {
+                "volumeUp": "0.2704909",
+                "volumeDown": "0.14483066",
+                "MaybeNode": "0.117700815",
+                "listOfGames": "0.11688294",
+                "Repeat": "0.11679538",
+                "totalStop": "0.11665006",
+                "gamesCounter": "0.11664923"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " would you let me know talk louder right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28247732",
+            "confidencesOther": {
+                "volumeUp": "0.28247732",
+                "volumeDown": "0.16250516",
+                "Repeat": "0.111312166",
+                "MaybeNode": "0.11105681",
+                "listOfGames": "0.1108891",
+                "gamesCounter": "0.11088304",
+                "totalStop": "0.110876486"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "could you speak more loud believe me ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19680096",
+            "confidencesOther": {
+                "volumeUp": "0.19680096",
+                "volumeDown": "0.18035363",
+                "Repeat": "0.12567073",
+                "MaybeNode": "0.124607466",
+                "listOfGames": "0.12446415",
+                "gamesCounter": "0.124052346",
+                "totalStop": "0.12405075"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " can you would you speak more loud would you let me know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2913157",
+            "confidencesOther": {
+                "volumeUp": "0.2913157",
+                "volumeDown": "0.13080534",
+                "MaybeNode": "0.11581665",
+                "Repeat": "0.115599126",
+                "totalStop": "0.11552267",
+                "gamesCounter": "0.11547773",
+                "listOfGames": "0.11546267"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " sounds great you speak more loud i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27044252",
+            "confidencesOther": {
+                "volumeUp": "0.27044252",
+                "volumeDown": "0.18468253",
+                "MaybeNode": "0.109195195",
+                "Repeat": "0.10909007",
+                "gamesCounter": "0.10887799",
+                "totalStop": "0.10886978",
+                "listOfGames": "0.10884212"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " believe me could  speak more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29933485",
+            "confidencesOther": {
+                "volumeUp": "0.29933485",
+                "volumeDown": "0.12790957",
+                "Repeat": "0.11479005",
+                "totalStop": "0.11455878",
+                "listOfGames": "0.114475645",
+                "MaybeNode": "0.114471056",
+                "gamesCounter": "0.11446006"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "can  speak more loud i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25519082",
+            "confidencesOther": {
+                "volumeUp": "0.25519082",
+                "volumeDown": "0.24210663",
+                "Repeat": "0.10061536",
+                "MaybeNode": "0.10057312",
+                "gamesCounter": "0.10052319",
+                "listOfGames": "0.100496925",
+                "totalStop": "0.100494"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "would  speak more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2873741",
+            "confidencesOther": {
+                "volumeUp": "0.2873741",
+                "volumeDown": "0.17060632",
+                "totalStop": "0.108612366",
+                "gamesCounter": "0.10848051",
+                "Repeat": "0.10842275",
+                "listOfGames": "0.10825333",
+                "MaybeNode": "0.108250566"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " believe me speak more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.24115452",
+            "confidencesOther": {
+                "volumeDown": "0.24115452",
+                "volumeUp": "0.19142585",
+                "Repeat": "0.115201555",
+                "MaybeNode": "0.11327924",
+                "listOfGames": "0.11298451",
+                "gamesCounter": "0.11297797",
+                "totalStop": "0.112976484"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": "could you talk more loud i wonder ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.18438628",
+            "confidencesOther": {
+                "volumeDown": "0.18438628",
+                "volumeUp": "0.16324931",
+                "MaybeNode": "0.13133425",
+                "Repeat": "0.13064353",
+                "listOfGames": "0.13017324",
+                "gamesCounter": "0.13011521",
+                "totalStop": "0.1300983"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": " needless to say can you talk more loud would you let me know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2502843",
+            "confidencesOther": {
+                "volumeDown": "0.2502843",
+                "volumeUp": "0.19385219",
+                "listOfGames": "0.11196433",
+                "MaybeNode": "0.11107937",
+                "Repeat": "0.111037485",
+                "gamesCounter": "0.11091768",
+                "totalStop": "0.11086465"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": " in my humble opinion would you talk more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29292887",
+            "confidencesOther": {
+                "volumeDown": "0.29292887",
+                "volumeUp": "0.13019356",
+                "MaybeNode": "0.11699482",
+                "Repeat": "0.115124516",
+                "listOfGames": "0.11499678",
+                "gamesCounter": "0.11488369",
+                "totalStop": "0.11487783"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": " would you let me know could  talk more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21792467",
+            "confidencesOther": {
+                "volumeUp": "0.21792467",
+                "volumeDown": "0.16657105",
+                "listOfGames": "0.12406616",
+                "MaybeNode": "0.12347421",
+                "Repeat": "0.122717",
+                "gamesCounter": "0.12265095",
+                "totalStop": "0.12259608"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " in my humble opinion can  talk more loud sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25719815",
+            "confidencesOther": {
+                "volumeUp": "0.25719815",
+                "volumeDown": "0.23971157",
+                "MaybeNode": "0.1006644",
+                "gamesCounter": "0.100622796",
+                "Repeat": "0.10062121",
+                "totalStop": "0.100593366",
+                "listOfGames": "0.10058849"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "will  talk more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2660587",
+            "confidencesOther": {
+                "volumeDown": "0.2660587",
+                "volumeUp": "0.19885859",
+                "MaybeNode": "0.1071694",
+                "totalStop": "0.107011914",
+                "Repeat": "0.107007064",
+                "gamesCounter": "0.1069597",
+                "listOfGames": "0.10693464"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": "would  talk more loud i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2544472",
+            "confidencesOther": {
+                "volumeUp": "0.2544472",
+                "volumeDown": "0.2543536",
+                "gamesCounter": "0.09846182",
+                "totalStop": "0.09832436",
+                "Repeat": "0.09817374",
+                "listOfGames": "0.098126985",
+                "MaybeNode": "0.09811217"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "talk more loud",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31093648",
+            "confidencesOther": {
+                "volumeUp": "0.31093648",
+                "MaybeNode": "0.115169704",
+                "volumeDown": "0.11509416",
+                "Repeat": "0.114985734",
+                "listOfGames": "0.11470401",
+                "gamesCounter": "0.11456015",
+                "totalStop": "0.11454961"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " right could you speak higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31036848",
+            "confidencesOther": {
+                "volumeUp": "0.31036848",
+                "Repeat": "0.11607454",
+                "MaybeNode": "0.11493739",
+                "volumeDown": "0.11484412",
+                "listOfGames": "0.11472105",
+                "gamesCounter": "0.114527866",
+                "totalStop": "0.11452664"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " so can you speak higher i would like to hear ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31054753",
+            "confidencesOther": {
+                "volumeUp": "0.31054753",
+                "Repeat": "0.11566706",
+                "listOfGames": "0.11505183",
+                "MaybeNode": "0.1149961",
+                "volumeDown": "0.11460864",
+                "totalStop": "0.11456487",
+                "gamesCounter": "0.11456394"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " okay will you speak higher i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30721918",
+            "confidencesOther": {
+                "volumeUp": "0.30721918",
+                "MaybeNode": "0.11656574",
+                "listOfGames": "0.11551138",
+                "volumeDown": "0.11531191",
+                "Repeat": "0.115203284",
+                "gamesCounter": "0.115095034",
+                "totalStop": "0.11509347"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " you know can  speak higher sounds great ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.3069423",
+            "confidencesOther": {
+                "volumeUp": "0.3069423",
+                "listOfGames": "0.12027712",
+                "volumeDown": "0.11555595",
+                "MaybeNode": "0.11468422",
+                "Repeat": "0.11426549",
+                "totalStop": "0.11414832",
+                "gamesCounter": "0.11412663"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "will  speak higher for what it is worth ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31095916",
+            "confidencesOther": {
+                "volumeUp": "0.31095916",
+                "volumeDown": "0.115836896",
+                "listOfGames": "0.114697285",
+                "gamesCounter": "0.11468066",
+                "totalStop": "0.11467798",
+                "Repeat": "0.11465436",
+                "MaybeNode": "0.11449347"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "speak higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31059527",
+            "confidencesOther": {
+                "volumeUp": "0.31059527",
+                "listOfGames": "0.11552193",
+                "Repeat": "0.11521916",
+                "volumeDown": "0.11520727",
+                "MaybeNode": "0.1145039",
+                "gamesCounter": "0.11447878",
+                "totalStop": "0.11447357"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "can you talk higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30789268",
+            "confidencesOther": {
+                "volumeUp": "0.30789268",
+                "volumeDown": "0.116131425",
+                "listOfGames": "0.115446515",
+                "MaybeNode": "0.115338504",
+                "Repeat": "0.11529561",
+                "gamesCounter": "0.1149506",
+                "totalStop": "0.11494462"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " basically will you talk higher well ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2797333",
+            "confidencesOther": {
+                "volumeUp": "0.2797333",
+                "volumeDown": "0.1337238",
+                "listOfGames": "0.12191198",
+                "MaybeNode": "0.11652712",
+                "Repeat": "0.11620244",
+                "gamesCounter": "0.11598081",
+                "totalStop": "0.11592044"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " in my humble opinion would you talk higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.31029633",
+            "confidencesOther": {
+                "volumeUp": "0.31029633",
+                "Repeat": "0.11610144",
+                "listOfGames": "0.11558284",
+                "volumeDown": "0.114881776",
+                "MaybeNode": "0.11439532",
+                "gamesCounter": "0.11437323",
+                "totalStop": "0.114369005"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "you talk higher can you ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30137554",
+            "confidencesOther": {
+                "volumeUp": "0.30137554",
+                "volumeDown": "0.127651",
+                "MaybeNode": "0.11716172",
+                "Repeat": "0.1135742",
+                "listOfGames": "0.11347751",
+                "gamesCounter": "0.11341787",
+                "totalStop": "0.11334219"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " so could  talk higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29321277",
+            "confidencesOther": {
+                "volumeUp": "0.29321277",
+                "Repeat": "0.1213264",
+                "MaybeNode": "0.1173819",
+                "volumeDown": "0.11724192",
+                "listOfGames": "0.11712921",
+                "totalStop": "0.11694781",
+                "gamesCounter": "0.11675997"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " i wonder can  talk higher i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28929093",
+            "confidencesOther": {
+                "volumeUp": "0.28929093",
+                "volumeDown": "0.13028224",
+                "MaybeNode": "0.12205888",
+                "listOfGames": "0.11479788",
+                "Repeat": "0.11456066",
+                "gamesCounter": "0.1145218",
+                "totalStop": "0.114487655"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " sounds great would  talk higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30786088",
+            "confidencesOther": {
+                "volumeUp": "0.30786088",
+                "volumeDown": "0.12342521",
+                "listOfGames": "0.11395178",
+                "gamesCounter": "0.11388342",
+                "totalStop": "0.113792546",
+                "Repeat": "0.11355868",
+                "MaybeNode": "0.11352745"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "talk higher",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.265575",
+            "confidencesOther": {
+                "volumeUp": "0.265575",
+                "MaybeNode": "0.14051174",
+                "Repeat": "0.124204226",
+                "listOfGames": "0.1182013",
+                "volumeDown": "0.11742358",
+                "gamesCounter": "0.11706042",
+                "totalStop": "0.1170237"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "i can't hear you very well i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29660335",
+            "confidencesOther": {
+                "volumeUp": "0.29660335",
+                "Repeat": "0.13227172",
+                "MaybeNode": "0.115837194",
+                "volumeDown": "0.1147338",
+                "listOfGames": "0.11386886",
+                "gamesCounter": "0.11340698",
+                "totalStop": "0.113278106"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "i can't hear you  well",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.29561377",
+            "confidencesOther": {
+                "volumeUp": "0.29561377",
+                "MaybeNode": "0.12536274",
+                "Repeat": "0.12163767",
+                "volumeDown": "0.115170635",
+                "listOfGames": "0.114542745",
+                "gamesCounter": "0.113921195",
+                "totalStop": "0.113751404"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "i can't hear you very",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2933622",
+            "confidencesOther": {
+                "volumeDown": "0.2933622",
+                "volumeUp": "0.12970185",
+                "Repeat": "0.115842916",
+                "totalStop": "0.11562755",
+                "MaybeNode": "0.11531046",
+                "listOfGames": "0.11511002",
+                "gamesCounter": "0.115045026"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": "you are talking too quiet i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2197221",
+            "confidencesOther": {
+                "volumeDown": "0.2197221",
+                "volumeUp": "0.14895715",
+                "MaybeNode": "0.127698",
+                "Repeat": "0.12732296",
+                "listOfGames": "0.12604949",
+                "gamesCounter": "0.12512544",
+                "totalStop": "0.12512484"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeDown",
+            "queryText": " well you are  too quiet i want you to ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.30813953",
+            "confidencesOther": {
+                "volumeUp": "0.30813953",
+                "MaybeNode": "0.11673926",
+                "volumeDown": "0.11612386",
+                "Repeat": "0.115612164",
+                "listOfGames": "0.11499838",
+                "gamesCounter": "0.11424162",
+                "totalStop": "0.11414519"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "you are speaking too low",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28765354",
+            "confidencesOther": {
+                "volumeUp": "0.28765354",
+                "volumeDown": "0.12277907",
+                "Repeat": "0.12255893",
+                "MaybeNode": "0.11837697",
+                "listOfGames": "0.117124155",
+                "totalStop": "0.11579757",
+                "gamesCounter": "0.11570975"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "you are talking too low okay ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25251174",
+            "confidencesOther": {
+                "volumeUp": "0.25251174",
+                "listOfGames": "0.1727947",
+                "MaybeNode": "0.12519294",
+                "volumeDown": "0.11415793",
+                "Repeat": "0.11298524",
+                "totalStop": "0.111260355",
+                "gamesCounter": "0.11109704"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " for what it is worth you are  too low",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.28070718",
+            "confidencesOther": {
+                "volumeUp": "0.28070718",
+                "volumeDown": "0.12268379",
+                "MaybeNode": "0.12246102",
+                "listOfGames": "0.11908906",
+                "Repeat": "0.118992135",
+                "totalStop": "0.11807987",
+                "gamesCounter": "0.11798698"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " you know you are speaking too quietly believe me ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23428501",
+            "confidencesOther": {
+                "volumeUp": "0.23428501",
+                "volumeDown": "0.1729745",
+                "Repeat": "0.12007784",
+                "MaybeNode": "0.12003142",
+                "listOfGames": "0.11782351",
+                "totalStop": "0.117415376",
+                "gamesCounter": "0.1173924"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "you are talking too quietly",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19578281",
+            "confidencesOther": {
+                "volumeUp": "0.19578281",
+                "listOfGames": "0.15336078",
+                "volumeDown": "0.14010389",
+                "MaybeNode": "0.13306631",
+                "Repeat": "0.12718998",
+                "gamesCounter": "0.12550049",
+                "totalStop": "0.12499571"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": " in my humble opinion you are  too quietly",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.20287636",
+            "confidencesOther": {
+                "volumeUp": "0.20287636",
+                "totalStop": "0.18642806",
+                "volumeDown": "0.13758264",
+                "listOfGames": "0.12844563",
+                "Repeat": "0.12332346",
+                "gamesCounter": "0.11129033",
+                "MaybeNode": "0.11005367"
+            },
+            "goldenIntent": "volumeUp",
+            "intent": "volumeUp",
+            "queryText": "volume up",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2636042",
+            "confidencesOther": {
+                "timesPlayed": "0.2636042",
+                "stop": "0.15195347",
+                "YesNode": "0.09849824",
+                "wait": "0.09724293",
+                "stillThere": "0.09721659",
+                "NoNode": "0.0971765",
+                "playOtherGame": "0.09716689"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have we talked already i think ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27583477",
+            "confidencesOther": {
+                "timesPlayed": "0.27583477",
+                "YesNode": "0.11380839",
+                "stop": "0.10206034",
+                "wait": "0.10198944",
+                "stillThere": "0.10162372",
+                "NoNode": "0.10160432",
+                "playOtherGame": "0.10159637"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have we chatted already",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2585055",
+            "confidencesOther": {
+                "timesPlayed": "0.2585055",
+                "stop": "0.169749",
+                "wait": "0.095504604",
+                "NoNode": "0.09529621",
+                "YesNode": "0.09527945",
+                "stillThere": "0.09525855",
+                "playOtherGame": "0.09524474"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have we spoken already",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2645826",
+            "confidencesOther": {
+                "timesPlayed": "0.2645826",
+                "YesNode": "0.14912456",
+                "stillThere": "0.09832459",
+                "stop": "0.0982701",
+                "NoNode": "0.09747221",
+                "wait": "0.097419076",
+                "playOtherGame": "0.097404495"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " can you how many times have i launched you already",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2787161",
+            "confidencesOther": {
+                "timesPlayed": "0.2787161",
+                "YesNode": "0.10369717",
+                "stop": "0.10342466",
+                "stillThere": "0.10334066",
+                "NoNode": "0.10284124",
+                "wait": "0.10268868",
+                "playOtherGame": "0.10264635"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " well how many times have i started you already",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27503893",
+            "confidencesOther": {
+                "timesPlayed": "0.27503893",
+                "YesNode": "0.1163573",
+                "stop": "0.1019152",
+                "stillThere": "0.101374276",
+                "wait": "0.10137012",
+                "NoNode": "0.101334624",
+                "playOtherGame": "0.10131839"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have i talked to you already basically ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.23364541",
+            "confidencesOther": {
+                "timesPlayed": "0.23364541",
+                "YesNode": "0.13544261",
+                "stillThere": "0.10584775",
+                "stop": "0.10503821",
+                "wait": "0.10502932",
+                "NoNode": "0.105019934",
+                "playOtherGame": "0.104992814"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " i want you to how many times have we talked so far in my humble opinion ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.262108",
+            "confidencesOther": {
+                "timesPlayed": "0.262108",
+                "stop": "0.15862483",
+                "wait": "0.09670517",
+                "stillThere": "0.09654881",
+                "YesNode": "0.096533574",
+                "NoNode": "0.09652499",
+                "playOtherGame": "0.09649436"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have we spoken so far",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.27428785",
+            "confidencesOther": {
+                "timesPlayed": "0.27428785",
+                "NoNode": "0.10403331",
+                "stillThere": "0.103843816",
+                "YesNode": "0.1037806",
+                "stop": "0.10355654",
+                "playOtherGame": "0.10354412",
+                "wait": "0.10347764"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " basically how many times have i opened you so far would you let me know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.16665329",
+            "confidencesOther": {
+                "gamesCounter": "0.16665329",
+                "volumeUp": "0.16080505",
+                "volumeDown": "0.13824826",
+                "Repeat": "0.13775931",
+                "MaybeNode": "0.1341484",
+                "totalStop": "0.13133086",
+                "listOfGames": "0.1310547"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "gamesCounter",
+            "queryText": " i think how many times have we talked i would like to hear ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26836336",
+            "confidencesOther": {
+                "timesPlayed": "0.26836336",
+                "YesNode": "0.13759558",
+                "stop": "0.09936049",
+                "stillThere": "0.09926542",
+                "wait": "0.098997265",
+                "NoNode": "0.09889101",
+                "playOtherGame": "0.09879397"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have we chatted",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2449464",
+            "confidencesOther": {
+                "timesPlayed": "0.2449464",
+                "YesNode": "0.21113323",
+                "stop": "0.09092623",
+                "stillThere": "0.090664886",
+                "wait": "0.090622075",
+                "NoNode": "0.09059483",
+                "playOtherGame": "0.090565786"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " right how many times have we spoken",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2736527",
+            "confidencesOther": {
+                "timesPlayed": "0.2736527",
+                "stillThere": "0.118945785",
+                "YesNode": "0.1023077",
+                "stop": "0.102130346",
+                "NoNode": "0.10086017",
+                "wait": "0.10073381",
+                "playOtherGame": "0.100691214"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": "how many times have i launched you",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.26863042",
+            "confidencesOther": {
+                "timesPlayed": "0.26863042",
+                "stillThere": "0.13511398",
+                "YesNode": "0.100220375",
+                "stop": "0.09991063",
+                "NoNode": "0.099117614",
+                "wait": "0.09900723",
+                "playOtherGame": "0.09900054"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " can you how many times have i started you",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.2768868",
+            "confidencesOther": {
+                "timesPlayed": "0.2768868",
+                "NoNode": "0.109156415",
+                "stop": "0.10368331",
+                "stillThere": "0.10219246",
+                "YesNode": "0.1020969",
+                "playOtherGame": "0.10202867",
+                "wait": "0.10200503"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " at the end of the day how many times have i opened you",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25684273",
+            "confidencesOther": {
+                "timesPlayed": "0.25684273",
+                "YesNode": "0.16692169",
+                "stop": "0.09667306",
+                "stillThere": "0.09605288",
+                "NoNode": "0.09589815",
+                "wait": "0.095875904",
+                "playOtherGame": "0.09586882"
+            },
+            "goldenIntent": "timesPlayed",
+            "intent": "timesPlayed",
+            "queryText": " i wonder how many times have i talked to you",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.25427184",
+            "confidencesOther": {
+                "stillThere": "0.25427184",
+                "YesNode": "0.13334493",
+                "timesPlayed": "0.10590303",
+                "NoNode": "0.10291924",
+                "stop": "0.10121023",
+                "playOtherGame": "0.10103738",
+                "wait": "0.10068495"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "stillThere",
+            "queryText": "are you still there so ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.21115951",
+            "confidencesOther": {
+                "volumeUp": "0.21115951",
+                "Repeat": "0.17075853",
+                "volumeDown": "0.13449322",
+                "MaybeNode": "0.12308406",
+                "listOfGames": "0.12251052",
+                "totalStop": "0.11905306",
+                "gamesCounter": "0.118941054"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "volumeUp",
+            "queryText": " well are you sleeping",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.19363132",
+            "confidencesOther": {
+                "totalStop": "0.19363132",
+                "volumeUp": "0.15507722",
+                "MaybeNode": "0.13931395",
+                "Repeat": "0.13056318",
+                "volumeDown": "0.12967876",
+                "listOfGames": "0.12728259",
+                "gamesCounter": "0.124453045"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "totalStop",
+            "queryText": " at the end of the day are you asleep",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.157472",
+            "confidencesOther": {
+                "volumeDown": "0.157472",
+                "listOfGames": "0.15281095",
+                "volumeUp": "0.14653419",
+                "MaybeNode": "0.1396952",
+                "gamesCounter": "0.1358786",
+                "Repeat": "0.13583235",
+                "totalStop": "0.13177668"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "volumeDown",
+            "queryText": " in my humble opinion have you turned off",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.16646132",
+            "confidencesOther": {
+                "stop": "0.16646132",
+                "timesPlayed": "0.1600238",
+                "stillThere": "0.12647404",
+                "YesNode": "0.11056741",
+                "NoNode": "0.10989852",
+                "wait": "0.10977225",
+                "playOtherGame": "0.108452946"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "stop",
+            "queryText": "have you stopped",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.15708694",
+            "confidencesOther": {
+                "YesNode": "0.15708694",
+                "stillThere": "0.15370226",
+                "stop": "0.11590173",
+                "playOtherGame": "0.11544304",
+                "NoNode": "0.114562824",
+                "timesPlayed": "0.11450551",
+                "wait": "0.11440443"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "YesNode",
+            "queryText": " for what it is worth did you stop",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": "0.20485169",
+            "confidencesOther": {
+                "totalStop": "0.20485169",
+                "Repeat": "0.15937933",
+                "MaybeNode": "0.14310536",
+                "listOfGames": "0.1255235",
+                "volumeUp": "0.12382768",
+                "volumeDown": "0.12257071",
+                "gamesCounter": "0.12074177"
+            },
+            "goldenIntent": "stillThere",
+            "intent": "totalStop",
+            "queryText": "did you quit at the end of the day ",
+            "queryHit": "log_regression"
+        }
+    ]
+}

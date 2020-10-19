@@ -1,0 +1,523 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Make Update",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "Setup Printer",
+      "features": []
+    },
+    {
+      "name": "Shutdown Computer",
+      "features": []
+    },
+    {
+      "name": "Software Recommendation",
+      "features": []
+    }
+  ],
+  "entities": [
+    {
+      "name": "Printer",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "SoftwareName",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "UbuntuVersion",
+      "children": [],
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "any command line calculator for ubuntu?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "are there any keyboard shortcuts to shutdown?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "can you recommend a password generator?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "extracting embedded images from a pdf",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "hotkey to shut down from login screen?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how can i automatically shutdown the system after a specific time?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how can i enable shutdown verbosity?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how can i highlight or annotate pdfs?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how can i install a pantum 2502w laser printer on ubuntu",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 20,
+          "endPos": 31,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how can one shutdown a pc using the keyboard?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how do i fix a shutdown problem?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how do i install drivers for a konica minolta 200?",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 31,
+          "endPos": 49,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i install drivers for the panasonic mb1900cx all-in-one printer/scanner?",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 33,
+          "endPos": 50,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i setup my hp c4140 printer wirelessly?",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 18,
+          "endPos": 25,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to install a brother mfc-5890cn network printer?",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 17,
+          "endPos": 51,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to install canon lbp2900b printer in 14.04 lts ? i tried the method for lbp2900 but it didnt work",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 15,
+          "endPos": 28,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 41,
+          "endPos": 53,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to record my screen?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how to setup hp printer/scanner on ubuntu?",
+      "intent": "Setup Printer",
+      "entities": []
+    },
+    {
+      "text": "how to setup wireless printing from a printer connected via usb on ubuntu server 12.10?",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 81,
+          "endPos": 86,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to shutdown computer when users are logged on?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how to shutdown the computer after xsession ends?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "how to upgrade from 11.10 to 12.04 when you've got a problem?",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 20,
+          "endPos": 33,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 40,
+          "endPos": 51,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to upgrade from ubuntu 10.10 to 11.04?",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to upgrade ubuntu 14.04.1 to 14.04.2?",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 22,
+          "endPos": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to upgrade ubuntu 9.10 to 12.10 via terminal?",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 22,
+          "endPos": 34,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 40,
+          "endPos": 48,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "install canon mp560 ubuntu 15.04",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "Printer",
+          "startPos": 8,
+          "endPos": 18,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 31,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "is it worth upgrading from 12.04 lts to 13.04",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 44,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "is there a lightweight tool to crop images quickly?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "is there an application for reading mobi files?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "mysql gui tools",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "no matter what i do ubuntu 15.04 does not recognize hp laserjet 1020",
+      "intent": "Setup Printer",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 40,
+          "children": []
+        },
+        {
+          "entity": "Printer",
+          "startPos": 64,
+          "endPos": 67,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "password management applications?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "shut down without extra question",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "shutdown after a certain time",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "shutdown problem in ubuntu 16.04",
+      "intent": "Shutdown Computer",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 20,
+          "endPos": 25,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "torrent client for the command-line?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "update 11.04 to 12.04 with livecd",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 7,
+          "endPos": 20,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 27,
+          "endPos": 32,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "upgrade 12.04 to 12.10 using startup disk",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 8,
+          "endPos": 21,
+          "children": []
+        },
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 29,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "upgrade to 12.04 64 bit",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 11,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "upgrading from ubuntu 14.04 to 15.04",
+      "intent": "Make Update",
+      "entities": [
+        {
+          "entity": "UbuntuVersion",
+          "startPos": 22,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "upnp / dlna (client) player recommendations?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what developer text editors are available for ubuntu?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what graphical utility can i use for ubuntu auto shutdown?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "what irc clients are available?",
+      "intent": "Software Recommendation",
+      "entities": [
+        {
+          "entity": "SoftwareName",
+          "startPos": 5,
+          "endPos": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "what is a good mongodb gui client?",
+      "intent": "Software Recommendation",
+      "entities": [
+        {
+          "entity": "SoftwareName",
+          "startPos": 15,
+          "endPos": 21,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "what is the proper terminal-way to shutdown?",
+      "intent": "Shutdown Computer",
+      "entities": []
+    },
+    {
+      "text": "what new games are available for ubuntu in 2011?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what scientific plotting software is available?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what screenshot tools are available?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what to use to quickly cut audio/video",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "what tools do you use to monitor a web server?",
+      "intent": "Software Recommendation",
+      "entities": []
+    },
+    {
+      "text": "which programs can i use to edit pdf files?",
+      "intent": "Software Recommendation",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1.0",
+  "name": "AskUbuntu",
+  "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

@@ -1,0 +1,111 @@
+[
+    {
+        "intents": [
+            {
+                "Sync Accounts": [
+                    {
+                        "truePos": 3,
+                        "falseNeg": 3,
+                        "falsePos": 4,
+                        "precision": 0.42857142857142855,
+                        "recall": 0.5,
+                        "f1": 0.4615384615384615
+                    }
+                ],
+                "Change Password": [
+                    {
+                        "truePos": 6,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "None": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 4,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Export Data": [
+                    {
+                        "truePos": 2,
+                        "falseNeg": 1,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.6666666666666666,
+                        "f1": 0.8
+                    }
+                ],
+                "Find Alternative": [
+                    {
+                        "truePos": 13,
+                        "falseNeg": 3,
+                        "falsePos": 3,
+                        "precision": 0.8125,
+                        "recall": 0.8125,
+                        "f1": 0.8125
+                    }
+                ],
+                "Delete Account": [
+                    {
+                        "truePos": 10,
+                        "falseNeg": 0,
+                        "falsePos": 6,
+                        "precision": 0.625,
+                        "recall": 1.0,
+                        "f1": 0.7692307692307693
+                    }
+                ],
+                "Download Video": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 0,
+                        "falsePos": 1,
+                        "precision": 0.0,
+                        "recall": "n.a.",
+                        "f1": "n.a."
+                    }
+                ],
+                "Filter Spam": [
+                    {
+                        "truePos": 10,
+                        "falseNeg": 4,
+                        "falsePos": 1,
+                        "precision": 0.9090909090909091,
+                        "recall": 0.7142857142857143,
+                        "f1": 0.8
+                    }
+                ],
+                "precision": 0.7457627118644068,
+                "recall": 0.7457627118644068,
+                "f1": 0.7457627118644068
+            }
+        ],
+        "entities": [
+            {
+                "WebService": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 64,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "precision": "n.a.",
+                "recall": 0.0,
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.7457627118644068,
+        "recall": 0.35772357723577236,
+        "f1": 0.4835164835164835
+    }
+]

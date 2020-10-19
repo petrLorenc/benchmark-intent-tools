@@ -1,0 +1,228 @@
+{
+    "name": "WebApplicationsCorpus",
+    "description": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "language": "en",
+    "metadata": null,
+    "counterexamples": [],
+    "dialog_nodes": [],
+    "created": "2020-06-28T19:04:04.379047Z",
+    "updated": "2020-06-28T19:04:04.379048Z",
+    "workspace_id": "",
+    "intents": [
+        {
+            "intent": "Download_Video",
+            "created": "2020-06-28T19:04:04.378979Z",
+            "updated": "2020-06-28T19:04:04.378979Z",
+            "examples": [
+                {
+                    "text": "How do I download a YouTube video?",
+                    "created": "2020-06-28T19:04:04.378979Z",
+                    "updated": "2020-06-28T19:04:04.378979Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Change_Password",
+            "created": "2020-06-28T19:04:04.378983Z",
+            "updated": "2020-06-28T19:04:04.378983Z",
+            "examples": [
+                {
+                    "text": "How do I change my password on TV Tropes?",
+                    "created": "2020-06-28T19:04:04.378983Z",
+                    "updated": "2020-06-28T19:04:04.378983Z"
+                },
+                {
+                    "text": "Why can't I change my password and login with Skype?",
+                    "created": "2020-06-28T19:04:04.378986Z",
+                    "updated": "2020-06-28T19:04:04.378986Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "None",
+            "created": "2020-06-28T19:04:04.378987Z",
+            "updated": "2020-06-28T19:04:04.378987Z",
+            "examples": [
+                {
+                    "text": "Change subject line in new Gmail compose window",
+                    "created": "2020-06-28T19:04:04.378987Z",
+                    "updated": "2020-06-28T19:04:04.378987Z"
+                },
+                {
+                    "text": "Email Google Form daily?",
+                    "created": "2020-06-28T19:04:04.378989Z",
+                    "updated": "2020-06-28T19:04:04.378989Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Export_Data",
+            "created": "2020-06-28T19:04:04.378991Z",
+            "updated": "2020-06-28T19:04:04.378991Z",
+            "examples": [
+                {
+                    "text": "How can I export track.scrobble data from last.fm?",
+                    "created": "2020-06-28T19:04:04.378991Z",
+                    "updated": "2020-06-28T19:04:04.378991Z"
+                },
+                {
+                    "text": "How can I backup my wordpress.com hosted blog?",
+                    "created": "2020-06-28T19:04:04.378992Z",
+                    "updated": "2020-06-28T19:04:04.378992Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Sync_Accounts",
+            "created": "2020-06-28T19:04:04.378994Z",
+            "updated": "2020-06-28T19:04:04.378994Z",
+            "examples": [
+                {
+                    "text": "How can I sync my Yahoo! Calendar with Google Calendar?",
+                    "created": "2020-06-28T19:04:04.378994Z",
+                    "updated": "2020-06-28T19:04:04.378994Z"
+                },
+                {
+                    "text": "Google Bookmarks and Chrome Bookmark Sync -- Different?",
+                    "created": "2020-06-28T19:04:04.378995Z",
+                    "updated": "2020-06-28T19:04:04.378995Z"
+                },
+                {
+                    "text": "How do I sync my RunKeeper workout schedule with Google Calender?",
+                    "created": "2020-06-28T19:04:04.378997Z",
+                    "updated": "2020-06-28T19:04:04.378997Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Filter_Spam",
+            "created": "2020-06-28T19:04:04.378998Z",
+            "updated": "2020-06-28T19:04:04.378998Z",
+            "examples": [
+                {
+                    "text": "Does using Gmail's \"Never send it to Spam\" filter mean I can't train their spam filter?",
+                    "created": "2020-06-28T19:04:04.378998Z",
+                    "updated": "2020-06-28T19:04:04.378998Z"
+                },
+                {
+                    "text": "Correctly Identifying Spam Messages",
+                    "created": "2020-06-28T19:04:04.379000Z",
+                    "updated": "2020-06-28T19:04:04.379000Z"
+                },
+                {
+                    "text": "Twitter and Echofon spam",
+                    "created": "2020-06-28T19:04:04.379001Z",
+                    "updated": "2020-06-28T19:04:04.379001Z"
+                },
+                {
+                    "text": "Totally Blocking Spam To Gmail Account",
+                    "created": "2020-06-28T19:04:04.379003Z",
+                    "updated": "2020-06-28T19:04:04.379003Z"
+                },
+                {
+                    "text": "Discarding spam mail faster in Gmail",
+                    "created": "2020-06-28T19:04:04.379004Z",
+                    "updated": "2020-06-28T19:04:04.379004Z"
+                },
+                {
+                    "text": "Stopping spam emails in Gmail by pattern",
+                    "created": "2020-06-28T19:04:04.379006Z",
+                    "updated": "2020-06-28T19:04:04.379006Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Find_Alternative",
+            "created": "2020-06-28T19:04:04.379007Z",
+            "updated": "2020-06-28T19:04:04.379007Z",
+            "examples": [
+                {
+                    "text": "Alternatives for Google Reader (with Android synchronizing)",
+                    "created": "2020-06-28T19:04:04.379007Z",
+                    "updated": "2020-06-28T19:04:04.379007Z"
+                },
+                {
+                    "text": "Bugmenot (registration bypasser) alternative that doesn't suck?",
+                    "created": "2020-06-28T19:04:04.379009Z",
+                    "updated": "2020-06-28T19:04:04.379009Z"
+                },
+                {
+                    "text": "Alternatives to Twitter",
+                    "created": "2020-06-28T19:04:04.379011Z",
+                    "updated": "2020-06-28T19:04:04.379011Z"
+                },
+                {
+                    "text": "Google search engine alternatives",
+                    "created": "2020-06-28T19:04:04.379012Z",
+                    "updated": "2020-06-28T19:04:04.379012Z"
+                },
+                {
+                    "text": "Alternatives to Google Groups with more features?",
+                    "created": "2020-06-28T19:04:04.379014Z",
+                    "updated": "2020-06-28T19:04:04.379014Z"
+                },
+                {
+                    "text": "Are there any good Veoh or Youtube alternatives?",
+                    "created": "2020-06-28T19:04:04.379015Z",
+                    "updated": "2020-06-28T19:04:04.379015Z"
+                },
+                {
+                    "text": "Mint alternatives for Canada",
+                    "created": "2020-06-28T19:04:04.379016Z",
+                    "updated": "2020-06-28T19:04:04.379016Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Delete_Account",
+            "created": "2020-06-28T19:04:04.379018Z",
+            "updated": "2020-06-28T19:04:04.379018Z",
+            "examples": [
+                {
+                    "text": "How can I delete my Twitter account?",
+                    "created": "2020-06-28T19:04:04.379018Z",
+                    "updated": "2020-06-28T19:04:04.379018Z"
+                },
+                {
+                    "text": "How do I delete my LinkedIn account?",
+                    "created": "2020-06-28T19:04:04.379020Z",
+                    "updated": "2020-06-28T19:04:04.379020Z"
+                },
+                {
+                    "text": "How do I delete my Gmail account?",
+                    "created": "2020-06-28T19:04:04.379021Z",
+                    "updated": "2020-06-28T19:04:04.379021Z"
+                },
+                {
+                    "text": "How do I delete my Experts Exchange account?",
+                    "created": "2020-06-28T19:04:04.379023Z",
+                    "updated": "2020-06-28T19:04:04.379023Z"
+                },
+                {
+                    "text": "How do I delete my Ohloh profile?",
+                    "created": "2020-06-28T19:04:04.379024Z",
+                    "updated": "2020-06-28T19:04:04.379024Z"
+                },
+                {
+                    "text": "How can I permanently delete my MySpace account?",
+                    "created": "2020-06-28T19:04:04.379026Z",
+                    "updated": "2020-06-28T19:04:04.379026Z"
+                },
+                {
+                    "text": "How to disable/delete a Harvest account?",
+                    "created": "2020-06-28T19:04:04.379027Z",
+                    "updated": "2020-06-28T19:04:04.379027Z"
+                }
+            ],
+            "description": null
+        }
+    ],
+    "entities": []
+}

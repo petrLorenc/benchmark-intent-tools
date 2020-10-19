@@ -1,0 +1,409 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Change Password",
+      "features": []
+    },
+    {
+      "name": "Delete Account",
+      "features": []
+    },
+    {
+      "name": "Download Video",
+      "features": []
+    },
+    {
+      "name": "Export Data",
+      "features": []
+    },
+    {
+      "name": "Filter Spam",
+      "features": []
+    },
+    {
+      "name": "Find Alternative",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "Sync Accounts",
+      "features": []
+    }
+  ],
+  "entities": [
+    {
+      "name": "Browser",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "OperatingSystem",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "WebService",
+      "children": [],
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "alternatives for google reader (with android synchronizing)",
+      "intent": "Find Alternative",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 17,
+          "endPos": 29,
+          "children": []
+        },
+        {
+          "entity": "OperatingSystem",
+          "startPos": 45,
+          "endPos": 58,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "alternatives to google groups with more features?",
+      "intent": "Find Alternative",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 16,
+          "endPos": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "alternatives to twitter",
+      "intent": "Find Alternative",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 16,
+          "endPos": 22,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "are there any good veoh or youtube alternatives?",
+      "intent": "Find Alternative",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 19,
+          "endPos": 22,
+          "children": []
+        },
+        {
+          "entity": "WebService",
+          "startPos": 27,
+          "endPos": 33,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "bugmenot (registration bypasser) alternative that doesn't suck?",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "change subject line in new gmail compose window",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 27,
+          "endPos": 31,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "correctly identifying spam messages",
+      "intent": "Filter Spam",
+      "entities": []
+    },
+    {
+      "text": "discarding spam mail faster in gmail",
+      "intent": "Filter Spam",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 31,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "does using gmail's \"never send it to spam\" filter mean i can't train their spam filter?",
+      "intent": "Filter Spam",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 11,
+          "endPos": 17,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "email google form daily?",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 6,
+          "endPos": 11,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "google bookmarks and chrome bookmark sync -- different?",
+      "intent": "Sync Accounts",
+      "entities": [
+        {
+          "entity": "Browser",
+          "startPos": 21,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "google search engine alternatives",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "how can i backup my wordpress.com hosted blog?",
+      "intent": "Export Data",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 20,
+          "endPos": 45,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how can i delete my twitter account?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 20,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how can i export track.scrobble data from last.fm?",
+      "intent": "Export Data",
+      "entities": []
+    },
+    {
+      "text": "how can i permanently delete my myspace account?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 32,
+          "endPos": 38,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how can i sync my yahoo! calendar with google calendar?",
+      "intent": "Sync Accounts",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 18,
+          "endPos": 37,
+          "children": []
+        },
+        {
+          "entity": "WebService",
+          "startPos": 46,
+          "endPos": 54,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i change my password on tv tropes?",
+      "intent": "Change Password",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 31,
+          "endPos": 40,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i delete my experts exchange account?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 19,
+          "endPos": 34,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i delete my gmail account?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 19,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i delete my linkedin account?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 19,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i delete my ohloh profile?",
+      "intent": "Delete Account",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 19,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i download a youtube video?",
+      "intent": "Download Video",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 20,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how do i sync my runkeeper workout schedule with google calender?",
+      "intent": "Sync Accounts",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 17,
+          "endPos": 25,
+          "children": []
+        },
+        {
+          "entity": "WebService",
+          "startPos": 49,
+          "endPos": 64,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "how to disable/delete a harvest account?",
+      "intent": "Delete Account",
+      "entities": []
+    },
+    {
+      "text": "mint alternatives for canada",
+      "intent": "Find Alternative",
+      "entities": []
+    },
+    {
+      "text": "stopping spam emails in gmail by pattern",
+      "intent": "Filter Spam",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 24,
+          "endPos": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "totally blocking spam to gmail account",
+      "intent": "Filter Spam",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 25,
+          "endPos": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "twitter and echofon spam",
+      "intent": "Filter Spam",
+      "entities": [
+        {
+          "entity": "WebService",
+          "startPos": 12,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "why can't i change my password and login with skype?",
+      "intent": "Change Password",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1.0",
+  "name": "WebApplications",
+  "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

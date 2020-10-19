@@ -1,0 +1,69 @@
+{
+    "name": "None",
+    "auto": true,
+    "contexts": [],
+    "priority": 500000,
+    "fallbackIntent": false,
+    "webhookUsed": false,
+    "events": [],
+    "userSays": [
+        {
+            "data": [
+                {
+                    "text": "Change subject line in new "
+                },
+                {
+                    "text": "Gmail",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " compose window"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c4ca4238a0b923820dcc509a6f75849b"
+        },
+        {
+            "data": [
+                {
+                    "text": "Email "
+                },
+                {
+                    "text": "Google",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " Form daily?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c81e728d9d4c2f636f067f89cc14862c"
+        }
+    ],
+    "responses": [
+        {
+            "affectedContexts": [],
+            "resetContexts": false,
+            "dataType": "@None",
+            "name": "None",
+            "value": "$None",
+            "parameters": [
+                {
+                    "isListe": false
+                }
+            ],
+            "messages": [
+                {
+                    "type": 0,
+                    "speech": []
+                }
+            ]
+        }
+    ]
+}

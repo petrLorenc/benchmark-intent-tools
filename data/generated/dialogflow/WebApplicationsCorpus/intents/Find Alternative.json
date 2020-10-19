@@ -1,0 +1,170 @@
+{
+    "name": "Find Alternative",
+    "auto": true,
+    "contexts": [],
+    "priority": 500000,
+    "fallbackIntent": false,
+    "webhookUsed": false,
+    "events": [],
+    "userSays": [
+        {
+            "data": [
+                {
+                    "text": "Alternatives for "
+                },
+                {
+                    "text": "Google Reader",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " (with "
+                },
+                {
+                    "text": "Android",
+                    "userDefined": true,
+                    "alias": "OperatingSystem",
+                    "meta": "@OperatingSystem"
+                },
+                {
+                    "text": " synchronizing)"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c4ca4238a0b923820dcc509a6f75849b"
+        },
+        {
+            "data": [
+                {
+                    "text": "Bugmenot",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " (registration bypasser) alternative that doesn't suck?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c81e728d9d4c2f636f067f89cc14862c"
+        },
+        {
+            "data": [
+                {
+                    "text": "Alternatives to "
+                },
+                {
+                    "text": "Twitter",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "eccbc87e4b5ce2fe28308fd9f2a7baf3"
+        },
+        {
+            "data": [
+                {
+                    "text": "Google",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " search engine alternatives"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "a87ff679a2f3e71d9181a67b7542122c"
+        },
+        {
+            "data": [
+                {
+                    "text": "Alternatives to "
+                },
+                {
+                    "text": "Google Groups",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " with more features?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "e4da3b7fbbce2345d7772b0674a318d5"
+        },
+        {
+            "data": [
+                {
+                    "text": "Are there any good "
+                },
+                {
+                    "text": "Veoh",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " or "
+                },
+                {
+                    "text": "Youtube",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " alternatives?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "1679091c5a880faf6fb5e6087eb1b2dc"
+        },
+        {
+            "data": [
+                {
+                    "text": "Mint",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " alternatives for Canada"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "8f14e45fceea167a5a36dedd4bea2543"
+        }
+    ],
+    "responses": [
+        {
+            "affectedContexts": [],
+            "resetContexts": false,
+            "dataType": "@Find Alternative",
+            "name": "Find Alternative",
+            "value": "$Find Alternative",
+            "parameters": [
+                {
+                    "isListe": false
+                }
+            ],
+            "messages": [
+                {
+                    "type": 0,
+                    "speech": []
+                }
+            ]
+        }
+    ]
+}

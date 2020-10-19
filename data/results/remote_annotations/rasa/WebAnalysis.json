@@ -1,0 +1,101 @@
+[
+    {
+        "intents": [
+            {
+                "Export Data": [
+                    {
+                        "truePos": 3,
+                        "falseNeg": 0,
+                        "falsePos": 2,
+                        "precision": 0.6,
+                        "recall": 1.0,
+                        "f1": 0.7499999999999999
+                    }
+                ],
+                "Change Password": [
+                    {
+                        "truePos": 6,
+                        "falseNeg": 0,
+                        "falsePos": 2,
+                        "precision": 0.75,
+                        "recall": 1.0,
+                        "f1": 0.8571428571428571
+                    }
+                ],
+                "None": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 4,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Delete Account": [
+                    {
+                        "truePos": 8,
+                        "falseNeg": 2,
+                        "falsePos": 3,
+                        "precision": 0.7272727272727273,
+                        "recall": 0.8,
+                        "f1": 0.761904761904762
+                    }
+                ],
+                "Download Video": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 0,
+                        "falsePos": 1,
+                        "precision": 0.0,
+                        "recall": "n.a.",
+                        "f1": "n.a."
+                    }
+                ],
+                "Filter Spam": [
+                    {
+                        "truePos": 11,
+                        "falseNeg": 3,
+                        "falsePos": 1,
+                        "precision": 0.9166666666666666,
+                        "recall": 0.7857142857142857,
+                        "f1": 0.8461538461538461
+                    }
+                ],
+                "Find Alternative": [
+                    {
+                        "truePos": 15,
+                        "falseNeg": 1,
+                        "falsePos": 3,
+                        "precision": 0.8333333333333334,
+                        "recall": 0.9375,
+                        "f1": 0.8823529411764706
+                    }
+                ],
+                "Sync Accounts": [
+                    {
+                        "truePos": 4,
+                        "falseNeg": 2,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.6666666666666666,
+                        "f1": 0.8
+                    }
+                ],
+                "precision": 0.7966101694915254,
+                "recall": 0.7966101694915254,
+                "f1": 0.7966101694915254
+            }
+        ],
+        "entities": [
+            {
+                "precision": "n.a.",
+                "recall": "n.a.",
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.7966101694915254,
+        "recall": 0.7966101694915254,
+        "f1": 0.7966101694915254
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "intents": [
+            {
+                "totalStop_G": [
+                    {
+                        "truePos": 1,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "stillThere_G": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 5,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "wait_G": [
+                    {
+                        "truePos": 3,
+                        "falseNeg": 3,
+                        "falsePos": 3,
+                        "precision": 0.5,
+                        "recall": 0.5,
+                        "f1": 0.5
+                    }
+                ],
+                "gamesCounter_G": [
+                    {
+                        "truePos": 5,
+                        "falseNeg": 1,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.8333333333333334,
+                        "f1": 0.9090909090909091
+                    }
+                ],
+                "volumeDown_G": [
+                    {
+                        "truePos": 54,
+                        "falseNeg": 8,
+                        "falsePos": 15,
+                        "precision": 0.782608695652174,
+                        "recall": 0.8709677419354839,
+                        "f1": 0.8244274809160306
+                    }
+                ],
+                "stop_G": [
+                    {
+                        "truePos": 3,
+                        "falseNeg": 13,
+                        "falsePos": 1,
+                        "precision": 0.75,
+                        "recall": 0.1875,
+                        "f1": 0.3
+                    }
+                ],
+                "-18_L": [
+                    {
+                        "truePos": 15,
+                        "falseNeg": 7,
+                        "falsePos": 6,
+                        "precision": 0.7142857142857143,
+                        "recall": 0.6818181818181818,
+                        "f1": 0.6976744186046512
+                    }
+                ],
+                "playOtherGame_G": [
+                    {
+                        "truePos": 55,
+                        "falseNeg": 7,
+                        "falsePos": 3,
+                        "precision": 0.9482758620689655,
+                        "recall": 0.8870967741935484,
+                        "f1": 0.9166666666666667
+                    }
+                ],
+                "listOfGames_G": [
+                    {
+                        "truePos": 27,
+                        "falseNeg": 6,
+                        "falsePos": 13,
+                        "precision": 0.675,
+                        "recall": 0.8181818181818182,
+                        "f1": 0.7397260273972603
+                    }
+                ],
+                "timesPlayed_G": [
+                    {
+                        "truePos": 10,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "volumeUp_G": [
+                    {
+                        "truePos": 25,
+                        "falseNeg": 12,
+                        "falsePos": 4,
+                        "precision": 0.8620689655172413,
+                        "recall": 0.6756756756756757,
+                        "f1": 0.7575757575757576
+                    }
+                ],
+                "-3_L": [
+                    {
+                        "truePos": 252,
+                        "falseNeg": 30,
+                        "falsePos": 52,
+                        "precision": 0.8289473684210527,
+                        "recall": 0.8936170212765957,
+                        "f1": 0.8600682593856654
+                    }
+                ],
+                "Repeat_G": [
+                    {
+                        "truePos": 7,
+                        "falseNeg": 5,
+                        "falsePos": 5,
+                        "precision": 0.5833333333333334,
+                        "recall": 0.5833333333333334,
+                        "f1": 0.5833333333333334
+                    }
+                ],
+                "-17_L": [
+                    {
+                        "truePos": 74,
+                        "falseNeg": 32,
+                        "falsePos": 27,
+                        "precision": 0.7326732673267327,
+                        "recall": 0.6981132075471698,
+                        "f1": 0.714975845410628
+                    }
+                ],
+                "precision": 0.8045454545454546,
+                "recall": 0.8045454545454546,
+                "f1": 0.8045454545454547
+            }
+        ],
+        "entities": [
+            {
+                "precision": "n.a.",
+                "recall": "n.a.",
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.8045454545454546,
+        "recall": 0.8045454545454546,
+        "f1": 0.8045454545454547
+    }
+]

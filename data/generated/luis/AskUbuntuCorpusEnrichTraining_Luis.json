@@ -1,0 +1,308 @@
+{
+    "luis_schema_version": "2.2.0",
+    "versionId": "0.1.0",
+    "name": "AskUbuntuCorpus",
+    "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "culture": "en-us",
+    "intents": [
+        {
+            "name": "Software Recommendation"
+        },
+        {
+            "name": "None"
+        },
+        {
+            "name": "Make Update"
+        },
+        {
+            "name": "Setup Printer"
+        },
+        {
+            "name": "Shutdown Computer"
+        }
+    ],
+    "entities": [
+        {
+            "name": "SoftwareName"
+        },
+        {
+            "name": "UbuntuVersion"
+        },
+        {
+            "name": "Printer"
+        }
+    ],
+    "bing_entities": [],
+    "model_features": [],
+    "regex_features": [],
+    "regex_entities": [],
+    "composites": [],
+    "closedLists": [],
+    "utterances": [
+        {
+            "text": "How to  uhm  record my screen? seriously ",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": " basically How can I highlight or annotate  PDFs?",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear Is  somehow  it worth upgrading from 12.04 LTS to 13.04 as you can see ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": "Upgrade to 12.04  really  64 bit well  right ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " sounds great How to upgrade  Ubuntu 14.04.1 to 14.04.2? you see ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " right Upgrading  just  from Ubuntu 14.04 to 15.04 you know what I mean ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " can you how to upgrade from ubuntu 15.04 to  somehow  15.10? right ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": "Upgrade 12.04 to 12.10 using  yeah  startup disk you know what I mean ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " i want you to How to Upgrade from 11.10 to 12.04  ehm  when you've got a problem?",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": "Update 11.04  to 12.04 with LiveCD you know ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " could you How  to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day How to upgrade from Ubuntu  ehm  10.10 to 11.04? seriously ",
+            "intent": "Make Update",
+            "entities": []
+        },
+        {
+            "text": " right No matter what I do Ubuntu 15.04 does not recognize  just  HP LaserJet 1020 right ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " well How  to setup HP printer/scanner on ubuntu?",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " i wonder How do I  just  setup my HP C4140 printer wirelessly?",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " sounds great How  to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10? you know what I mean ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " could you How can I install a Pantum 2502W laser  just  printer on Ubuntu you see ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " would you let me know Install Canon MP560 Ubuntu  somehow  15.04 please ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " sounds great How to install a Brother MFC-5890CN network  really  printer? you know ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion How do  I install drivers for a Konica Minolta 200?",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " sounds great How do I install drivers for the Panasonic MB1900CX  All-in-One Printer/Scanner? as you can see ",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the  oh  method for LBP2900 but it didnt work",
+            "intent": "Setup Printer",
+            "entities": []
+        },
+        {
+            "text": " needless to say Any command  yeah  line calculator for Ubuntu? you see ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": "Extracting embedded images  somehow  from a PDF well  right ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " would you let me know What to  oh  use to quickly cut Audio/Video you know ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion Torrent client for the  uhm  command-line? right ",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": " would you let me know MySQL  just  GUI Tools you see ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day What developer text editors are available  for Ubuntu?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": "What screenshot tools are  really  available? you know what I mean ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " so Which programs can I use to  uhm  edit PDF files?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": "Is there a lightweight tool to  crop images quickly?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " i think What IRC  somehow  clients are available? please ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " believe me What new games are  just  available for Ubuntu in 2011? please ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " needless to say UPNP / DLNA (client) player  somehow  recommendations? well  right ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " i think What scientific plotting software  is available? seriously ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": "Can  oh  you recommend a password generator? you know what I mean ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " could you What  tools do you use to monitor a web server? you know what I mean ",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " for what it is worth What is a good  just  MongoDB GUI client?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " i want you to Password  ehm  Management Applications?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day Is  there an application for reading mobi files?",
+            "intent": "Software Recommendation",
+            "entities": []
+        },
+        {
+            "text": " you know shut down without extra  ehm  question you see ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "How to shutdown computer when  oh  users are logged on?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "What is the proper terminal-way to  shutdown?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " i think How can I automatically shutdown the system after  yeah  a specific time?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " right Hotkey to  just  shut down from login screen? you know ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "How to shutdown  really  the computer after Xsession ends? please ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " i wonder How can one shutdown a  oh  PC using the keyboard?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "How can  oh  I enable shutdown verbosity? you know ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "Are there any Keyboard Shortcuts  really  to Shutdown?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " so Shutdown after  a certain time",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " needless to say Shutdown problem in  ehm  Ubuntu 16.04 well  right ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": " right How do I fix a shutdown  problem?",
+            "intent": "Shutdown Computer",
+            "entities": []
+        },
+        {
+            "text": "What graphical  utility can I use for Ubuntu auto shutdown? as you can see ",
+            "intent": "Shutdown Computer",
+            "entities": []
+        }
+    ]
+}

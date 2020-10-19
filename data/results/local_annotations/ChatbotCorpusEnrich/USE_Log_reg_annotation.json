@@ -1,0 +1,1170 @@
+{
+    "results": [
+        {
+            "confidence": 0.8659539861965537,
+            "confidencesOther": {
+                "FindConnection": 0.8659539861965537,
+                "DepartureTime": 0.13404601380344633
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " would you let me know i want  to go marienplatz as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9988286131939405,
+            "confidencesOther": {
+                "DepartureTime": 0.9988286131939405,
+                "FindConnection": 0.001171386806059549
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when is  the next train in muncher freiheit?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9986477765369758,
+            "confidencesOther": {
+                "DepartureTime": 0.9986477765369758,
+                "FindConnection": 0.0013522234630242158
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when does the next  ehm  u-bahn leaves from garching forschungszentrum?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9982939013022814,
+            "confidencesOther": {
+                "FindConnection": 0.9982939013022814,
+                "DepartureTime": 0.0017060986977185946
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " could you from olympia  einkaufszentrum to hauptbahnhof",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8538696963222662,
+            "confidencesOther": {
+                "DepartureTime": 0.8538696963222662,
+                "FindConnection": 0.14613030367773383
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "DepartureTime",
+            "queryText": "when  is the next train from winterstraße 12 to kieferngarten please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6036780209796343,
+            "confidencesOther": {
+                "FindConnection": 0.6036780209796343,
+                "DepartureTime": 0.3963219790203657
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " can you when is the next rocket from winterstraße  12 to kieferngarte well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998129378374998,
+            "confidencesOther": {
+                "FindConnection": 0.9998129378374998,
+                "DepartureTime": 0.00018706216250024098
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "can you  ehm  find a connection from garching to hauptbahnhof?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999746736518459,
+            "confidencesOther": {
+                "FindConnection": 0.9999746736518459,
+                "DepartureTime": 2.5326348154072698e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " you know how to  somehow  get from untere strassäcker 21 to fröttmaning you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999336198941785,
+            "confidencesOther": {
+                "FindConnection": 0.9999336198941785,
+                "DepartureTime": 6.638010582149467e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how i can get from  marienplatz to garching",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9771717077160589,
+            "confidencesOther": {
+                "FindConnection": 0.9771717077160589,
+                "DepartureTime": 0.022828292283941065
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "connection from  boltzmannstraße to kieferngarten seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8384961926836727,
+            "confidencesOther": {
+                "FindConnection": 0.8384961926836727,
+                "DepartureTime": 0.16150380731632724
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " in my humble opinion how to get from bonner platz to  freimann?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9986316388426857,
+            "confidencesOther": {
+                "DepartureTime": 0.9986316388426857,
+                "FindConnection": 0.0013683611573143128
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " would you let me know when is the  just  next s-bahn leaving at garching?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998541789210382,
+            "confidencesOther": {
+                "FindConnection": 0.9998541789210382,
+                "DepartureTime": 0.00014582107896178148
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how do i get from  oh  oez to hbf? you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997520926455622,
+            "confidencesOther": {
+                "FindConnection": 0.9997520926455622,
+                "DepartureTime": 0.00024790735443778355
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how  to get from winterstrasse 12 to fröttmaning you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998697691583707,
+            "confidencesOther": {
+                "FindConnection": 0.9998697691583707,
+                "DepartureTime": 0.00013023084162928176
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " you know how do i get from  garching forschungszentrum to pasing",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9906280052261739,
+            "confidencesOther": {
+                "FindConnection": 0.9906280052261739,
+                "DepartureTime": 0.009371994773826149
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i think theresienstraße to  yeah  assling please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.985021870823335,
+            "confidencesOther": {
+                "FindConnection": 0.985021870823335,
+                "DepartureTime": 0.014978129176664978
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " needless to say how  uhm  can i get from theresienstraße to munich east? well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998644345674492,
+            "confidencesOther": {
+                "DepartureTime": 0.9998644345674492,
+                "FindConnection": 0.00013556543255077713
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " believe me when does  ehm  the next bus starts from garching? you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9968048277194396,
+            "confidencesOther": {
+                "FindConnection": 0.9968048277194396,
+                "DepartureTime": 0.003195172280560463
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " okay from quiddestraße to  somehow  garching? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9995906353703807,
+            "confidencesOther": {
+                "FindConnection": 0.9995906353703807,
+                "DepartureTime": 0.0004093646296192383
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i think can you  yeah  find a connection from kurt-eisner-straße to garching forschungszentrum? as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997985323761728,
+            "confidencesOther": {
+                "FindConnection": 0.9997985323761728,
+                "DepartureTime": 0.00020146762382717046
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " okay can  somehow  you find a connection from quiddestraße to garching forschungszentrum?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9916770572420921,
+            "confidencesOther": {
+                "DepartureTime": 0.9916770572420921,
+                "FindConnection": 0.008322942757907903
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " could you when does  uhm  the next train leaves at garching? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9458701947028909,
+            "confidencesOther": {
+                "FindConnection": 0.9458701947028909,
+                "DepartureTime": 0.05412980529710906
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great from  really  hauptbahnhof to garching?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998714414020563,
+            "confidencesOther": {
+                "FindConnection": 0.9998714414020563,
+                "DepartureTime": 0.00012855859794364373
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " right how can i get  to glockenbachviertel from garching forschungszentrum? well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9945247092502665,
+            "confidencesOther": {
+                "FindConnection": 0.9945247092502665,
+                "DepartureTime": 0.005475290749733566
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " at the end of the day how i can  get from garching to nordfriedhof well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997778660331214,
+            "confidencesOther": {
+                "FindConnection": 0.9997778660331214,
+                "DepartureTime": 0.000222133966878591
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " right how  really  can i get to glockenbachviertel from garching forschungszentrum? as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9967612962414282,
+            "confidencesOther": {
+                "DepartureTime": 0.9967612962414282,
+                "FindConnection": 0.003238703758571826
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " at the end of the day when is the next train  oh  leaving in garching forschungszentrum well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999894168397102,
+            "confidencesOther": {
+                "FindConnection": 0.999894168397102,
+                "DepartureTime": 0.0001058316028979548
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great how can i get from moosach  just  to quiddestraße? well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999790238222082,
+            "confidencesOther": {
+                "FindConnection": 0.9999790238222082,
+                "DepartureTime": 2.0976177791791916e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get from  moosach to poccistraße? well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999896917811844,
+            "confidencesOther": {
+                "FindConnection": 0.9999896917811844,
+                "DepartureTime": 1.0308218815629875e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how  can i get from kurt-eisner-straße to garching forschungszentrum? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997840954334479,
+            "confidencesOther": {
+                "FindConnection": 0.9997840954334479,
+                "DepartureTime": 0.00021590456655211653
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " in my humble opinion how can i get from moosach to  yeah  quiddestraße? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999717388994935,
+            "confidencesOther": {
+                "FindConnection": 0.9999717388994935,
+                "DepartureTime": 2.826110050650765e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i would like to hear how can i get  uhm  from moosach to odeonsplatz? as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994949644815471,
+            "confidencesOther": {
+                "DepartureTime": 0.9994949644815471,
+                "FindConnection": 0.0005050355184529343
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " i wonder when does the next bus  ehm  starts at garching? you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999860673815946,
+            "confidencesOther": {
+                "FindConnection": 0.999860673815946,
+                "DepartureTime": 0.00013932618405403197
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "what's the shortest way from quiddestraße to  odeonsplatz? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9885482023706351,
+            "confidencesOther": {
+                "DepartureTime": 0.9885482023706351,
+                "FindConnection": 0.01145179762936488
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " can you when  oh  is the next bus from ostbahnhof as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9987578889081407,
+            "confidencesOther": {
+                "FindConnection": 0.9987578889081407,
+                "DepartureTime": 0.0012421110918593328
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " would you let me know how i can get from garching to  uhm  neuperlach sued right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9993592474007632,
+            "confidencesOther": {
+                "DepartureTime": 0.9993592474007632,
+                "FindConnection": 0.0006407525992367935
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when is the next train in  oh  munchner freiheit?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999904928194104,
+            "confidencesOther": {
+                "FindConnection": 0.9999904928194104,
+                "DepartureTime": 9.507180589511512e-06
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i wonder how  i can get from marienplatz to garching?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9995194996152057,
+            "confidencesOther": {
+                "FindConnection": 0.9995194996152057,
+                "DepartureTime": 0.0004805003847943019
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how do i get from poccistraße  just  to laim well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9990439059962473,
+            "confidencesOther": {
+                "FindConnection": 0.9990439059962473,
+                "DepartureTime": 0.0009560940037527276
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "i want to go  somehow  garching from marienplatz",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996438618523961,
+            "confidencesOther": {
+                "FindConnection": 0.9996438618523961,
+                "DepartureTime": 0.00035613814760395395
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " for what it is worth how i can get  just  from marienplatz to garching? you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9989534388412834,
+            "confidencesOther": {
+                "FindConnection": 0.9989534388412834,
+                "DepartureTime": 0.001046561158716651
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " would you let me know how  yeah  can i get from hauptbahnhof to odeonsplatz",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9362890452548344,
+            "confidencesOther": {
+                "FindConnection": 0.9362890452548344,
+                "DepartureTime": 0.06371095474516567
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i think prinzregentenplatz to  yeah  rotkreuzplatz",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998724588973977,
+            "confidencesOther": {
+                "FindConnection": 0.9998724588973977,
+                "DepartureTime": 0.00012754110260230624
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "i want to  go to garching from marienplatz right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7339973053408831,
+            "confidencesOther": {
+                "FindConnection": 0.7339973053408831,
+                "DepartureTime": 0.26600269465911686
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "FindConnection",
+            "queryText": " okay next  really  train from garching you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9234244742117784,
+            "confidencesOther": {
+                "FindConnection": 0.9234244742117784,
+                "DepartureTime": 0.07657552578822162
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great from  uhm  prinzregentenplatz to rotkreuzplatz please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9983292121962647,
+            "confidencesOther": {
+                "DepartureTime": 0.9983292121962647,
+                "FindConnection": 0.0016707878037353074
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when  is the next subway from garching forschungszentrum you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9895032972058359,
+            "confidencesOther": {
+                "FindConnection": 0.9895032972058359,
+                "DepartureTime": 0.010496702794164101
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "from garching  to klinikum",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9696012132694098,
+            "confidencesOther": {
+                "FindConnection": 0.9696012132694098,
+                "DepartureTime": 0.030398786730590183
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "from garching foschungszentrum to  really  odeonsplatz",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9991728631321716,
+            "confidencesOther": {
+                "DepartureTime": 0.9991728631321716,
+                "FindConnection": 0.0008271368678284263
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "next bus  in garching please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996087852626971,
+            "confidencesOther": {
+                "DepartureTime": 0.9996087852626971,
+                "FindConnection": 0.0003912147373028585
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when does  the train leaving in garching forschungszentrum",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9504831579986264,
+            "confidencesOther": {
+                "DepartureTime": 0.9504831579986264,
+                "FindConnection": 0.04951684200137363
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " would you let me know next subway from  garching forschungszentrum well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9891914352698203,
+            "confidencesOther": {
+                "DepartureTime": 0.9891914352698203,
+                "FindConnection": 0.01080856473017966
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "tell me  just  the next bus from garching seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9820571368393344,
+            "confidencesOther": {
+                "DepartureTime": 0.9820571368393344,
+                "FindConnection": 0.017942863160665623
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " at the end of the day next  just  bus from garching, please. right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9513510601745809,
+            "confidencesOther": {
+                "DepartureTime": 0.9513510601745809,
+                "FindConnection": 0.04864893982541907
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " i want you to next bus  from garching seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8750095718761901,
+            "confidencesOther": {
+                "DepartureTime": 0.8750095718761901,
+                "FindConnection": 0.1249904281238099
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " so next bus from central  oh  station you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.993141113277044,
+            "confidencesOther": {
+                "FindConnection": 0.993141113277044,
+                "DepartureTime": 0.006858886722955982
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " so from garching to  uhm  marienplatz seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9939348916952858,
+            "confidencesOther": {
+                "DepartureTime": 0.9939348916952858,
+                "FindConnection": 0.006065108304714184
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "next bus from  garching.",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9941338476593558,
+            "confidencesOther": {
+                "FindConnection": 0.9941338476593558,
+                "DepartureTime": 0.005866152340644239
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "connection from garching to  hauptbahnhof? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999477139246162,
+            "confidencesOther": {
+                "DepartureTime": 0.9999477139246162,
+                "FindConnection": 5.228607538376728e-05
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " you know when does the next bus departs from  garching? right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9435066122152501,
+            "confidencesOther": {
+                "FindConnection": 0.9435066122152501,
+                "DepartureTime": 0.0564933877847499
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great find connection from hauptbahnhof  to odeonsplatz as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9991124531016876,
+            "confidencesOther": {
+                "DepartureTime": 0.9991124531016876,
+                "FindConnection": 0.0008875468983123858
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when does the next  really  u-bahn departs at garching forschungszentrum?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.991068780855083,
+            "confidencesOther": {
+                "DepartureTime": 0.991068780855083,
+                "FindConnection": 0.008931219144917013
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " believe me when  just  does the next u-bahn departs at garching? you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997412043343978,
+            "confidencesOther": {
+                "DepartureTime": 0.9997412043343978,
+                "FindConnection": 0.00025879566560216283
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when does the next subway departs at  garching you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.997373148722444,
+            "confidencesOther": {
+                "DepartureTime": 0.997373148722444,
+                "FindConnection": 0.0026268512775560193
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when is the next  train in garching?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996617742504044,
+            "confidencesOther": {
+                "FindConnection": 0.9996617742504044,
+                "DepartureTime": 0.0003382257495956865
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " so how  really  to get from münchner freiheit to garching ? please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9311288514942508,
+            "confidencesOther": {
+                "FindConnection": 0.9311288514942508,
+                "DepartureTime": 0.06887114850574914
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "implerstraße to  ostbahnhof you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997182477107867,
+            "confidencesOther": {
+                "FindConnection": 0.9997182477107867,
+                "DepartureTime": 0.0002817522892133035
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great how can i get from hauptbahnhof  somehow  to odeonsplatz?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9992787741124969,
+            "confidencesOther": {
+                "FindConnection": 0.9992787741124969,
+                "DepartureTime": 0.0007212258875030776
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i go from garching forschungszentrum  oh  to prinzregentenplatz seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996081307915184,
+            "confidencesOther": {
+                "FindConnection": 0.9996081307915184,
+                "DepartureTime": 0.0003918692084815104
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " well how can i  get from mangfallplatz to garching you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996136072743035,
+            "confidencesOther": {
+                "FindConnection": 0.9996136072743035,
+                "DepartureTime": 0.0003863927256964877
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " needless to say how can  i get to hohenlindenerstraße",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8945605293625306,
+            "confidencesOther": {
+                "FindConnection": 0.8945605293625306,
+                "DepartureTime": 0.10543947063746935
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i would like to hear harthaus to  oh  hackerbrücke as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998747831117322,
+            "confidencesOther": {
+                "FindConnection": 0.9998747831117322,
+                "DepartureTime": 0.0001252168882678673
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i  uhm  get from feldmoching to garching forschungszentrum? you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.5975988132846699,
+            "confidencesOther": {
+                "FindConnection": 0.5975988132846699,
+                "DepartureTime": 0.40240118671533004
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " in my humble opinion from marienplatz  just  to petershausen please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.5881416228120148,
+            "confidencesOther": {
+                "FindConnection": 0.5881416228120148,
+                "DepartureTime": 0.41185837718798524
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " sounds great when is  the train from garching to marienplatz please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9874295897486531,
+            "confidencesOther": {
+                "FindConnection": 0.9874295897486531,
+                "DepartureTime": 0.012570410251346911
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "neufahrn to  just  garching well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999187229518117,
+            "confidencesOther": {
+                "FindConnection": 0.9999187229518117,
+                "DepartureTime": 8.127704818827232e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get from  really  mangfallplatz to garching seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9996607524092637,
+            "confidencesOther": {
+                "FindConnection": 0.9996607524092637,
+                "DepartureTime": 0.00033924759073632676
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " for what it is worth how can i get to  really  hohenlindenerstr",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9886905166043845,
+            "confidencesOther": {
+                "DepartureTime": 0.9886905166043845,
+                "FindConnection": 0.01130948339561555
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " could you when  yeah  is the next bus from garching forschungzentrum seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9988829733497062,
+            "confidencesOther": {
+                "FindConnection": 0.9988829733497062,
+                "DepartureTime": 0.0011170266502938387
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " well how  uhm  do i get from spitzingplatz to poccistraße? you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999934355632365,
+            "confidencesOther": {
+                "FindConnection": 0.9999934355632365,
+                "DepartureTime": 6.564436763507718e-06
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i want you to how can i get from garching forschungszentrum  really  to marienplatz please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999988635256421,
+            "confidencesOther": {
+                "FindConnection": 0.999988635256421,
+                "DepartureTime": 1.1364743578974632e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get  just  from klinkum to marienplatz? seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999872077696841,
+            "confidencesOther": {
+                "FindConnection": 0.9999872077696841,
+                "DepartureTime": 1.2792230315901137e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how to get from  alte heide to marienplatz well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9632738997831141,
+            "confidencesOther": {
+                "FindConnection": 0.9632738997831141,
+                "DepartureTime": 0.03672610021688598
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "FindConnection",
+            "queryText": " i want you to next train from muenchen  freicheit",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6802716708585022,
+            "confidencesOther": {
+                "DepartureTime": 0.6802716708585022,
+                "FindConnection": 0.31972832914149785
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " would you let me know depart  uhm  in garching, i assume",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998883132883821,
+            "confidencesOther": {
+                "DepartureTime": 0.9998883132883821,
+                "FindConnection": 0.00011168671161787547
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when  does the next u-bahn depart at garching? right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9727634742295972,
+            "confidencesOther": {
+                "DepartureTime": 0.9727634742295972,
+                "FindConnection": 0.02723652577040281
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " for what it is worth the next  bus from garching forschungzentrum please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8449492690532059,
+            "confidencesOther": {
+                "DepartureTime": 0.8449492690532059,
+                "FindConnection": 0.1550507309467941
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " believe me when is the  somehow  next train in alte heide? you see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7744191075199787,
+            "confidencesOther": {
+                "DepartureTime": 0.7744191075199787,
+                "FindConnection": 0.22558089248002133
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " for what it is worth or depart from  garching seriously ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9906570290540583,
+            "confidencesOther": {
+                "FindConnection": 0.9906570290540583,
+                "DepartureTime": 0.009342970945941711
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i want you to hello  munich city bot! how do i get from münchner freiheit to scheidplatz? you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9988695294322333,
+            "confidencesOther": {
+                "FindConnection": 0.9988695294322333,
+                "DepartureTime": 0.0011304705677667667
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get from garching  uhm  forschungszentrum to prinzregentenplatz",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999195279686128,
+            "confidencesOther": {
+                "FindConnection": 0.9999195279686128,
+                "DepartureTime": 8.047203138714082e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i would like to hear how can i get from neufahrn to  really  garching",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.992775804171902,
+            "confidencesOther": {
+                "FindConnection": 0.992775804171902,
+                "DepartureTime": 0.007224195828098002
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " can you take me to  really  the airport",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.997225827821938,
+            "confidencesOther": {
+                "DepartureTime": 0.997225827821938,
+                "FindConnection": 0.0027741721780619732
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when does the next u6  oh  leave from garching forschungszentrum well  right ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998190382651815,
+            "confidencesOther": {
+                "FindConnection": 0.9998190382651815,
+                "DepartureTime": 0.00018096173481848334
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " so how i can get from munchner freiheit to  somehow  nordfriedhof? please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9873963336679585,
+            "confidencesOther": {
+                "FindConnection": 0.9873963336679585,
+                "DepartureTime": 0.01260366633204142
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "from harthaus  uhm  to hackerbrücke you know what I mean ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7263534486799066,
+            "confidencesOther": {
+                "DepartureTime": 0.7263534486799066,
+                "FindConnection": 0.2736465513200934
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": " right when is the train from  garching",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.5050765556775463,
+            "confidencesOther": {
+                "FindConnection": 0.5050765556775463,
+                "DepartureTime": 0.4949234443224538
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "FindConnection",
+            "queryText": " okay what is the next train from  really  münchner freiheit",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998003830555581,
+            "confidencesOther": {
+                "FindConnection": 0.9998003830555581,
+                "DepartureTime": 0.00019961694444188275
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get from theresienstrasse to garching  somehow  forschungszentrum",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999956137501632,
+            "confidencesOther": {
+                "FindConnection": 0.999956137501632,
+                "DepartureTime": 4.386249836791168e-05
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i want you to how can  oh  i get from münchner freiheit to odeonsplatz you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9621560142903589,
+            "confidencesOther": {
+                "FindConnection": 0.9621560142903589,
+                "DepartureTime": 0.03784398570964107
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i wonder from  garching to hauptbahnhof you know ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9986530235668029,
+            "confidencesOther": {
+                "FindConnection": 0.9986530235668029,
+                "DepartureTime": 0.0013469764331971894
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "how can i get  really  from garching to odeonsplatz you see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8821913895151863,
+            "confidencesOther": {
+                "FindConnection": 0.8821913895151863,
+                "DepartureTime": 0.11780861048481374
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " can you start: neufahrn  yeah  end:garching you see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997303003856236,
+            "confidencesOther": {
+                "FindConnection": 0.9997303003856236,
+                "DepartureTime": 0.00026969961437643236
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": " i would like to hear how can i get from studentenstadt to  yeah  garching as you can see ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997379683257671,
+            "confidencesOther": {
+                "DepartureTime": 0.9997379683257671,
+                "FindConnection": 0.00026203167423288765
+            },
+            "goldenIntent": "DepartureTime",
+            "intent": "DepartureTime",
+            "queryText": "when is the next bus from  uhm  garching please ",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9977353553995719,
+            "confidencesOther": {
+                "FindConnection": 0.9977353553995719,
+                "DepartureTime": 0.002264644600428029
+            },
+            "goldenIntent": "FindConnection",
+            "intent": "FindConnection",
+            "queryText": "take me  somehow  from hauptbahnhof to odeonsplatz",
+            "queryHit": "log_regression"
+        }
+    ]
+}

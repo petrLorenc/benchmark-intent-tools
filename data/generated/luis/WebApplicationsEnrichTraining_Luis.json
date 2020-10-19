@@ -1,0 +1,202 @@
+{
+    "luis_schema_version": "2.2.0",
+    "versionId": "0.1.0",
+    "name": "WebApplicationsCorpus",
+    "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "culture": "en-us",
+    "intents": [
+        {
+            "name": "Delete Account"
+        },
+        {
+            "name": "Export Data"
+        },
+        {
+            "name": "Sync Accounts"
+        },
+        {
+            "name": "None"
+        },
+        {
+            "name": "Filter Spam"
+        },
+        {
+            "name": "Change Password"
+        },
+        {
+            "name": "Find Alternative"
+        },
+        {
+            "name": "Download Video"
+        }
+    ],
+    "entities": [
+        {
+            "name": "WebService"
+        },
+        {
+            "name": "OperatingSystem"
+        },
+        {
+            "name": "Browser"
+        }
+    ],
+    "bing_entities": [],
+    "model_features": [],
+    "regex_features": [],
+    "regex_entities": [],
+    "composites": [],
+    "closedLists": [],
+    "utterances": [
+        {
+            "text": "How do I download a  ehm  YouTube video? seriously ",
+            "intent": "Download Video",
+            "entities": []
+        },
+        {
+            "text": "How do I  yeah  change my password on TV Tropes? well  right ",
+            "intent": "Change Password",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion Why can't  somehow  I change my password and login with Skype? well  right ",
+            "intent": "Change Password",
+            "entities": []
+        },
+        {
+            "text": " you know Change subject  line in new Gmail compose window please ",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": " i wonder Email  yeah  Google Form daily? seriously ",
+            "intent": "None",
+            "entities": []
+        },
+        {
+            "text": "How  can I export track.scrobble data from last.fm? as you can see ",
+            "intent": "Export Data",
+            "entities": []
+        },
+        {
+            "text": " well How  uhm  can I backup my wordpress.com hosted blog? you know ",
+            "intent": "Export Data",
+            "entities": []
+        },
+        {
+            "text": " right How  uhm  can I sync my Yahoo! Calendar with Google Calendar?",
+            "intent": "Sync Accounts",
+            "entities": []
+        },
+        {
+            "text": "Google Bookmarks and Chrome Bookmark  Sync -- Different?",
+            "intent": "Sync Accounts",
+            "entities": []
+        },
+        {
+            "text": " okay How do I sync  my RunKeeper workout schedule with Google Calender? as you can see ",
+            "intent": "Sync Accounts",
+            "entities": []
+        },
+        {
+            "text": " basically Does using Gmail's \"Never send it to Spam\" filter mean I can't train their spam  just  filter?",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": " can you Correctly  really  Identifying Spam Messages",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": " sounds great Twitter and Echofon  ehm  spam right ",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": " could you Totally Blocking Spam To Gmail  Account you see ",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": " in my humble opinion Discarding  spam mail faster in Gmail you see ",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": "Stopping spam  emails in Gmail by pattern please ",
+            "intent": "Filter Spam",
+            "entities": []
+        },
+        {
+            "text": "Alternatives for Google Reader (with  somehow  Android synchronizing) right ",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " believe me Bugmenot (registration  yeah  bypasser) alternative that doesn't suck?",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " you know Alternatives to  somehow  Twitter please ",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear Google  really  search engine alternatives please ",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": "Alternatives  somehow  to Google Groups with more features? please ",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " basically Are there any  oh  good Veoh or Youtube alternatives? well  right ",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " can you Mint alternatives for  somehow  Canada",
+            "intent": "Find Alternative",
+            "entities": []
+        },
+        {
+            "text": " well How can I delete my Twitter  account? you know ",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": " believe me How do I delete my  uhm  LinkedIn account?",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": "How do I delete my  Gmail account?",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": " you know How do I delete my Experts Exchange  ehm  account? please ",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": " well How do I delete  yeah  my Ohloh profile? you know ",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": " i would like to hear How can I permanently  delete my MySpace account? you know what I mean ",
+            "intent": "Delete Account",
+            "entities": []
+        },
+        {
+            "text": " at the end of the day How to disable/delete  a Harvest account? you see ",
+            "intent": "Delete Account",
+            "entities": []
+        }
+    ]
+}

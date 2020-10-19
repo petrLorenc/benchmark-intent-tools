@@ -1,0 +1,4449 @@
+{
+    "name": "ChatbotCorpus",
+    "desc": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "lang": "en",
+    "sentences": [
+        {
+            "text": " would you let me know i want  to go marienplatz as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when is  the next train in muncher freiheit?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "muncher freiheit"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when does the next  ehm  u-bahn leaves from garching forschungszentrum?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "u-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 10,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " could you from olympia  einkaufszentrum to hauptbahnhof",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 2,
+                    "text": "olympia einkaufszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when  is the next train from winterstraße 12 to kieferngarten please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "winterstraße 12"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "kieferngarten"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " can you when is the next rocket from winterstraße  12 to kieferngarte well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "rocket"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "winterstraße 12"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "kieferngarte"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "can you  ehm  find a connection from garching to hauptbahnhof?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " you know how to  somehow  get from untere strassäcker 21 to fröttmaning you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "untere strassäcker 21"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "fröttmaning"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how i can get from  marienplatz to garching",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "connection from  boltzmannstraße to kieferngarten seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "boltzmannstraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "kieferngarten"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion how to get from bonner platz to  freimann?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 5,
+                    "text": "bonner platz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "freimann"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " would you let me know when is the  just  next s-bahn leaving at garching?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "s-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how do i get from  oh  oez to hbf? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "oez"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hbf"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how  to get from winterstrasse 12 to fröttmaning you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 5,
+                    "text": "winterstrasse 12"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "fröttmaning"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " you know how do i get from  garching forschungszentrum to pasing",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "pasing"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i think theresienstraße to  yeah  assling please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "theresienstraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "assling"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " needless to say how  uhm  can i get from theresienstraße to munich east? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "theresienstraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "munich east"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " believe me when does  ehm  the next bus starts from garching? you know ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " okay from quiddestraße to  somehow  garching? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i think can you  yeah  find a connection from kurt-eisner-straße to garching forschungszentrum? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 10,
+                    "text": "kurt-eisner-straße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 12,
+                    "stop": 13,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " okay can  somehow  you find a connection from quiddestraße to garching forschungszentrum?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 9,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " could you when does  uhm  the next train leaves at garching? seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great from  really  hauptbahnhof to garching?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " right how can i get  to glockenbachviertel from garching forschungszentrum? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "glockenbachviertel"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " at the end of the day how i can  get from garching to nordfriedhof well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "nordfriedhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " right how  really  can i get to glockenbachviertel from garching forschungszentrum? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "glockenbachviertel"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " at the end of the day when is the next train  oh  leaving in garching forschungszentrum well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great how can i get from moosach  just  to quiddestraße? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "moosach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get from  moosach to poccistraße? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "moosach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "poccistraße"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how  can i get from kurt-eisner-straße to garching forschungszentrum? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 9,
+                    "text": "kurt-eisner-straße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 11,
+                    "stop": 12,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion how can i get from moosach to  yeah  quiddestraße? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "moosach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i would like to hear how can i get  uhm  from moosach to odeonsplatz? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "moosach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i wonder when does the next bus  ehm  starts at garching? you know ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "what's the shortest way from quiddestraße to  odeonsplatz? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "shortest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " can you when  oh  is the next bus from ostbahnhof as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "ostbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " would you let me know how i can get from garching to  uhm  neuperlach sued right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "neuperlach sued"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when is the next train in  oh  munchner freiheit?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "munchner freiheit"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i wonder how  i can get from marienplatz to garching?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how do i get from poccistraße  just  to laim well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "poccistraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "laim"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "i want to go  somehow  garching from marienplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " for what it is worth how i can get  just  from marienplatz to garching? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " would you let me know how  yeah  can i get from hauptbahnhof to odeonsplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i think prinzregentenplatz to  yeah  rotkreuzplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "prinzregentenplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "rotkreuzplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "i want to  go to garching from marienplatz right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " okay next  really  train from garching you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great from  uhm  prinzregentenplatz to rotkreuzplatz please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "prinzregentenplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "rotkreuzplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when  is the next subway from garching forschungszentrum you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "subway"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "from garching  to klinikum",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "klinikum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "from garching foschungszentrum to  really  odeonsplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 2,
+                    "text": "garching foschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "next bus  in garching please ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when does  the train leaving in garching forschungszentrum",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " would you let me know next subway from  garching forschungszentrum well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "subway"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 4,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "tell me  just  the next bus from garching seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " at the end of the day next  just  bus from garching, please. right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i want you to next bus  from garching seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " so next bus from central  oh  station you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 4,
+                    "text": "central station"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " so from garching to  uhm  marienplatz seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "next bus from  garching.",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "connection from garching to  hauptbahnhof? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " you know when does the next bus departs from  garching? right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great find connection from hauptbahnhof  to odeonsplatz as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when does the next  really  u-bahn departs at garching forschungszentrum?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "u-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 10,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " believe me when  just  does the next u-bahn departs at garching? you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "u-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when does the next subway departs at  garching you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "subway"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when is the next  train in garching?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " so how  really  to get from münchner freiheit to garching ? please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 5,
+                    "text": "münchner freiheit"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "implerstraße to  ostbahnhof you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "implerstraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "ostbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great how can i get from hauptbahnhof  somehow  to odeonsplatz?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i go from garching forschungszentrum  oh  to prinzregentenplatz seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "prinzregentenplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " well how can i  get from mangfallplatz to garching you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "mangfallplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " needless to say how can  i get to hohenlindenerstraße",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "hohenlindenerstraße"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i would like to hear harthaus to  oh  hackerbrücke as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "harthaus"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "hackerbrücke"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i  uhm  get from feldmoching to garching forschungszentrum? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "feldmoching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion from marienplatz  just  to petershausen please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "petershausen"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " sounds great when is  the train from garching to marienplatz please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "neufahrn to  just  garching well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "neufahrn"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get from  really  mangfallplatz to garching seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "mangfallplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " for what it is worth how can i get to  really  hohenlindenerstr",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "hohenlindenerstr"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " could you when  yeah  is the next bus from garching forschungzentrum seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "garching forschungzentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " well how  uhm  do i get from spitzingplatz to poccistraße? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "spitzingplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "poccistraße"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i want you to how can i get from garching forschungszentrum  really  to marienplatz please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get  just  from klinkum to marienplatz? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "klinkum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how to get from  alte heide to marienplatz well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 5,
+                    "text": "alte heide"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i want you to next train from muenchen  freicheit",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 4,
+                    "text": "muenchen freicheit"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " would you let me know depart  uhm  in garching, i assume",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when  does the next u-bahn depart at garching? right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "u-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " for what it is worth the next  bus from garching forschungzentrum please ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 5,
+                    "text": "garching forschungzentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " believe me when is the  somehow  next train in alte heide? you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "alte heide"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " for what it is worth or depart from  garching seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i want you to hello  munich city bot! how do i get from münchner freiheit to scheidplatz? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 10,
+                    "stop": 11,
+                    "text": "münchner freiheit"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 13,
+                    "stop": 13,
+                    "text": "scheidplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get from garching  uhm  forschungszentrum to prinzregentenplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "prinzregentenplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i would like to hear how can i get from neufahrn to  really  garching",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "neufahrn"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " can you take me to  really  the airport",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "airport"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when does the next u6  oh  leave from garching forschungszentrum well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Line",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "u6"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " so how i can get from munchner freiheit to  somehow  nordfriedhof? please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "munchner freiheit"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "nordfriedhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "from harthaus  uhm  to hackerbrücke you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "harthaus"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "hackerbrücke"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " right when is the train from  garching",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " okay what is the next train from  really  münchner freiheit",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "münchner freiheit"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get from theresienstrasse to garching  somehow  forschungszentrum",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "theresienstrasse"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i want you to how can  oh  i get from münchner freiheit to odeonsplatz you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "münchner freiheit"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i wonder from  garching to hauptbahnhof you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "how can i get  really  from garching to odeonsplatz you see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " can you start: neufahrn  yeah  end:garching you see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "neufahrn"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": " i would like to hear how can i get from studentenstadt to  yeah  garching as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "studentenstadt"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "when is the next bus from  uhm  garching please ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "take me  somehow  from hauptbahnhof to odeonsplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": false
+        },
+        {
+            "text": "what's the shortest connection between quiddestraße and  oh  odeonsplatz? right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "shortest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " sounds great what is  really  the cheapest connection between quiddestraße and hauptbahnhof? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "cheapest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " for what it is worth what's the shortest way between hauptbahnhof  yeah  and odeonsplatz? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "shortest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " believe me how can i get from garching to  oh  münchner freiheit as fast as possible? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "fast"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "münchner freiheit"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " at the end of the day what's the cheapest way from  somehow  neuperlach süd to lehel? right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "cheapest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "neuperlach süd"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "lehel"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " okay how can i get from neuperlach  ehm  zentrum to karlsplatz as fast as possible? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "fast"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "neuperlach zentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "karlsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear could you give me the  fastest connection between brudermühlstraße and alte heide? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "fastest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "brudermühlstraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 10,
+                    "stop": 11,
+                    "text": "alte heide"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i wonder is there a train from neuperlach  zentrum to garching at 3 pm? you see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "TimeStartTime",
+                    "start": 10,
+                    "stop": 11,
+                    "text": "3 pm"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "neuperlach zentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know can you find a connection from olympiazentrum to lehel  just  at 2 pm? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "TimeStartTime",
+                    "start": 10,
+                    "stop": 11,
+                    "text": "2 pm"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "olympiazentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "lehel"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "i need a connection  from harras to karl-preis-platz at 8 am.",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "TimeStartTime",
+                    "start": 13,
+                    "stop": 14,
+                    "text": "8 am"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "harras"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 11,
+                    "text": "karl-preis-platz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know in need to be at hauptbahnhof at 1 pm, can  yeah  you search a connection from garching forschungszentrum? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "TimeEndTime",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "1 pm"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 16,
+                    "stop": 17,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "i need  to be in garching at 9 well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "TimeEndTime",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "9"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know can i take a bus from quiddestraße  to hauptbahnhof?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think can you find the  ehm  shortest way from moosfeld to milbertshofen?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "shortest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "moosfeld"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "milbertshofen"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i want you to how can i  get to neuperlach süd from garching forschungszentrum?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 8,
+                    "stop": 9,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "neuperlach süd"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " could you can you find a bus from quiddestraße  to lehel? right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "lehel"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "is there a tram from karlsplatz  ehm  to lehel?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "tram"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "karlsplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "lehel"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "is there a bus from garching to  moosach at around 5? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "bus"
+                },
+                {
+                    "entity": "TimeStartTime",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "5"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "moosach"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " so is there  a bus from odeonsplatz to hauptbahnhof at 3 pm? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "bus"
+                },
+                {
+                    "entity": "TimeStartTime",
+                    "start": 9,
+                    "stop": 10,
+                    "text": "3 pm"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "odeonsplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "can you tell me the cheapest way from garching forschungszentrum to  quiddestraße? right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "cheapest"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 8,
+                    "stop": 9,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 11,
+                    "stop": 11,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i wonder how can  really  i get to quiddestraße?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear when does the next  bus leaves from hauptbahnhof? seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think how can i get  oh  from garching to hauptbahnhof?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know how can i get from  kurt-eisner-straße to garching?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 9,
+                    "text": "kurt-eisner-straße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 11,
+                    "stop": 11,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when the next  yeah  train in garching,forschungszentrum is leaving? as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 7,
+                    "text": "garching,forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear what is the next connection from garching forschungszentrum to  yeah  odeonsplatz?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think how can i get from  yeah  mossach to garching forschungszentrum? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "mossach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know how can i get  somehow  from garching forschungszentrum to odeonsplatz? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can i get from garching,  somehow  forschungszentrum to odeonsplatz?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 7,
+                    "text": "garching, forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " right how  yeah  can i get from garching forschungszentrum to kurt-eisner-straße? please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 12,
+                    "text": "kurt-eisner-straße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think how can i get to boltzmannstraße from  oh  quiddestraße? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "boltzmannstraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion when does the next train departs  yeah  from quiddestraße?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when the next train  yeah  in garching forschungszentrum is leaving? you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when is the next u6 leaving from  just  garching? you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Line",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "u6"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " needless to say when does the next train leave from garching  yeah  forschungszentrum",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " sounds great when is  really  the next u6?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Line",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "u6"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " could you when is the next subway  yeah  leaving from garching? seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "subway"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " well when the next train  yeah  in garching is leaving?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know when is  really  the next train leaving in garching right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when does the next train leaves  from odeonsplatz?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " could you when does the next train leaves  from quiddestraße? well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " for what it is worth when is the  uhm  next train you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " could you when does the next bus leaves at garching  yeah  forschungszentrum?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when does the next train  ehm  leaves? please ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " for what it is worth when does  just  the next bus leave in garching? well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when does the next s-bahn leaves  oh  from hauptbahnhof? you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "s-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear when does  the next subway departes from odeonsplatz?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "subway"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " right show me the next bus from  yeah  garching! you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " basically when does the next  tram starts from hauptbahnhof?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "tram"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i wonder when will the next u-bahn depart from  uhm  garching forschungszentrum?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "u-bahn"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 9,
+                    "stop": 10,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know show me the next  uhm  bus from michaelibad. as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "michaelibad"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " at the end of the day when  does the next train starts at sendlinger tor? well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "sendlinger tor"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "hey bot, when does the next  somehow  bus starts at garching? please ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know when does the next bus leaves  at garching? as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i wonder when is the  bus from quiddestraße? you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "bus"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know when can i get  a bus at mariahilfplatz? well  right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "bus"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "mariahilfplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know when does the next  oh  bus leaves at romanplatz? as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "romanplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think when  uhm  does the bus to röblingweg starts? you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "bus"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "röblingweg"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " so next  bus from quiddestraße? as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 0,
+                    "stop": 0,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "quiddestraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " can you when is  the next bus leaving from garching? you know ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when is the train leaving in  really  garching you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear when is the train  somehow  leaving in garching? you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can i get  from garching to odeonsplatz?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " sounds great when  somehow  is adrians next subway leaving at garching forschungszentrum? seriously ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "subway"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " at the end of the day how  really  can i get from olympiazentrum to hauptbahnhof? you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "olympiazentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can  i get from quiddestraße to boltzmannstraße?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "quiddestraße"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "boltzmannstraße"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i think how  really  can i get from moosach to garching forschungszentrum?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "moosach"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " okay can you  give me a connection from garching to odeonsplatz? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 9,
+                    "stop": 9,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion when  uhm  is the next train from garching right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " can you when comes the  next train you know ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " can you when  is the next train in nordfriedhof you see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "nordfriedhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " basically when does the  next train come at garching forschungszentrum right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " right when is the next train from nordfriedhof  just  to garching forschungszentrum right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "nordfriedhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 9,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "i want to travel from garching to  just  odeonsplatz? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know how can i get to  oh  sendlinger tor?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "sendlinger tor"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " well how do i get  to untere straussäcker? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "untere straussäcker"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can i get from  uhm  garching to garching? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know how can i get from garching  yeah  to sendlinger tor? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "sendlinger tor"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can i get from garchingto  garching? well  right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garchingto"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " can you when is  the next train from garching right ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " you know how do i get from marienplatz  just  zu garching as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "marienplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know how can i get to milbertshofen  from garching? seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "milbertshofen"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i want you to when is the next  oh  train to garching seriously ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "garching"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how can  i get from garching to milbertshofen?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "milbertshofen"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " believe me when does the next rocket leaves  from garching forschungszentrum? as you can see ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "rocket"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 8,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "connection from untere straßäcker  21 to kieferngarten please ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 4,
+                    "text": "untere straßäcker 21"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "kieferngarten"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " would you let me know how to get from untere strassäcker 21 to  yeah  frötmaning you see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "untere strassäcker 21"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "frötmaning"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " needless to say how to get from  untere strassaecker 21 to frötmaning you see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 6,
+                    "text": "untere strassaecker 21"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "frötmaning"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " okay when is the next train from untere straßaecker 21  to kieferngarten",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 8,
+                    "text": "untere straßaecker 21"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 10,
+                    "stop": 10,
+                    "text": "kieferngarten"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " could you when is the next train from  yeah  untere straßaecker 21, garching to kieferngarten you know what I mean ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 7,
+                    "stop": 10,
+                    "text": "straßaecker 21, garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 12,
+                    "stop": 12,
+                    "text": "kieferngarten"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " well from garching to  ehm  perlach you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "perlach"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " well how to get from garching to  perlach?",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "perlach"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " needless to say how to get from bonnerplatz  oh  to freimann right ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bonnerplatz"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "freimann"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " believe me when is the next train in  somehow  nordfriedhof?",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 6,
+                    "text": "nordfriedhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when is the next  train in münchner freiheit? you know what I mean ",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "train"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "münchner freiheit"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " so connection from  somehow  hauptbahnhof to odeonsplatz? as you can see ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 2,
+                    "stop": 2,
+                    "text": "hauptbahnhof"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "odeonsplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "how do i get from olympia einkaufszentrum  just  to hauptbahnhof? you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 6,
+                    "text": "olympia einkaufszentrum"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 8,
+                    "stop": 8,
+                    "text": "hauptbahnhof"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "when is  the next bus in garching forschungszentrum",
+            "intent": "DepartureTime",
+            "entities": [
+                {
+                    "entity": "Vehicle",
+                    "start": 4,
+                    "stop": 4,
+                    "text": "bus"
+                },
+                {
+                    "entity": "Criterion",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "next"
+                },
+                {
+                    "entity": "StationStart",
+                    "start": 6,
+                    "stop": 7,
+                    "text": "garching forschungszentrum"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": " i would like to hear how can i get  from garching to marienplatz",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 5,
+                    "stop": 5,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 7,
+                    "stop": 7,
+                    "text": "marienplatz"
+                }
+            ],
+            "training": true
+        },
+        {
+            "text": "from garching to  ehm  studentenstadt you know ",
+            "intent": "FindConnection",
+            "entities": [
+                {
+                    "entity": "StationStart",
+                    "start": 1,
+                    "stop": 1,
+                    "text": "garching"
+                },
+                {
+                    "entity": "StationDest",
+                    "start": 3,
+                    "stop": 3,
+                    "text": "studentenstadt"
+                }
+            ],
+            "training": true
+        }
+    ]
+}

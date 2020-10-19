@@ -1,0 +1,530 @@
+{
+    "name": "ChatbotCorpus",
+    "description": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "language": "en",
+    "metadata": null,
+    "counterexamples": [],
+    "dialog_nodes": [],
+    "created": "2020-06-28T19:04:04.377562Z",
+    "updated": "2020-06-28T19:04:04.377564Z",
+    "workspace_id": "",
+    "intents": [
+        {
+            "intent": "FindConnection",
+            "created": "2020-06-28T19:04:04.377386Z",
+            "updated": "2020-06-28T19:04:04.377386Z",
+            "examples": [
+                {
+                    "text": "what's the shortest connection between quiddestraße and odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377386Z",
+                    "updated": "2020-06-28T19:04:04.377386Z"
+                },
+                {
+                    "text": "what is the cheapest connection between quiddestraße and hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377391Z",
+                    "updated": "2020-06-28T19:04:04.377391Z"
+                },
+                {
+                    "text": "what's the shortest way between hauptbahnhof and odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377393Z",
+                    "updated": "2020-06-28T19:04:04.377393Z"
+                },
+                {
+                    "text": "how can i get from garching to münchner freiheit as fast as possible?",
+                    "created": "2020-06-28T19:04:04.377395Z",
+                    "updated": "2020-06-28T19:04:04.377395Z"
+                },
+                {
+                    "text": "what's the cheapest way from neuperlach süd to lehel?",
+                    "created": "2020-06-28T19:04:04.377396Z",
+                    "updated": "2020-06-28T19:04:04.377396Z"
+                },
+                {
+                    "text": "how can i get from neuperlach zentrum to karlsplatz as fast as possible?",
+                    "created": "2020-06-28T19:04:04.377397Z",
+                    "updated": "2020-06-28T19:04:04.377397Z"
+                },
+                {
+                    "text": "could you give me the fastest connection between brudermühlstraße and alte heide?",
+                    "created": "2020-06-28T19:04:04.377399Z",
+                    "updated": "2020-06-28T19:04:04.377399Z"
+                },
+                {
+                    "text": "is there a train from neuperlach zentrum to garching at 3 pm?",
+                    "created": "2020-06-28T19:04:04.377400Z",
+                    "updated": "2020-06-28T19:04:04.377400Z"
+                },
+                {
+                    "text": "can you find a connection from olympiazentrum to lehel at 2 pm?",
+                    "created": "2020-06-28T19:04:04.377401Z",
+                    "updated": "2020-06-28T19:04:04.377401Z"
+                },
+                {
+                    "text": "i need a connection from harras to karl-preis-platz at 8 am.",
+                    "created": "2020-06-28T19:04:04.377403Z",
+                    "updated": "2020-06-28T19:04:04.377403Z"
+                },
+                {
+                    "text": "in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377404Z",
+                    "updated": "2020-06-28T19:04:04.377404Z"
+                },
+                {
+                    "text": "i need to be in garching at 9",
+                    "created": "2020-06-28T19:04:04.377405Z",
+                    "updated": "2020-06-28T19:04:04.377405Z"
+                },
+                {
+                    "text": "can i take a bus from quiddestraße to hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377406Z",
+                    "updated": "2020-06-28T19:04:04.377406Z"
+                },
+                {
+                    "text": "can you find the shortest way from moosfeld to milbertshofen?",
+                    "created": "2020-06-28T19:04:04.377408Z",
+                    "updated": "2020-06-28T19:04:04.377408Z"
+                },
+                {
+                    "text": "how can i get to neuperlach süd from garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377409Z",
+                    "updated": "2020-06-28T19:04:04.377409Z"
+                },
+                {
+                    "text": "can you find a bus from quiddestraße to lehel?",
+                    "created": "2020-06-28T19:04:04.377410Z",
+                    "updated": "2020-06-28T19:04:04.377410Z"
+                },
+                {
+                    "text": "is there a tram from karlsplatz to lehel?",
+                    "created": "2020-06-28T19:04:04.377413Z",
+                    "updated": "2020-06-28T19:04:04.377413Z"
+                },
+                {
+                    "text": "is there a bus from garching to moosach at around 5?",
+                    "created": "2020-06-28T19:04:04.377421Z",
+                    "updated": "2020-06-28T19:04:04.377421Z"
+                },
+                {
+                    "text": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm?",
+                    "created": "2020-06-28T19:04:04.377423Z",
+                    "updated": "2020-06-28T19:04:04.377423Z"
+                },
+                {
+                    "text": "can you tell me the cheapest way from garching forschungszentrum to quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377424Z",
+                    "updated": "2020-06-28T19:04:04.377424Z"
+                },
+                {
+                    "text": "how can i get to quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377425Z",
+                    "updated": "2020-06-28T19:04:04.377425Z"
+                },
+                {
+                    "text": "how can i get from garching to hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377428Z",
+                    "updated": "2020-06-28T19:04:04.377428Z"
+                },
+                {
+                    "text": "how can i get from kurt-eisner-straße to garching?",
+                    "created": "2020-06-28T19:04:04.377429Z",
+                    "updated": "2020-06-28T19:04:04.377429Z"
+                },
+                {
+                    "text": "what is the next connection from garching forschungszentrum to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377432Z",
+                    "updated": "2020-06-28T19:04:04.377432Z"
+                },
+                {
+                    "text": "how can i get from mossach to garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377433Z",
+                    "updated": "2020-06-28T19:04:04.377433Z"
+                },
+                {
+                    "text": "how can i get from garching forschungszentrum to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377434Z",
+                    "updated": "2020-06-28T19:04:04.377434Z"
+                },
+                {
+                    "text": "how can i get from garching, forschungszentrum to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377435Z",
+                    "updated": "2020-06-28T19:04:04.377435Z"
+                },
+                {
+                    "text": "how can i get from garching forschungszentrum to kurt-eisner-straße?",
+                    "created": "2020-06-28T19:04:04.377438Z",
+                    "updated": "2020-06-28T19:04:04.377438Z"
+                },
+                {
+                    "text": "how can i get to boltzmannstraße from quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377439Z",
+                    "updated": "2020-06-28T19:04:04.377439Z"
+                },
+                {
+                    "text": "how can i get from garching to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377481Z",
+                    "updated": "2020-06-28T19:04:04.377481Z"
+                },
+                {
+                    "text": "how can i get from olympiazentrum to hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377483Z",
+                    "updated": "2020-06-28T19:04:04.377483Z"
+                },
+                {
+                    "text": "how can i get from quiddestraße to boltzmannstraße?",
+                    "created": "2020-06-28T19:04:04.377484Z",
+                    "updated": "2020-06-28T19:04:04.377484Z"
+                },
+                {
+                    "text": "how can i get from moosach to garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377487Z",
+                    "updated": "2020-06-28T19:04:04.377487Z"
+                },
+                {
+                    "text": "can you give me a connection from garching to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377488Z",
+                    "updated": "2020-06-28T19:04:04.377488Z"
+                },
+                {
+                    "text": "when is the next train from nordfriedhof to garching forschungszentrum",
+                    "created": "2020-06-28T19:04:04.377494Z",
+                    "updated": "2020-06-28T19:04:04.377494Z"
+                },
+                {
+                    "text": "i want to travel from garching to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377495Z",
+                    "updated": "2020-06-28T19:04:04.377495Z"
+                },
+                {
+                    "text": "how can i get to sendlinger tor?",
+                    "created": "2020-06-28T19:04:04.377497Z",
+                    "updated": "2020-06-28T19:04:04.377497Z"
+                },
+                {
+                    "text": "how do i get to untere straussäcker?",
+                    "created": "2020-06-28T19:04:04.377498Z",
+                    "updated": "2020-06-28T19:04:04.377498Z"
+                },
+                {
+                    "text": "how can i get from garching to garching?",
+                    "created": "2020-06-28T19:04:04.377499Z",
+                    "updated": "2020-06-28T19:04:04.377499Z"
+                },
+                {
+                    "text": "how can i get from garching to sendlinger tor?",
+                    "created": "2020-06-28T19:04:04.377500Z",
+                    "updated": "2020-06-28T19:04:04.377500Z"
+                },
+                {
+                    "text": "how can i get from garchingto garching?",
+                    "created": "2020-06-28T19:04:04.377502Z",
+                    "updated": "2020-06-28T19:04:04.377502Z"
+                },
+                {
+                    "text": "how do i get from marienplatz zu garching",
+                    "created": "2020-06-28T19:04:04.377504Z",
+                    "updated": "2020-06-28T19:04:04.377504Z"
+                },
+                {
+                    "text": "how can i get to milbertshofen from garching?",
+                    "created": "2020-06-28T19:04:04.377505Z",
+                    "updated": "2020-06-28T19:04:04.377505Z"
+                },
+                {
+                    "text": "when is the next train to garching",
+                    "created": "2020-06-28T19:04:04.377506Z",
+                    "updated": "2020-06-28T19:04:04.377506Z"
+                },
+                {
+                    "text": "how can i get from garching to milbertshofen?",
+                    "created": "2020-06-28T19:04:04.377508Z",
+                    "updated": "2020-06-28T19:04:04.377508Z"
+                },
+                {
+                    "text": "connection from untere straßäcker 21 to kieferngarten",
+                    "created": "2020-06-28T19:04:04.377512Z",
+                    "updated": "2020-06-28T19:04:04.377512Z"
+                },
+                {
+                    "text": "how to get from untere strassäcker 21 to frötmaning",
+                    "created": "2020-06-28T19:04:04.377513Z",
+                    "updated": "2020-06-28T19:04:04.377513Z"
+                },
+                {
+                    "text": "how to get from untere strassaecker 21 to frötmaning",
+                    "created": "2020-06-28T19:04:04.377515Z",
+                    "updated": "2020-06-28T19:04:04.377515Z"
+                },
+                {
+                    "text": "when is the next train from untere straßaecker 21 to kieferngarten",
+                    "created": "2020-06-28T19:04:04.377516Z",
+                    "updated": "2020-06-28T19:04:04.377516Z"
+                },
+                {
+                    "text": "when is the next train from untere straßaecker 21, garching to kieferngarten",
+                    "created": "2020-06-28T19:04:04.377517Z",
+                    "updated": "2020-06-28T19:04:04.377517Z"
+                },
+                {
+                    "text": "from garching to perlach",
+                    "created": "2020-06-28T19:04:04.377519Z",
+                    "updated": "2020-06-28T19:04:04.377519Z"
+                },
+                {
+                    "text": "how to get from garching to perlach?",
+                    "created": "2020-06-28T19:04:04.377520Z",
+                    "updated": "2020-06-28T19:04:04.377520Z"
+                },
+                {
+                    "text": "how to get from bonnerplatz to freimann",
+                    "created": "2020-06-28T19:04:04.377522Z",
+                    "updated": "2020-06-28T19:04:04.377522Z"
+                },
+                {
+                    "text": "connection from hauptbahnhof to odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377525Z",
+                    "updated": "2020-06-28T19:04:04.377525Z"
+                },
+                {
+                    "text": "how do i get from olympia einkaufszentrum to hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377527Z",
+                    "updated": "2020-06-28T19:04:04.377527Z"
+                },
+                {
+                    "text": "how can i get from garching to marienplatz",
+                    "created": "2020-06-28T19:04:04.377529Z",
+                    "updated": "2020-06-28T19:04:04.377529Z"
+                },
+                {
+                    "text": "from garching to studentenstadt",
+                    "created": "2020-06-28T19:04:04.377530Z",
+                    "updated": "2020-06-28T19:04:04.377530Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "DepartureTime",
+            "created": "2020-06-28T19:04:04.377426Z",
+            "updated": "2020-06-28T19:04:04.377426Z",
+            "examples": [
+                {
+                    "text": "when does the next bus leaves from hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377426Z",
+                    "updated": "2020-06-28T19:04:04.377426Z"
+                },
+                {
+                    "text": "when the next train in garching,forschungszentrum is leaving?",
+                    "created": "2020-06-28T19:04:04.377430Z",
+                    "updated": "2020-06-28T19:04:04.377430Z"
+                },
+                {
+                    "text": "when does the next train departs from quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377440Z",
+                    "updated": "2020-06-28T19:04:04.377440Z"
+                },
+                {
+                    "text": "when the next train in garching forschungszentrum is leaving?",
+                    "created": "2020-06-28T19:04:04.377441Z",
+                    "updated": "2020-06-28T19:04:04.377441Z"
+                },
+                {
+                    "text": "when is the next u6 leaving from garching?",
+                    "created": "2020-06-28T19:04:04.377443Z",
+                    "updated": "2020-06-28T19:04:04.377443Z"
+                },
+                {
+                    "text": "when does the next train leave from garching forschungszentrum",
+                    "created": "2020-06-28T19:04:04.377444Z",
+                    "updated": "2020-06-28T19:04:04.377444Z"
+                },
+                {
+                    "text": "when is the next u6?",
+                    "created": "2020-06-28T19:04:04.377445Z",
+                    "updated": "2020-06-28T19:04:04.377445Z"
+                },
+                {
+                    "text": "when is the next subway leaving from garching?",
+                    "created": "2020-06-28T19:04:04.377446Z",
+                    "updated": "2020-06-28T19:04:04.377446Z"
+                },
+                {
+                    "text": "when the next train in garching is leaving?",
+                    "created": "2020-06-28T19:04:04.377448Z",
+                    "updated": "2020-06-28T19:04:04.377448Z"
+                },
+                {
+                    "text": "when is the next train leaving in garching",
+                    "created": "2020-06-28T19:04:04.377450Z",
+                    "updated": "2020-06-28T19:04:04.377450Z"
+                },
+                {
+                    "text": "when does the next train leaves from odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377451Z",
+                    "updated": "2020-06-28T19:04:04.377451Z"
+                },
+                {
+                    "text": "when does the next train leaves from quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377452Z",
+                    "updated": "2020-06-28T19:04:04.377452Z"
+                },
+                {
+                    "text": "when is the next train",
+                    "created": "2020-06-28T19:04:04.377454Z",
+                    "updated": "2020-06-28T19:04:04.377454Z"
+                },
+                {
+                    "text": "when does the next bus leaves at garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377456Z",
+                    "updated": "2020-06-28T19:04:04.377456Z"
+                },
+                {
+                    "text": "when does the next train leaves?",
+                    "created": "2020-06-28T19:04:04.377457Z",
+                    "updated": "2020-06-28T19:04:04.377457Z"
+                },
+                {
+                    "text": "when does the next bus leave in garching?",
+                    "created": "2020-06-28T19:04:04.377458Z",
+                    "updated": "2020-06-28T19:04:04.377458Z"
+                },
+                {
+                    "text": "when does the next s-bahn leaves from hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377459Z",
+                    "updated": "2020-06-28T19:04:04.377459Z"
+                },
+                {
+                    "text": "when does the next subway departes from odeonsplatz?",
+                    "created": "2020-06-28T19:04:04.377461Z",
+                    "updated": "2020-06-28T19:04:04.377461Z"
+                },
+                {
+                    "text": "show me the next bus from garching!",
+                    "created": "2020-06-28T19:04:04.377462Z",
+                    "updated": "2020-06-28T19:04:04.377462Z"
+                },
+                {
+                    "text": "when does the next tram starts from hauptbahnhof?",
+                    "created": "2020-06-28T19:04:04.377463Z",
+                    "updated": "2020-06-28T19:04:04.377463Z"
+                },
+                {
+                    "text": "when will the next u-bahn depart from garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377465Z",
+                    "updated": "2020-06-28T19:04:04.377465Z"
+                },
+                {
+                    "text": "show me the next bus from michaelibad.",
+                    "created": "2020-06-28T19:04:04.377466Z",
+                    "updated": "2020-06-28T19:04:04.377466Z"
+                },
+                {
+                    "text": "when does the next train starts at sendlinger tor?",
+                    "created": "2020-06-28T19:04:04.377467Z",
+                    "updated": "2020-06-28T19:04:04.377467Z"
+                },
+                {
+                    "text": "hey bot, when does the next bus starts at garching?",
+                    "created": "2020-06-28T19:04:04.377468Z",
+                    "updated": "2020-06-28T19:04:04.377468Z"
+                },
+                {
+                    "text": "when does the next bus leaves at garching?",
+                    "created": "2020-06-28T19:04:04.377470Z",
+                    "updated": "2020-06-28T19:04:04.377470Z"
+                },
+                {
+                    "text": "when is the bus from quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377471Z",
+                    "updated": "2020-06-28T19:04:04.377471Z"
+                },
+                {
+                    "text": "when can i get a bus at mariahilfplatz?",
+                    "created": "2020-06-28T19:04:04.377472Z",
+                    "updated": "2020-06-28T19:04:04.377472Z"
+                },
+                {
+                    "text": "when does the next bus leaves at romanplatz?",
+                    "created": "2020-06-28T19:04:04.377473Z",
+                    "updated": "2020-06-28T19:04:04.377473Z"
+                },
+                {
+                    "text": "when does the bus to röblingweg starts?",
+                    "created": "2020-06-28T19:04:04.377475Z",
+                    "updated": "2020-06-28T19:04:04.377475Z"
+                },
+                {
+                    "text": "next bus from quiddestraße?",
+                    "created": "2020-06-28T19:04:04.377476Z",
+                    "updated": "2020-06-28T19:04:04.377476Z"
+                },
+                {
+                    "text": "when is the next bus leaving from garching?",
+                    "created": "2020-06-28T19:04:04.377477Z",
+                    "updated": "2020-06-28T19:04:04.377477Z"
+                },
+                {
+                    "text": "when is the train leaving in garching",
+                    "created": "2020-06-28T19:04:04.377478Z",
+                    "updated": "2020-06-28T19:04:04.377478Z"
+                },
+                {
+                    "text": "when is the train leaving in garching?",
+                    "created": "2020-06-28T19:04:04.377480Z",
+                    "updated": "2020-06-28T19:04:04.377480Z"
+                },
+                {
+                    "text": "when is adrians next subway leaving at garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377482Z",
+                    "updated": "2020-06-28T19:04:04.377482Z"
+                },
+                {
+                    "text": "when is the next train from garching",
+                    "created": "2020-06-28T19:04:04.377489Z",
+                    "updated": "2020-06-28T19:04:04.377489Z"
+                },
+                {
+                    "text": "when comes the next train",
+                    "created": "2020-06-28T19:04:04.377490Z",
+                    "updated": "2020-06-28T19:04:04.377490Z"
+                },
+                {
+                    "text": "when is the next train in nordfriedhof",
+                    "created": "2020-06-28T19:04:04.377492Z",
+                    "updated": "2020-06-28T19:04:04.377492Z"
+                },
+                {
+                    "text": "when does the next train come at garching forschungszentrum",
+                    "created": "2020-06-28T19:04:04.377493Z",
+                    "updated": "2020-06-28T19:04:04.377493Z"
+                },
+                {
+                    "text": "when is the next train from garching",
+                    "created": "2020-06-28T19:04:04.377503Z",
+                    "updated": "2020-06-28T19:04:04.377503Z"
+                },
+                {
+                    "text": "when does the next rocket leaves from garching forschungszentrum?",
+                    "created": "2020-06-28T19:04:04.377509Z",
+                    "updated": "2020-06-28T19:04:04.377509Z"
+                },
+                {
+                    "text": "when is the next train in nordfriedhof?",
+                    "created": "2020-06-28T19:04:04.377523Z",
+                    "updated": "2020-06-28T19:04:04.377523Z"
+                },
+                {
+                    "text": "when is the next train in münchner freiheit?",
+                    "created": "2020-06-28T19:04:04.377524Z",
+                    "updated": "2020-06-28T19:04:04.377524Z"
+                },
+                {
+                    "text": "when is the next bus in garching forschungszentrum",
+                    "created": "2020-06-28T19:04:04.377528Z",
+                    "updated": "2020-06-28T19:04:04.377528Z"
+                }
+            ],
+            "description": null
+        }
+    ],
+    "entities": []
+}

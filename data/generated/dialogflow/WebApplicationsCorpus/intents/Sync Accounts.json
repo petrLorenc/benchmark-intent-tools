@@ -1,0 +1,112 @@
+{
+    "name": "Sync Accounts",
+    "auto": true,
+    "contexts": [],
+    "priority": 500000,
+    "fallbackIntent": false,
+    "webhookUsed": false,
+    "events": [],
+    "userSays": [
+        {
+            "data": [
+                {
+                    "text": "How can I sync my Yahoo! Calendar with Google Calendar?"
+                },
+                {
+                    "text": "Yahoo!Calendar",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": "How can I sync my Yahoo! Calendar with "
+                },
+                {
+                    "text": "Google Calendar",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": "?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c4ca4238a0b923820dcc509a6f75849b"
+        },
+        {
+            "data": [
+                {
+                    "text": "Google",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " Bookmarks and "
+                },
+                {
+                    "text": "Chrome",
+                    "userDefined": true,
+                    "alias": "Browser",
+                    "meta": "@Browser"
+                },
+                {
+                    "text": " Bookmark Sync -- Different?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "c81e728d9d4c2f636f067f89cc14862c"
+        },
+        {
+            "data": [
+                {
+                    "text": "How do I sync my "
+                },
+                {
+                    "text": "RunKeeper",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": " workout schedule with "
+                },
+                {
+                    "text": "Google Calender",
+                    "userDefined": true,
+                    "alias": "WebService",
+                    "meta": "@WebService"
+                },
+                {
+                    "text": "?"
+                }
+            ],
+            "isTemplate": false,
+            "count": 0,
+            "id": "eccbc87e4b5ce2fe28308fd9f2a7baf3"
+        }
+    ],
+    "responses": [
+        {
+            "affectedContexts": [],
+            "resetContexts": false,
+            "dataType": "@Sync Accounts",
+            "name": "Sync Accounts",
+            "value": "$Sync Accounts",
+            "parameters": [
+                {
+                    "isListe": false
+                }
+            ],
+            "messages": [
+                {
+                    "type": 0,
+                    "speech": []
+                }
+            ]
+        }
+    ]
+}

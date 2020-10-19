@@ -1,0 +1,319 @@
+{
+    "name": "AskUbuntuCorpus",
+    "description": "Visit https://github.com/sebischair/NLU-Evaluation-Corpora for more information",
+    "language": "en",
+    "metadata": null,
+    "counterexamples": [],
+    "dialog_nodes": [],
+    "created": "2020-06-28T19:04:04.376172Z",
+    "updated": "2020-06-28T19:04:04.376173Z",
+    "workspace_id": "",
+    "intents": [
+        {
+            "intent": "None",
+            "created": "2020-06-28T19:04:04.376059Z",
+            "updated": "2020-06-28T19:04:04.376059Z",
+            "examples": [
+                {
+                    "text": "How to record my screen?",
+                    "created": "2020-06-28T19:04:04.376059Z",
+                    "updated": "2020-06-28T19:04:04.376059Z"
+                },
+                {
+                    "text": "How can I highlight or annotate PDFs?",
+                    "created": "2020-06-28T19:04:04.376066Z",
+                    "updated": "2020-06-28T19:04:04.376066Z"
+                },
+                {
+                    "text": "Torrent client for the command-line?",
+                    "created": "2020-06-28T19:04:04.376103Z",
+                    "updated": "2020-06-28T19:04:04.376103Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Make_Update",
+            "created": "2020-06-28T19:04:04.376069Z",
+            "updated": "2020-06-28T19:04:04.376069Z",
+            "examples": [
+                {
+                    "text": "Is it worth upgrading from 12.04 LTS to 13.04",
+                    "created": "2020-06-28T19:04:04.376069Z",
+                    "updated": "2020-06-28T19:04:04.376069Z"
+                },
+                {
+                    "text": "Upgrade to 12.04 64 bit",
+                    "created": "2020-06-28T19:04:04.376071Z",
+                    "updated": "2020-06-28T19:04:04.376071Z"
+                },
+                {
+                    "text": "How to upgrade Ubuntu 14.04.1 to 14.04.2?",
+                    "created": "2020-06-28T19:04:04.376072Z",
+                    "updated": "2020-06-28T19:04:04.376072Z"
+                },
+                {
+                    "text": "Upgrading from Ubuntu 14.04 to 15.04",
+                    "created": "2020-06-28T19:04:04.376074Z",
+                    "updated": "2020-06-28T19:04:04.376074Z"
+                },
+                {
+                    "text": "how to upgrade from ubuntu 15.04 to 15.10?",
+                    "created": "2020-06-28T19:04:04.376075Z",
+                    "updated": "2020-06-28T19:04:04.376075Z"
+                },
+                {
+                    "text": "Upgrade 12.04 to 12.10 using startup disk",
+                    "created": "2020-06-28T19:04:04.376076Z",
+                    "updated": "2020-06-28T19:04:04.376076Z"
+                },
+                {
+                    "text": "How to Upgrade from 11.10 to 12.04 when you've got a problem?",
+                    "created": "2020-06-28T19:04:04.376078Z",
+                    "updated": "2020-06-28T19:04:04.376078Z"
+                },
+                {
+                    "text": "Update 11.04 to 12.04 with LiveCD",
+                    "created": "2020-06-28T19:04:04.376079Z",
+                    "updated": "2020-06-28T19:04:04.376079Z"
+                },
+                {
+                    "text": "How to upgrade Ubuntu 9.10 to 12.10 via terminal?",
+                    "created": "2020-06-28T19:04:04.376080Z",
+                    "updated": "2020-06-28T19:04:04.376080Z"
+                },
+                {
+                    "text": "How to upgrade from Ubuntu 10.10 to 11.04?",
+                    "created": "2020-06-28T19:04:04.376082Z",
+                    "updated": "2020-06-28T19:04:04.376082Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Setup_Printer",
+            "created": "2020-06-28T19:04:04.376083Z",
+            "updated": "2020-06-28T19:04:04.376083Z",
+            "examples": [
+                {
+                    "text": "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020",
+                    "created": "2020-06-28T19:04:04.376083Z",
+                    "updated": "2020-06-28T19:04:04.376083Z"
+                },
+                {
+                    "text": "How to setup HP printer/scanner on ubuntu?",
+                    "created": "2020-06-28T19:04:04.376084Z",
+                    "updated": "2020-06-28T19:04:04.376084Z"
+                },
+                {
+                    "text": "How do I setup my HP C4140 printer wirelessly?",
+                    "created": "2020-06-28T19:04:04.376086Z",
+                    "updated": "2020-06-28T19:04:04.376086Z"
+                },
+                {
+                    "text": "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?",
+                    "created": "2020-06-28T19:04:04.376087Z",
+                    "updated": "2020-06-28T19:04:04.376087Z"
+                },
+                {
+                    "text": "How can I install a Pantum 2502W laser printer on Ubuntu",
+                    "created": "2020-06-28T19:04:04.376088Z",
+                    "updated": "2020-06-28T19:04:04.376088Z"
+                },
+                {
+                    "text": "Install Canon MP560 Ubuntu 15.04",
+                    "created": "2020-06-28T19:04:04.376092Z",
+                    "updated": "2020-06-28T19:04:04.376092Z"
+                },
+                {
+                    "text": "How to install a Brother MFC-5890CN network printer?",
+                    "created": "2020-06-28T19:04:04.376094Z",
+                    "updated": "2020-06-28T19:04:04.376094Z"
+                },
+                {
+                    "text": "How do I install drivers for a Konica Minolta 200?",
+                    "created": "2020-06-28T19:04:04.376095Z",
+                    "updated": "2020-06-28T19:04:04.376095Z"
+                },
+                {
+                    "text": "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?",
+                    "created": "2020-06-28T19:04:04.376096Z",
+                    "updated": "2020-06-28T19:04:04.376096Z"
+                },
+                {
+                    "text": "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work",
+                    "created": "2020-06-28T19:04:04.376097Z",
+                    "updated": "2020-06-28T19:04:04.376097Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Software_Recommendation",
+            "created": "2020-06-28T19:04:04.376099Z",
+            "updated": "2020-06-28T19:04:04.376099Z",
+            "examples": [
+                {
+                    "text": "Any command line calculator for Ubuntu?",
+                    "created": "2020-06-28T19:04:04.376099Z",
+                    "updated": "2020-06-28T19:04:04.376099Z"
+                },
+                {
+                    "text": "Extracting embedded images from a PDF",
+                    "created": "2020-06-28T19:04:04.376100Z",
+                    "updated": "2020-06-28T19:04:04.376100Z"
+                },
+                {
+                    "text": "What to use to quickly cut Audio/Video",
+                    "created": "2020-06-28T19:04:04.376102Z",
+                    "updated": "2020-06-28T19:04:04.376102Z"
+                },
+                {
+                    "text": "MySQL GUI Tools",
+                    "created": "2020-06-28T19:04:04.376104Z",
+                    "updated": "2020-06-28T19:04:04.376104Z"
+                },
+                {
+                    "text": "What developer text editors are available for Ubuntu?",
+                    "created": "2020-06-28T19:04:04.376106Z",
+                    "updated": "2020-06-28T19:04:04.376106Z"
+                },
+                {
+                    "text": "What screenshot tools are available?",
+                    "created": "2020-06-28T19:04:04.376107Z",
+                    "updated": "2020-06-28T19:04:04.376107Z"
+                },
+                {
+                    "text": "Which programs can I use to edit PDF files?",
+                    "created": "2020-06-28T19:04:04.376108Z",
+                    "updated": "2020-06-28T19:04:04.376108Z"
+                },
+                {
+                    "text": "Is there a lightweight tool to crop images quickly?",
+                    "created": "2020-06-28T19:04:04.376110Z",
+                    "updated": "2020-06-28T19:04:04.376110Z"
+                },
+                {
+                    "text": "What IRC clients are available?",
+                    "created": "2020-06-28T19:04:04.376111Z",
+                    "updated": "2020-06-28T19:04:04.376111Z"
+                },
+                {
+                    "text": "What new games are available for Ubuntu in 2011?",
+                    "created": "2020-06-28T19:04:04.376112Z",
+                    "updated": "2020-06-28T19:04:04.376112Z"
+                },
+                {
+                    "text": "UPNP / DLNA (client) player recommendations?",
+                    "created": "2020-06-28T19:04:04.376114Z",
+                    "updated": "2020-06-28T19:04:04.376114Z"
+                },
+                {
+                    "text": "What scientific plotting software is available?",
+                    "created": "2020-06-28T19:04:04.376115Z",
+                    "updated": "2020-06-28T19:04:04.376115Z"
+                },
+                {
+                    "text": "Can you recommend a password generator?",
+                    "created": "2020-06-28T19:04:04.376117Z",
+                    "updated": "2020-06-28T19:04:04.376117Z"
+                },
+                {
+                    "text": "What tools do you use to monitor a web server?",
+                    "created": "2020-06-28T19:04:04.376119Z",
+                    "updated": "2020-06-28T19:04:04.376119Z"
+                },
+                {
+                    "text": "What is a good MongoDB GUI client?",
+                    "created": "2020-06-28T19:04:04.376120Z",
+                    "updated": "2020-06-28T19:04:04.376120Z"
+                },
+                {
+                    "text": "Password Management Applications?",
+                    "created": "2020-06-28T19:04:04.376122Z",
+                    "updated": "2020-06-28T19:04:04.376122Z"
+                },
+                {
+                    "text": "Is there an application for reading mobi files?",
+                    "created": "2020-06-28T19:04:04.376123Z",
+                    "updated": "2020-06-28T19:04:04.376123Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Shutdown_Computer",
+            "created": "2020-06-28T19:04:04.376125Z",
+            "updated": "2020-06-28T19:04:04.376125Z",
+            "examples": [
+                {
+                    "text": "shut down without extra question",
+                    "created": "2020-06-28T19:04:04.376125Z",
+                    "updated": "2020-06-28T19:04:04.376125Z"
+                },
+                {
+                    "text": "How to shutdown computer when users are logged on?",
+                    "created": "2020-06-28T19:04:04.376127Z",
+                    "updated": "2020-06-28T19:04:04.376127Z"
+                },
+                {
+                    "text": "What is the proper terminal-way to shutdown?",
+                    "created": "2020-06-28T19:04:04.376128Z",
+                    "updated": "2020-06-28T19:04:04.376128Z"
+                },
+                {
+                    "text": "How can I automatically shutdown the system after a specific time?",
+                    "created": "2020-06-28T19:04:04.376130Z",
+                    "updated": "2020-06-28T19:04:04.376130Z"
+                },
+                {
+                    "text": "Hotkey to shut down from login screen?",
+                    "created": "2020-06-28T19:04:04.376131Z",
+                    "updated": "2020-06-28T19:04:04.376131Z"
+                },
+                {
+                    "text": "How to shutdown the computer after Xsession ends?",
+                    "created": "2020-06-28T19:04:04.376132Z",
+                    "updated": "2020-06-28T19:04:04.376132Z"
+                },
+                {
+                    "text": "How can one shutdown a PC using the keyboard?",
+                    "created": "2020-06-28T19:04:04.376134Z",
+                    "updated": "2020-06-28T19:04:04.376134Z"
+                },
+                {
+                    "text": "How can I enable shutdown verbosity?",
+                    "created": "2020-06-28T19:04:04.376135Z",
+                    "updated": "2020-06-28T19:04:04.376135Z"
+                },
+                {
+                    "text": "Are there any Keyboard Shortcuts to Shutdown?",
+                    "created": "2020-06-28T19:04:04.376136Z",
+                    "updated": "2020-06-28T19:04:04.376136Z"
+                },
+                {
+                    "text": "Shutdown after a certain time",
+                    "created": "2020-06-28T19:04:04.376138Z",
+                    "updated": "2020-06-28T19:04:04.376138Z"
+                },
+                {
+                    "text": "Shutdown problem in Ubuntu 16.04",
+                    "created": "2020-06-28T19:04:04.376139Z",
+                    "updated": "2020-06-28T19:04:04.376139Z"
+                },
+                {
+                    "text": "How do I fix a shutdown problem?",
+                    "created": "2020-06-28T19:04:04.376140Z",
+                    "updated": "2020-06-28T19:04:04.376140Z"
+                },
+                {
+                    "text": "What graphical utility can I use for Ubuntu auto shutdown?",
+                    "created": "2020-06-28T19:04:04.376142Z",
+                    "updated": "2020-06-28T19:04:04.376142Z"
+                }
+            ],
+            "description": null
+        }
+    ],
+    "entities": []
+}

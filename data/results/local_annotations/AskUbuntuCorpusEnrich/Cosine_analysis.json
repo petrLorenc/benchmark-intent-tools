@@ -1,0 +1,101 @@
+[
+    {
+        "intents": [
+            {
+                "None": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 5,
+                        "falsePos": 1,
+                        "precision": 0.0,
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Setup Printer": [
+                    {
+                        "truePos": 11,
+                        "falseNeg": 2,
+                        "falsePos": 3,
+                        "precision": 0.7857142857142857,
+                        "recall": 0.8461538461538461,
+                        "f1": 0.8148148148148148
+                    }
+                ],
+                "Software Recommendation": [
+                    {
+                        "truePos": 28,
+                        "falseNeg": 12,
+                        "falsePos": 6,
+                        "precision": 0.8235294117647058,
+                        "recall": 0.7,
+                        "f1": 0.7567567567567567
+                    }
+                ],
+                "Shutdown Computer": [
+                    {
+                        "truePos": 12,
+                        "falseNeg": 2,
+                        "falsePos": 10,
+                        "precision": 0.5454545454545454,
+                        "recall": 0.8571428571428571,
+                        "f1": 0.6666666666666665
+                    }
+                ],
+                "Make Update": [
+                    {
+                        "truePos": 32,
+                        "falseNeg": 5,
+                        "falsePos": 6,
+                        "precision": 0.8421052631578947,
+                        "recall": 0.8648648648648649,
+                        "f1": 0.8533333333333334
+                    }
+                ],
+                "precision": 0.7614678899082569,
+                "recall": 0.7614678899082569,
+                "f1": 0.7614678899082569
+            }
+        ],
+        "entities": [
+            {
+                "SoftwareName": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 4,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Printer": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 12,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "UbuntuVersion": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 78,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "precision": "n.a.",
+                "recall": 0.0,
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.7614678899082569,
+        "recall": 0.4088669950738916,
+        "f1": 0.532051282051282
+    }
+]

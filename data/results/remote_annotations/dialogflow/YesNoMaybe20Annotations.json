@@ -1,0 +1,884 @@
+{
+    "results": [
+        {
+            "queryText": "maybe",
+            "intent": ""
+        },
+        {
+            "queryText": "may be",
+            "intent": ""
+        },
+        {
+            "queryText": "might be",
+            "intent": ""
+        },
+        {
+            "queryText": "don't really know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "do not really know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i do not really know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i don't  know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "do not  know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i do not  know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i'm not  sure",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i am not  sure",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "not quite sure",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i'm not quite sure",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i am not quite sure",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "possibly",
+            "intent": ""
+        },
+        {
+            "queryText": "i'm indifferent",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i am indifferent",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "indifferent",
+            "intent": ""
+        },
+        {
+            "queryText": "i can't remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "can't remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i cannot remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "cannot remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i can not remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "can not remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i don't remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i don't really care",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i think it doesn't  matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "it doesn't  matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "that doesn't  matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "doesn't  matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i think it doesn't really matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "it doesn't really matter",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "it's the same",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "stop",
+            "intent": ""
+        },
+        {
+            "queryText": "i want to quit",
+            "intent": "stop"
+        },
+        {
+            "queryText": "exit",
+            "intent": "stop"
+        },
+        {
+            "queryText": "i want to exit",
+            "intent": "stop"
+        },
+        {
+            "queryText": "stop",
+            "intent": ""
+        },
+        {
+            "queryText": "i want to stop",
+            "intent": ""
+        },
+        {
+            "queryText": "stop it",
+            "intent": ""
+        },
+        {
+            "queryText": "i want to stop it",
+            "intent": ""
+        },
+        {
+            "queryText": "i want to turn  off",
+            "intent": "stop"
+        },
+        {
+            "queryText": "turn you off",
+            "intent": "stop"
+        },
+        {
+            "queryText": "i want to turn you off",
+            "intent": "stop"
+        },
+        {
+            "queryText": "don't talk",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "stop talking",
+            "intent": ""
+        },
+        {
+            "queryText": "i don't want to play  anymore",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i don't want to play any game anymore",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i don't want to play",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i don't want to play any game",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i don't like this game anymore",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i'm not enjoying this",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i'm not enjoying this game",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "this is boring",
+            "intent": ""
+        },
+        {
+            "queryText": "bye bye",
+            "intent": "stop"
+        },
+        {
+            "queryText": "goodbye",
+            "intent": "stop"
+        },
+        {
+            "queryText": "repeat",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "can you repeat that",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat it",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat the question",
+            "intent": ""
+        },
+        {
+            "queryText": "can you repeat the question",
+            "intent": ""
+        },
+        {
+            "queryText": "could you repeat that please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "can you repeat that please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat it please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "can you repeat it please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat the question please",
+            "intent": ""
+        },
+        {
+            "queryText": "can you repeat the question please",
+            "intent": ""
+        },
+        {
+            "queryText": "once more",
+            "intent": ""
+        },
+        {
+            "queryText": "once more please",
+            "intent": ""
+        },
+        {
+            "queryText": "say that again",
+            "intent": ""
+        },
+        {
+            "queryText": "say that again please",
+            "intent": ""
+        },
+        {
+            "queryText": "what was that",
+            "intent": ""
+        },
+        {
+            "queryText": "what are you saying",
+            "intent": ""
+        },
+        {
+            "queryText": "what",
+            "intent": ""
+        },
+        {
+            "queryText": "stop and shut up",
+            "intent": "totalStop"
+        },
+        {
+            "queryText": "wait",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait a second",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait a while",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait  please",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait a minute please",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait a while please",
+            "intent": "wait"
+        },
+        {
+            "queryText": "one moment",
+            "intent": ""
+        },
+        {
+            "queryText": "one moment please",
+            "intent": ""
+        },
+        {
+            "queryText": "which  games can i play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what  games can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other games can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other game can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  games can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  games can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other games can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what else can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  games can you play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which other games can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what else can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  games do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  games do you have",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which other games do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other game do you have",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what else do you have",
+            "intent": ""
+        },
+        {
+            "queryText": "what do you have",
+            "intent": ""
+        },
+        {
+            "queryText": "which  games do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  games do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other game do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what else do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  games is available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games is available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game is available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game is available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  games are available",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what  games are available",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which other games are available",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what other games are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "how many  games have we played",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have we played",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have i played",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have we played so far",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many  games have i played so far",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have i played so far",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many  games have we played in this session",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have we played in this session",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have i played in this session",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "would you speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will  speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can you talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will you talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will  talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can you talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will  talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can you speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will you speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will  speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can you talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will you talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i can't hear you very well",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i can't hear you  well",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i can't hear you very",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you are talking too quiet",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are  too quiet",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are speaking too low",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you are talking too low",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you are  too low",
+            "intent": ""
+        },
+        {
+            "queryText": "you are speaking too quietly",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you are talking too quietly",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are  too quietly",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "volume up",
+            "intent": ""
+        },
+        {
+            "queryText": "how many times have we talked already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we chatted already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we spoken already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i launched you already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i started you already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i talked to you already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we talked so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we spoken so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i opened you so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we talked",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we chatted",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we spoken",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i launched you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i started you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i opened you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i talked to you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "are you still there",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "are you sleeping",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "are you asleep",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "have you turned off",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "have you stopped",
+            "intent": ""
+        },
+        {
+            "queryText": "did you stop",
+            "intent": ""
+        },
+        {
+            "queryText": "did you quit",
+            "intent": "stop"
+        }
+    ]
+}

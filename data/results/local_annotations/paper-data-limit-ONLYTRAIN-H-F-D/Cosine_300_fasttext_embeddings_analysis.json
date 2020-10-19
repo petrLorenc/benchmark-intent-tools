@@ -1,0 +1,161 @@
+[
+    {
+        "intents": [
+            {
+                "-17_L": [
+                    {
+                        "truePos": 87,
+                        "falseNeg": 19,
+                        "falsePos": 37,
+                        "precision": 0.7016129032258065,
+                        "recall": 0.8207547169811321,
+                        "f1": 0.7565217391304347
+                    }
+                ],
+                "wait_G": [
+                    {
+                        "truePos": 5,
+                        "falseNeg": 1,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.8333333333333334,
+                        "f1": 0.9090909090909091
+                    }
+                ],
+                "Repeat_G": [
+                    {
+                        "truePos": 7,
+                        "falseNeg": 5,
+                        "falsePos": 1,
+                        "precision": 0.875,
+                        "recall": 0.5833333333333334,
+                        "f1": 0.7000000000000001
+                    }
+                ],
+                "stop_G": [
+                    {
+                        "truePos": 9,
+                        "falseNeg": 7,
+                        "falsePos": 3,
+                        "precision": 0.75,
+                        "recall": 0.5625,
+                        "f1": 0.6428571428571429
+                    }
+                ],
+                "-18_L": [
+                    {
+                        "truePos": 14,
+                        "falseNeg": 8,
+                        "falsePos": 10,
+                        "precision": 0.5833333333333334,
+                        "recall": 0.6363636363636364,
+                        "f1": 0.6086956521739131
+                    }
+                ],
+                "timesPlayed_G": [
+                    {
+                        "truePos": 10,
+                        "falseNeg": 0,
+                        "falsePos": 2,
+                        "precision": 0.8333333333333334,
+                        "recall": 1.0,
+                        "f1": 0.9090909090909091
+                    }
+                ],
+                "volumeUp_G": [
+                    {
+                        "truePos": 27,
+                        "falseNeg": 10,
+                        "falsePos": 8,
+                        "precision": 0.7714285714285715,
+                        "recall": 0.7297297297297297,
+                        "f1": 0.75
+                    }
+                ],
+                "totalStop_G": [
+                    {
+                        "truePos": 1,
+                        "falseNeg": 0,
+                        "falsePos": 1,
+                        "precision": 0.5,
+                        "recall": 1.0,
+                        "f1": 0.6666666666666666
+                    }
+                ],
+                "-3_L": [
+                    {
+                        "truePos": 244,
+                        "falseNeg": 38,
+                        "falsePos": 19,
+                        "precision": 0.9277566539923955,
+                        "recall": 0.8652482269503546,
+                        "f1": 0.8954128440366973
+                    }
+                ],
+                "gamesCounter_G": [
+                    {
+                        "truePos": 4,
+                        "falseNeg": 2,
+                        "falsePos": 1,
+                        "precision": 0.8,
+                        "recall": 0.6666666666666666,
+                        "f1": 0.7272727272727272
+                    }
+                ],
+                "volumeDown_G": [
+                    {
+                        "truePos": 56,
+                        "falseNeg": 6,
+                        "falsePos": 15,
+                        "precision": 0.7887323943661971,
+                        "recall": 0.9032258064516129,
+                        "f1": 0.8421052631578947
+                    }
+                ],
+                "listOfGames_G": [
+                    {
+                        "truePos": 32,
+                        "falseNeg": 1,
+                        "falsePos": 3,
+                        "precision": 0.9142857142857143,
+                        "recall": 0.9696969696969697,
+                        "f1": 0.9411764705882354
+                    }
+                ],
+                "stillThere_G": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 5,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "playOtherGame_G": [
+                    {
+                        "truePos": 61,
+                        "falseNeg": 1,
+                        "falsePos": 3,
+                        "precision": 0.953125,
+                        "recall": 0.9838709677419355,
+                        "f1": 0.9682539682539683
+                    }
+                ],
+                "precision": 0.843939393939394,
+                "recall": 0.843939393939394,
+                "f1": 0.843939393939394
+            }
+        ],
+        "entities": [
+            {
+                "precision": "n.a.",
+                "recall": "n.a.",
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.843939393939394,
+        "recall": 0.843939393939394,
+        "f1": 0.843939393939394
+    }
+]

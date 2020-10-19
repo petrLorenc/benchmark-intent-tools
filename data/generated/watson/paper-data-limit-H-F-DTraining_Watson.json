@@ -1,0 +1,3421 @@
+{
+    "name": "paper-data-limit-H-F-D",
+    "description": "Petr Lorenc",
+    "language": "en",
+    "metadata": null,
+    "counterexamples": [],
+    "dialog_nodes": [],
+    "created": "2020-07-20T15:33:25.468171Z",
+    "updated": "2020-07-20T15:33:25.468172Z",
+    "workspace_id": "",
+    "intents": [
+        {
+            "intent": "-3_L",
+            "created": "2020-07-20T15:33:25.467158Z",
+            "updated": "2020-07-20T15:33:25.467158Z",
+            "examples": [
+                {
+                    "text": "yea ",
+                    "created": "2020-07-20T15:33:25.467158Z",
+                    "updated": "2020-07-20T15:33:25.467158Z"
+                },
+                {
+                    "text": "oh yes  somehow ",
+                    "created": "2020-07-20T15:33:25.467169Z",
+                    "updated": "2020-07-20T15:33:25.467169Z"
+                },
+                {
+                    "text": "yea  i wonder ",
+                    "created": "2020-07-20T15:33:25.467171Z",
+                    "updated": "2020-07-20T15:33:25.467171Z"
+                },
+                {
+                    "text": " at the end of the day  yeah you know ",
+                    "created": "2020-07-20T15:33:25.467174Z",
+                    "updated": "2020-07-20T15:33:25.467174Z"
+                },
+                {
+                    "text": " sounds great  sure i wonder ",
+                    "created": "2020-07-20T15:33:25.467175Z",
+                    "updated": "2020-07-20T15:33:25.467175Z"
+                },
+                {
+                    "text": " i wonder all  right",
+                    "created": "2020-07-20T15:33:25.467176Z",
+                    "updated": "2020-07-20T15:33:25.467176Z"
+                },
+                {
+                    "text": " could you oh  all right",
+                    "created": "2020-07-20T15:33:25.467178Z",
+                    "updated": "2020-07-20T15:33:25.467178Z"
+                },
+                {
+                    "text": " right oh definitely  really ",
+                    "created": "2020-07-20T15:33:25.467179Z",
+                    "updated": "2020-07-20T15:33:25.467179Z"
+                },
+                {
+                    "text": "yea i am ",
+                    "created": "2020-07-20T15:33:25.467181Z",
+                    "updated": "2020-07-20T15:33:25.467181Z"
+                },
+                {
+                    "text": " can you  oh yea i am",
+                    "created": "2020-07-20T15:33:25.467182Z",
+                    "updated": "2020-07-20T15:33:25.467182Z"
+                },
+                {
+                    "text": "sure  i am",
+                    "created": "2020-07-20T15:33:25.467184Z",
+                    "updated": "2020-07-20T15:33:25.467184Z"
+                },
+                {
+                    "text": " you know alright i  am in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467185Z",
+                    "updated": "2020-07-20T15:33:25.467185Z"
+                },
+                {
+                    "text": "absolutely i am  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467186Z",
+                    "updated": "2020-07-20T15:33:25.467186Z"
+                },
+                {
+                    "text": " would you let me know  uhm  definitely i am i want you to ",
+                    "created": "2020-07-20T15:33:25.467187Z",
+                    "updated": "2020-07-20T15:33:25.467187Z"
+                },
+                {
+                    "text": "oh  somehow  yes i do",
+                    "created": "2020-07-20T15:33:25.467188Z",
+                    "updated": "2020-07-20T15:33:25.467188Z"
+                },
+                {
+                    "text": " in my humble opinion  somehow  yea i do",
+                    "created": "2020-07-20T15:33:25.467190Z",
+                    "updated": "2020-07-20T15:33:25.467190Z"
+                },
+                {
+                    "text": "oh sure  somehow  i do at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467191Z",
+                    "updated": "2020-07-20T15:33:25.467191Z"
+                },
+                {
+                    "text": "oh alright i do  uhm ",
+                    "created": "2020-07-20T15:33:25.467192Z",
+                    "updated": "2020-07-20T15:33:25.467192Z"
+                },
+                {
+                    "text": "all right  really  i do right ",
+                    "created": "2020-07-20T15:33:25.467193Z",
+                    "updated": "2020-07-20T15:33:25.467193Z"
+                },
+                {
+                    "text": " oh  absolutely i do",
+                    "created": "2020-07-20T15:33:25.467195Z",
+                    "updated": "2020-07-20T15:33:25.467195Z"
+                },
+                {
+                    "text": " for what it is worth definitely i do ",
+                    "created": "2020-07-20T15:33:25.467196Z",
+                    "updated": "2020-07-20T15:33:25.467196Z"
+                },
+                {
+                    "text": "yes i have  could you ",
+                    "created": "2020-07-20T15:33:25.467197Z",
+                    "updated": "2020-07-20T15:33:25.467197Z"
+                },
+                {
+                    "text": " i want you to oh yes i  really  have",
+                    "created": "2020-07-20T15:33:25.467198Z",
+                    "updated": "2020-07-20T15:33:25.467198Z"
+                },
+                {
+                    "text": " i would like to hear yeah i  have would you let me know ",
+                    "created": "2020-07-20T15:33:25.467199Z",
+                    "updated": "2020-07-20T15:33:25.467199Z"
+                },
+                {
+                    "text": "oh yeah  hmm  i have sounds great ",
+                    "created": "2020-07-20T15:33:25.467201Z",
+                    "updated": "2020-07-20T15:33:25.467201Z"
+                },
+                {
+                    "text": " okay sure  i have",
+                    "created": "2020-07-20T15:33:25.467202Z",
+                    "updated": "2020-07-20T15:33:25.467202Z"
+                },
+                {
+                    "text": "alright  i have at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467203Z",
+                    "updated": "2020-07-20T15:33:25.467203Z"
+                },
+                {
+                    "text": " uhm  all right i have i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467204Z",
+                    "updated": "2020-07-20T15:33:25.467204Z"
+                },
+                {
+                    "text": "oh all right i  somehow  have so ",
+                    "created": "2020-07-20T15:33:25.467205Z",
+                    "updated": "2020-07-20T15:33:25.467205Z"
+                },
+                {
+                    "text": " i would like to hear absolutely i  uhm  have believe me ",
+                    "created": "2020-07-20T15:33:25.467207Z",
+                    "updated": "2020-07-20T15:33:25.467207Z"
+                },
+                {
+                    "text": " so oh absolutely i have ",
+                    "created": "2020-07-20T15:33:25.467208Z",
+                    "updated": "2020-07-20T15:33:25.467208Z"
+                },
+                {
+                    "text": " sounds great  definitely i have",
+                    "created": "2020-07-20T15:33:25.467209Z",
+                    "updated": "2020-07-20T15:33:25.467209Z"
+                },
+                {
+                    "text": " well oh definitely i  really  have you know ",
+                    "created": "2020-07-20T15:33:25.467211Z",
+                    "updated": "2020-07-20T15:33:25.467211Z"
+                },
+                {
+                    "text": " right yes i  will could you ",
+                    "created": "2020-07-20T15:33:25.467212Z",
+                    "updated": "2020-07-20T15:33:25.467212Z"
+                },
+                {
+                    "text": "yea i will ",
+                    "created": "2020-07-20T15:33:25.467214Z",
+                    "updated": "2020-07-20T15:33:25.467214Z"
+                },
+                {
+                    "text": "oh yea i will  just ",
+                    "created": "2020-07-20T15:33:25.467215Z",
+                    "updated": "2020-07-20T15:33:25.467215Z"
+                },
+                {
+                    "text": " i would like to hear  just  yeah i will",
+                    "created": "2020-07-20T15:33:25.467216Z",
+                    "updated": "2020-07-20T15:33:25.467216Z"
+                },
+                {
+                    "text": " at the end of the day  oh  oh absolutely i will",
+                    "created": "2020-07-20T15:33:25.467217Z",
+                    "updated": "2020-07-20T15:33:25.467217Z"
+                },
+                {
+                    "text": "oh  oh  yes i would sounds great ",
+                    "created": "2020-07-20T15:33:25.467218Z",
+                    "updated": "2020-07-20T15:33:25.467218Z"
+                },
+                {
+                    "text": "oh yeah  oh  i would",
+                    "created": "2020-07-20T15:33:25.467220Z",
+                    "updated": "2020-07-20T15:33:25.467220Z"
+                },
+                {
+                    "text": " i think oh sure i  would",
+                    "created": "2020-07-20T15:33:25.467222Z",
+                    "updated": "2020-07-20T15:33:25.467222Z"
+                },
+                {
+                    "text": " well alright i  would i wonder ",
+                    "created": "2020-07-20T15:33:25.467223Z",
+                    "updated": "2020-07-20T15:33:25.467223Z"
+                },
+                {
+                    "text": " right all right i  hmm  would at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467224Z",
+                    "updated": "2020-07-20T15:33:25.467224Z"
+                },
+                {
+                    "text": " i wonder oh  oh  all right i would believe me ",
+                    "created": "2020-07-20T15:33:25.467225Z",
+                    "updated": "2020-07-20T15:33:25.467225Z"
+                },
+                {
+                    "text": " at the end of the day absolutely  really  i would",
+                    "created": "2020-07-20T15:33:25.467227Z",
+                    "updated": "2020-07-20T15:33:25.467227Z"
+                },
+                {
+                    "text": " oh definitely i would",
+                    "created": "2020-07-20T15:33:25.467228Z",
+                    "updated": "2020-07-20T15:33:25.467228Z"
+                },
+                {
+                    "text": " yes i did",
+                    "created": "2020-07-20T15:33:25.467229Z",
+                    "updated": "2020-07-20T15:33:25.467229Z"
+                },
+                {
+                    "text": " uhm  yea i did",
+                    "created": "2020-07-20T15:33:25.467230Z",
+                    "updated": "2020-07-20T15:33:25.467230Z"
+                },
+                {
+                    "text": " i would like to hear yeah i  somehow  did",
+                    "created": "2020-07-20T15:33:25.467231Z",
+                    "updated": "2020-07-20T15:33:25.467231Z"
+                },
+                {
+                    "text": " can you  hmm  oh yeah i did",
+                    "created": "2020-07-20T15:33:25.467233Z",
+                    "updated": "2020-07-20T15:33:25.467233Z"
+                },
+                {
+                    "text": "alright i  did",
+                    "created": "2020-07-20T15:33:25.467234Z",
+                    "updated": "2020-07-20T15:33:25.467234Z"
+                },
+                {
+                    "text": " so  all right i did",
+                    "created": "2020-07-20T15:33:25.467235Z",
+                    "updated": "2020-07-20T15:33:25.467235Z"
+                },
+                {
+                    "text": " i think oh all right i  did",
+                    "created": "2020-07-20T15:33:25.467236Z",
+                    "updated": "2020-07-20T15:33:25.467236Z"
+                },
+                {
+                    "text": "definitely i did  really ",
+                    "created": "2020-07-20T15:33:25.467238Z",
+                    "updated": "2020-07-20T15:33:25.467238Z"
+                },
+                {
+                    "text": " basically oh definitely i did  well ",
+                    "created": "2020-07-20T15:33:25.467240Z",
+                    "updated": "2020-07-20T15:33:25.467240Z"
+                },
+                {
+                    "text": " i wonder yea i  uhm  had would you let me know ",
+                    "created": "2020-07-20T15:33:25.467241Z",
+                    "updated": "2020-07-20T15:33:25.467241Z"
+                },
+                {
+                    "text": " well yeah i had ",
+                    "created": "2020-07-20T15:33:25.467243Z",
+                    "updated": "2020-07-20T15:33:25.467243Z"
+                },
+                {
+                    "text": "oh alright i had  just ",
+                    "created": "2020-07-20T15:33:25.467244Z",
+                    "updated": "2020-07-20T15:33:25.467244Z"
+                },
+                {
+                    "text": " in my humble opinion definitely i  had",
+                    "created": "2020-07-20T15:33:25.467245Z",
+                    "updated": "2020-07-20T15:33:25.467245Z"
+                },
+                {
+                    "text": " i want you to oh definitely i  had",
+                    "created": "2020-07-20T15:33:25.467247Z",
+                    "updated": "2020-07-20T15:33:25.467247Z"
+                },
+                {
+                    "text": "yes indeed  i want you to ",
+                    "created": "2020-07-20T15:33:25.467248Z",
+                    "updated": "2020-07-20T15:33:25.467248Z"
+                },
+                {
+                    "text": "oh yes  somehow  indeed okay ",
+                    "created": "2020-07-20T15:33:25.467249Z",
+                    "updated": "2020-07-20T15:33:25.467249Z"
+                },
+                {
+                    "text": "yea indeed ",
+                    "created": "2020-07-20T15:33:25.467250Z",
+                    "updated": "2020-07-20T15:33:25.467250Z"
+                },
+                {
+                    "text": "oh  just  yea indeed",
+                    "created": "2020-07-20T15:33:25.467251Z",
+                    "updated": "2020-07-20T15:33:25.467251Z"
+                },
+                {
+                    "text": " alright indeed",
+                    "created": "2020-07-20T15:33:25.467253Z",
+                    "updated": "2020-07-20T15:33:25.467253Z"
+                },
+                {
+                    "text": " i would like to hear oh all right  really  indeed",
+                    "created": "2020-07-20T15:33:25.467254Z",
+                    "updated": "2020-07-20T15:33:25.467254Z"
+                },
+                {
+                    "text": " absolutely indeed",
+                    "created": "2020-07-20T15:33:25.467255Z",
+                    "updated": "2020-07-20T15:33:25.467255Z"
+                },
+                {
+                    "text": "oh absolutely indeed  really ",
+                    "created": "2020-07-20T15:33:25.467256Z",
+                    "updated": "2020-07-20T15:33:25.467256Z"
+                },
+                {
+                    "text": " believe me oh definitely indeed  somehow  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467257Z",
+                    "updated": "2020-07-20T15:33:25.467257Z"
+                },
+                {
+                    "text": " for what it is worth yes  somehow  absolutely would you let me know ",
+                    "created": "2020-07-20T15:33:25.467259Z",
+                    "updated": "2020-07-20T15:33:25.467259Z"
+                },
+                {
+                    "text": " i want you to oh yes absolutely  yeah  can you ",
+                    "created": "2020-07-20T15:33:25.467260Z",
+                    "updated": "2020-07-20T15:33:25.467260Z"
+                },
+                {
+                    "text": " yea absolutely i wonder ",
+                    "created": "2020-07-20T15:33:25.467261Z",
+                    "updated": "2020-07-20T15:33:25.467261Z"
+                },
+                {
+                    "text": " so oh yea  absolutely could you ",
+                    "created": "2020-07-20T15:33:25.467262Z",
+                    "updated": "2020-07-20T15:33:25.467262Z"
+                },
+                {
+                    "text": " believe me sure absolutely ",
+                    "created": "2020-07-20T15:33:25.467264Z",
+                    "updated": "2020-07-20T15:33:25.467264Z"
+                },
+                {
+                    "text": " hmm  alright absolutely i think ",
+                    "created": "2020-07-20T15:33:25.467265Z",
+                    "updated": "2020-07-20T15:33:25.467265Z"
+                },
+                {
+                    "text": " i think  yeah  oh all right absolutely for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467266Z",
+                    "updated": "2020-07-20T15:33:25.467266Z"
+                },
+                {
+                    "text": " i want you to oh absolutely  absolutely basically ",
+                    "created": "2020-07-20T15:33:25.467267Z",
+                    "updated": "2020-07-20T15:33:25.467267Z"
+                },
+                {
+                    "text": " in my humble opinion  definitely absolutely",
+                    "created": "2020-07-20T15:33:25.467268Z",
+                    "updated": "2020-07-20T15:33:25.467268Z"
+                },
+                {
+                    "text": " needless to say yes definitely  somehow ",
+                    "created": "2020-07-20T15:33:25.467270Z",
+                    "updated": "2020-07-20T15:33:25.467270Z"
+                },
+                {
+                    "text": " okay oh yes  uhm  definitely in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467271Z",
+                    "updated": "2020-07-20T15:33:25.467271Z"
+                },
+                {
+                    "text": "yea  definitely",
+                    "created": "2020-07-20T15:33:25.467274Z",
+                    "updated": "2020-07-20T15:33:25.467274Z"
+                },
+                {
+                    "text": " just  oh yea definitely you know ",
+                    "created": "2020-07-20T15:33:25.467275Z",
+                    "updated": "2020-07-20T15:33:25.467275Z"
+                },
+                {
+                    "text": " you know sure definitely  really ",
+                    "created": "2020-07-20T15:33:25.467276Z",
+                    "updated": "2020-07-20T15:33:25.467276Z"
+                },
+                {
+                    "text": "oh  yeah  sure definitely i think ",
+                    "created": "2020-07-20T15:33:25.467278Z",
+                    "updated": "2020-07-20T15:33:25.467278Z"
+                },
+                {
+                    "text": " i would like to hear  hmm  alright definitely at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467279Z",
+                    "updated": "2020-07-20T15:33:25.467279Z"
+                },
+                {
+                    "text": " so oh all right definitely  just ",
+                    "created": "2020-07-20T15:33:25.467280Z",
+                    "updated": "2020-07-20T15:33:25.467280Z"
+                },
+                {
+                    "text": " definitely definitely",
+                    "created": "2020-07-20T15:33:25.467281Z",
+                    "updated": "2020-07-20T15:33:25.467281Z"
+                },
+                {
+                    "text": "oh definitely  somehow  definitely can you ",
+                    "created": "2020-07-20T15:33:25.467282Z",
+                    "updated": "2020-07-20T15:33:25.467282Z"
+                },
+                {
+                    "text": "yes  i think can you ",
+                    "created": "2020-07-20T15:33:25.467283Z",
+                    "updated": "2020-07-20T15:33:25.467283Z"
+                },
+                {
+                    "text": "yea  yeah  i think could you ",
+                    "created": "2020-07-20T15:33:25.467285Z",
+                    "updated": "2020-07-20T15:33:25.467285Z"
+                },
+                {
+                    "text": " i would like to hear oh yea i think  just  for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467286Z",
+                    "updated": "2020-07-20T15:33:25.467286Z"
+                },
+                {
+                    "text": " can you oh yeah i  think at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467287Z",
+                    "updated": "2020-07-20T15:33:25.467287Z"
+                },
+                {
+                    "text": " sure i think at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467289Z",
+                    "updated": "2020-07-20T15:33:25.467289Z"
+                },
+                {
+                    "text": " sounds great  somehow  oh alright i think at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467290Z",
+                    "updated": "2020-07-20T15:33:25.467290Z"
+                },
+                {
+                    "text": " right absolutely  i think",
+                    "created": "2020-07-20T15:33:25.467291Z",
+                    "updated": "2020-07-20T15:33:25.467291Z"
+                },
+                {
+                    "text": "oh  absolutely i think",
+                    "created": "2020-07-20T15:33:25.467292Z",
+                    "updated": "2020-07-20T15:33:25.467292Z"
+                },
+                {
+                    "text": " so of course i am  you know ",
+                    "created": "2020-07-20T15:33:25.467294Z",
+                    "updated": "2020-07-20T15:33:25.467294Z"
+                },
+                {
+                    "text": " i wonder  somehow  of course i do",
+                    "created": "2020-07-20T15:33:25.467295Z",
+                    "updated": "2020-07-20T15:33:25.467295Z"
+                },
+                {
+                    "text": "i think i  have i wonder ",
+                    "created": "2020-07-20T15:33:25.467297Z",
+                    "updated": "2020-07-20T15:33:25.467297Z"
+                },
+                {
+                    "text": " i want you to i  uhm   agree so ",
+                    "created": "2020-07-20T15:33:25.467298Z",
+                    "updated": "2020-07-20T15:33:25.467298Z"
+                },
+                {
+                    "text": " can you  agree right ",
+                    "created": "2020-07-20T15:33:25.467299Z",
+                    "updated": "2020-07-20T15:33:25.467299Z"
+                },
+                {
+                    "text": " hmm  i totally agree",
+                    "created": "2020-07-20T15:33:25.467300Z",
+                    "updated": "2020-07-20T15:33:25.467300Z"
+                },
+                {
+                    "text": "totally agree ",
+                    "created": "2020-07-20T15:33:25.467301Z",
+                    "updated": "2020-07-20T15:33:25.467301Z"
+                },
+                {
+                    "text": "absolutely  just  agree",
+                    "created": "2020-07-20T15:33:25.467303Z",
+                    "updated": "2020-07-20T15:33:25.467303Z"
+                },
+                {
+                    "text": "probably  yeah i wonder ",
+                    "created": "2020-07-20T15:33:25.467305Z",
+                    "updated": "2020-07-20T15:33:25.467305Z"
+                },
+                {
+                    "text": "ok ",
+                    "created": "2020-07-20T15:33:25.467307Z",
+                    "updated": "2020-07-20T15:33:25.467307Z"
+                },
+                {
+                    "text": " basically  really  okay okay ",
+                    "created": "2020-07-20T15:33:25.467308Z",
+                    "updated": "2020-07-20T15:33:25.467308Z"
+                },
+                {
+                    "text": " well that sounds good  so ",
+                    "created": "2020-07-20T15:33:25.467309Z",
+                    "updated": "2020-07-20T15:33:25.467309Z"
+                },
+                {
+                    "text": "it  sounds good well ",
+                    "created": "2020-07-20T15:33:25.467310Z",
+                    "updated": "2020-07-20T15:33:25.467310Z"
+                },
+                {
+                    "text": "sounds like a  somehow  good idea",
+                    "created": "2020-07-20T15:33:25.467312Z",
+                    "updated": "2020-07-20T15:33:25.467312Z"
+                },
+                {
+                    "text": "sounds good to  me",
+                    "created": "2020-07-20T15:33:25.467313Z",
+                    "updated": "2020-07-20T15:33:25.467313Z"
+                },
+                {
+                    "text": " in my humble opinion  just  that sounds good to me sounds great ",
+                    "created": "2020-07-20T15:33:25.467314Z",
+                    "updated": "2020-07-20T15:33:25.467314Z"
+                },
+                {
+                    "text": "sounds like a good  yeah  idea to me for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467315Z",
+                    "updated": "2020-07-20T15:33:25.467315Z"
+                },
+                {
+                    "text": "that  sounds like a good idea to me well ",
+                    "created": "2020-07-20T15:33:25.467316Z",
+                    "updated": "2020-07-20T15:33:25.467316Z"
+                },
+                {
+                    "text": " for what it is worth that's a great idea  at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467317Z",
+                    "updated": "2020-07-20T15:33:25.467317Z"
+                },
+                {
+                    "text": "i  hmm  am believe me ",
+                    "created": "2020-07-20T15:33:25.467319Z",
+                    "updated": "2020-07-20T15:33:25.467319Z"
+                },
+                {
+                    "text": "i  uhm  have",
+                    "created": "2020-07-20T15:33:25.467320Z",
+                    "updated": "2020-07-20T15:33:25.467320Z"
+                },
+                {
+                    "text": " sounds great i would  just  could you ",
+                    "created": "2020-07-20T15:33:25.467321Z",
+                    "updated": "2020-07-20T15:33:25.467321Z"
+                },
+                {
+                    "text": " okay i  did right ",
+                    "created": "2020-07-20T15:33:25.467322Z",
+                    "updated": "2020-07-20T15:33:25.467322Z"
+                },
+                {
+                    "text": "indeed ",
+                    "created": "2020-07-20T15:33:25.467323Z",
+                    "updated": "2020-07-20T15:33:25.467323Z"
+                },
+                {
+                    "text": "please do  could you ",
+                    "created": "2020-07-20T15:33:25.467325Z",
+                    "updated": "2020-07-20T15:33:25.467325Z"
+                },
+                {
+                    "text": " i would like to hear  please do it believe me ",
+                    "created": "2020-07-20T15:33:25.467326Z",
+                    "updated": "2020-07-20T15:33:25.467326Z"
+                },
+                {
+                    "text": " i would like to hear let's go ",
+                    "created": "2020-07-20T15:33:25.467327Z",
+                    "updated": "2020-07-20T15:33:25.467327Z"
+                },
+                {
+                    "text": " i want you to for  hmm  sure right ",
+                    "created": "2020-07-20T15:33:25.467328Z",
+                    "updated": "2020-07-20T15:33:25.467328Z"
+                },
+                {
+                    "text": "that's  uhm  right",
+                    "created": "2020-07-20T15:33:25.467329Z",
+                    "updated": "2020-07-20T15:33:25.467329Z"
+                },
+                {
+                    "text": " correct believe me ",
+                    "created": "2020-07-20T15:33:25.467330Z",
+                    "updated": "2020-07-20T15:33:25.467330Z"
+                },
+                {
+                    "text": " let's try it",
+                    "created": "2020-07-20T15:33:25.467332Z",
+                    "updated": "2020-07-20T15:33:25.467332Z"
+                },
+                {
+                    "text": "let's  do it for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467333Z",
+                    "updated": "2020-07-20T15:33:25.467333Z"
+                },
+                {
+                    "text": " uhm  let's do that i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467335Z",
+                    "updated": "2020-07-20T15:33:25.467335Z"
+                },
+                {
+                    "text": "yes kind of  well ",
+                    "created": "2020-07-20T15:33:25.467336Z",
+                    "updated": "2020-07-20T15:33:25.467336Z"
+                },
+                {
+                    "text": " needless to say yea kind of ",
+                    "created": "2020-07-20T15:33:25.467337Z",
+                    "updated": "2020-07-20T15:33:25.467337Z"
+                },
+                {
+                    "text": "yeah  kind of",
+                    "created": "2020-07-20T15:33:25.467339Z",
+                    "updated": "2020-07-20T15:33:25.467339Z"
+                },
+                {
+                    "text": " in my humble opinion  oh  oh yeah kind of",
+                    "created": "2020-07-20T15:33:25.467340Z",
+                    "updated": "2020-07-20T15:33:25.467340Z"
+                },
+                {
+                    "text": " would you let me know oh  kind  somehow  of",
+                    "created": "2020-07-20T15:33:25.467341Z",
+                    "updated": "2020-07-20T15:33:25.467341Z"
+                },
+                {
+                    "text": " yes kinda",
+                    "created": "2020-07-20T15:33:25.467342Z",
+                    "updated": "2020-07-20T15:33:25.467342Z"
+                },
+                {
+                    "text": " for what it is worth oh yes  just  kinda sounds great ",
+                    "created": "2020-07-20T15:33:25.467343Z",
+                    "updated": "2020-07-20T15:33:25.467343Z"
+                },
+                {
+                    "text": " hmm  yea kinda",
+                    "created": "2020-07-20T15:33:25.467345Z",
+                    "updated": "2020-07-20T15:33:25.467345Z"
+                },
+                {
+                    "text": " i think oh yea kinda ",
+                    "created": "2020-07-20T15:33:25.467346Z",
+                    "updated": "2020-07-20T15:33:25.467346Z"
+                },
+                {
+                    "text": "yeah  kinda i think ",
+                    "created": "2020-07-20T15:33:25.467347Z",
+                    "updated": "2020-07-20T15:33:25.467347Z"
+                },
+                {
+                    "text": " i want you to oh yeah  kinda believe me ",
+                    "created": "2020-07-20T15:33:25.467348Z",
+                    "updated": "2020-07-20T15:33:25.467348Z"
+                },
+                {
+                    "text": " so kinda  oh  for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467349Z",
+                    "updated": "2020-07-20T15:33:25.467349Z"
+                },
+                {
+                    "text": "oh   yeah  kinda",
+                    "created": "2020-07-20T15:33:25.467351Z",
+                    "updated": "2020-07-20T15:33:25.467351Z"
+                },
+                {
+                    "text": "oh  yeah  yea sort of",
+                    "created": "2020-07-20T15:33:25.467352Z",
+                    "updated": "2020-07-20T15:33:25.467352Z"
+                },
+                {
+                    "text": "sort  yeah  of i want you to ",
+                    "created": "2020-07-20T15:33:25.467353Z",
+                    "updated": "2020-07-20T15:33:25.467353Z"
+                },
+                {
+                    "text": "oh  oh   sort of in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467354Z",
+                    "updated": "2020-07-20T15:33:25.467354Z"
+                },
+                {
+                    "text": "oh yes very much ",
+                    "created": "2020-07-20T15:33:25.467355Z",
+                    "updated": "2020-07-20T15:33:25.467355Z"
+                },
+                {
+                    "text": " really  yea very much",
+                    "created": "2020-07-20T15:33:25.467356Z",
+                    "updated": "2020-07-20T15:33:25.467356Z"
+                },
+                {
+                    "text": "oh  just  yeah very much",
+                    "created": "2020-07-20T15:33:25.467358Z",
+                    "updated": "2020-07-20T15:33:25.467358Z"
+                },
+                {
+                    "text": "oh  very  oh  much",
+                    "created": "2020-07-20T15:33:25.467359Z",
+                    "updated": "2020-07-20T15:33:25.467359Z"
+                },
+                {
+                    "text": " yes i guess",
+                    "created": "2020-07-20T15:33:25.467360Z",
+                    "updated": "2020-07-20T15:33:25.467360Z"
+                },
+                {
+                    "text": "yea i guess  i wonder ",
+                    "created": "2020-07-20T15:33:25.467361Z",
+                    "updated": "2020-07-20T15:33:25.467361Z"
+                },
+                {
+                    "text": " oh  yeah i guess",
+                    "created": "2020-07-20T15:33:25.467363Z",
+                    "updated": "2020-07-20T15:33:25.467363Z"
+                },
+                {
+                    "text": " for what it is worth i  uhm  guess needless to say ",
+                    "created": "2020-07-20T15:33:25.467370Z",
+                    "updated": "2020-07-20T15:33:25.467370Z"
+                },
+                {
+                    "text": "oh   i guess",
+                    "created": "2020-07-20T15:33:25.467372Z",
+                    "updated": "2020-07-20T15:33:25.467372Z"
+                },
+                {
+                    "text": " okay oh yes i guess so  well ",
+                    "created": "2020-07-20T15:33:25.467373Z",
+                    "updated": "2020-07-20T15:33:25.467373Z"
+                },
+                {
+                    "text": " i would like to hear oh yeah  just  i guess so",
+                    "created": "2020-07-20T15:33:25.467375Z",
+                    "updated": "2020-07-20T15:33:25.467375Z"
+                },
+                {
+                    "text": "oh  yeah   i guess so needless to say ",
+                    "created": "2020-07-20T15:33:25.467376Z",
+                    "updated": "2020-07-20T15:33:25.467376Z"
+                },
+                {
+                    "text": "yes  exactly",
+                    "created": "2020-07-20T15:33:25.467377Z",
+                    "updated": "2020-07-20T15:33:25.467377Z"
+                },
+                {
+                    "text": " oh yes exactly i wonder ",
+                    "created": "2020-07-20T15:33:25.467378Z",
+                    "updated": "2020-07-20T15:33:25.467378Z"
+                },
+                {
+                    "text": " right  oh yeah exactly in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467379Z",
+                    "updated": "2020-07-20T15:33:25.467379Z"
+                },
+                {
+                    "text": "oh  exactly  at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467381Z",
+                    "updated": "2020-07-20T15:33:25.467381Z"
+                },
+                {
+                    "text": " can you yes  yeah  probably well ",
+                    "created": "2020-07-20T15:33:25.467382Z",
+                    "updated": "2020-07-20T15:33:25.467382Z"
+                },
+                {
+                    "text": " so oh yes  probably",
+                    "created": "2020-07-20T15:33:25.467383Z",
+                    "updated": "2020-07-20T15:33:25.467383Z"
+                },
+                {
+                    "text": "yea  probably",
+                    "created": "2020-07-20T15:33:25.467384Z",
+                    "updated": "2020-07-20T15:33:25.467384Z"
+                },
+                {
+                    "text": " needless to say oh  hmm  yea probably",
+                    "created": "2020-07-20T15:33:25.467385Z",
+                    "updated": "2020-07-20T15:33:25.467385Z"
+                },
+                {
+                    "text": "yeah probably  hmm  basically ",
+                    "created": "2020-07-20T15:33:25.467387Z",
+                    "updated": "2020-07-20T15:33:25.467387Z"
+                },
+                {
+                    "text": " probably i want you to ",
+                    "created": "2020-07-20T15:33:25.467388Z",
+                    "updated": "2020-07-20T15:33:25.467388Z"
+                },
+                {
+                    "text": " hmm  yes quite",
+                    "created": "2020-07-20T15:33:25.467389Z",
+                    "updated": "2020-07-20T15:33:25.467389Z"
+                },
+                {
+                    "text": " oh  oh yea quite",
+                    "created": "2020-07-20T15:33:25.467390Z",
+                    "updated": "2020-07-20T15:33:25.467390Z"
+                },
+                {
+                    "text": " you know yeah  really  quite could you ",
+                    "created": "2020-07-20T15:33:25.467391Z",
+                    "updated": "2020-07-20T15:33:25.467391Z"
+                },
+                {
+                    "text": " so  oh yeah quite",
+                    "created": "2020-07-20T15:33:25.467392Z",
+                    "updated": "2020-07-20T15:33:25.467392Z"
+                },
+                {
+                    "text": " i wonder  quite",
+                    "created": "2020-07-20T15:33:25.467394Z",
+                    "updated": "2020-07-20T15:33:25.467394Z"
+                },
+                {
+                    "text": "oh  quite ",
+                    "created": "2020-07-20T15:33:25.467395Z",
+                    "updated": "2020-07-20T15:33:25.467395Z"
+                },
+                {
+                    "text": " i want you to  yeah  yes quite a lot well ",
+                    "created": "2020-07-20T15:33:25.467396Z",
+                    "updated": "2020-07-20T15:33:25.467396Z"
+                },
+                {
+                    "text": "oh yes quite  oh  a lot at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467397Z",
+                    "updated": "2020-07-20T15:33:25.467397Z"
+                },
+                {
+                    "text": " could you yea quite a  lot",
+                    "created": "2020-07-20T15:33:25.467398Z",
+                    "updated": "2020-07-20T15:33:25.467398Z"
+                },
+                {
+                    "text": " somehow  oh yea quite a lot",
+                    "created": "2020-07-20T15:33:25.467401Z",
+                    "updated": "2020-07-20T15:33:25.467401Z"
+                },
+                {
+                    "text": " yeah quite a lot",
+                    "created": "2020-07-20T15:33:25.467402Z",
+                    "updated": "2020-07-20T15:33:25.467402Z"
+                },
+                {
+                    "text": " i wonder oh yeah quite a lot  i wonder ",
+                    "created": "2020-07-20T15:33:25.467416Z",
+                    "updated": "2020-07-20T15:33:25.467416Z"
+                },
+                {
+                    "text": " yes  sometimes",
+                    "created": "2020-07-20T15:33:25.467418Z",
+                    "updated": "2020-07-20T15:33:25.467418Z"
+                },
+                {
+                    "text": " can you oh  oh  yes  sometimes right ",
+                    "created": "2020-07-20T15:33:25.467419Z",
+                    "updated": "2020-07-20T15:33:25.467419Z"
+                },
+                {
+                    "text": "yea   sometimes",
+                    "created": "2020-07-20T15:33:25.467420Z",
+                    "updated": "2020-07-20T15:33:25.467420Z"
+                },
+                {
+                    "text": "oh  really  yea  sometimes",
+                    "created": "2020-07-20T15:33:25.467421Z",
+                    "updated": "2020-07-20T15:33:25.467421Z"
+                },
+                {
+                    "text": "oh  oh  yeah  sometimes would you let me know ",
+                    "created": "2020-07-20T15:33:25.467423Z",
+                    "updated": "2020-07-20T15:33:25.467423Z"
+                },
+                {
+                    "text": " at the end of the day oh    sometimes i think ",
+                    "created": "2020-07-20T15:33:25.467424Z",
+                    "updated": "2020-07-20T15:33:25.467424Z"
+                },
+                {
+                    "text": "yes  i am sometimes",
+                    "created": "2020-07-20T15:33:25.467425Z",
+                    "updated": "2020-07-20T15:33:25.467425Z"
+                },
+                {
+                    "text": " i want you to  yea i am sometimes",
+                    "created": "2020-07-20T15:33:25.467426Z",
+                    "updated": "2020-07-20T15:33:25.467426Z"
+                },
+                {
+                    "text": " would you let me know  oh yeah i am sometimes",
+                    "created": "2020-07-20T15:33:25.467427Z",
+                    "updated": "2020-07-20T15:33:25.467427Z"
+                },
+                {
+                    "text": "yea i do  sometimes believe me ",
+                    "created": "2020-07-20T15:33:25.467428Z",
+                    "updated": "2020-07-20T15:33:25.467428Z"
+                },
+                {
+                    "text": " could you yeah i do sometimes  somehow ",
+                    "created": "2020-07-20T15:33:25.467430Z",
+                    "updated": "2020-07-20T15:33:25.467430Z"
+                },
+                {
+                    "text": "oh yeah  oh  i do sometimes for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467431Z",
+                    "updated": "2020-07-20T15:33:25.467431Z"
+                },
+                {
+                    "text": " i think i do  somehow  sometimes",
+                    "created": "2020-07-20T15:33:25.467432Z",
+                    "updated": "2020-07-20T15:33:25.467432Z"
+                },
+                {
+                    "text": " would you let me know yes i  have sometimes",
+                    "created": "2020-07-20T15:33:25.467433Z",
+                    "updated": "2020-07-20T15:33:25.467433Z"
+                },
+                {
+                    "text": " for what it is worth oh yes i  yeah  have sometimes i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467434Z",
+                    "updated": "2020-07-20T15:33:25.467434Z"
+                },
+                {
+                    "text": "yea i have  sometimes i want you to ",
+                    "created": "2020-07-20T15:33:25.467435Z",
+                    "updated": "2020-07-20T15:33:25.467435Z"
+                },
+                {
+                    "text": "oh yea i have  sometimes",
+                    "created": "2020-07-20T15:33:25.467437Z",
+                    "updated": "2020-07-20T15:33:25.467437Z"
+                },
+                {
+                    "text": " oh yeah i have sometimes at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467438Z",
+                    "updated": "2020-07-20T15:33:25.467438Z"
+                },
+                {
+                    "text": " so i have  just  sometimes i think ",
+                    "created": "2020-07-20T15:33:25.467439Z",
+                    "updated": "2020-07-20T15:33:25.467439Z"
+                },
+                {
+                    "text": "yes i would sometimes ",
+                    "created": "2020-07-20T15:33:25.467440Z",
+                    "updated": "2020-07-20T15:33:25.467440Z"
+                },
+                {
+                    "text": "yeah i would  somehow  sometimes",
+                    "created": "2020-07-20T15:33:25.467441Z",
+                    "updated": "2020-07-20T15:33:25.467441Z"
+                },
+                {
+                    "text": " in my humble opinion yes  i will sometimes could you ",
+                    "created": "2020-07-20T15:33:25.467444Z",
+                    "updated": "2020-07-20T15:33:25.467444Z"
+                },
+                {
+                    "text": " can you oh  i will sometimes  yeah  needless to say ",
+                    "created": "2020-07-20T15:33:25.467445Z",
+                    "updated": "2020-07-20T15:33:25.467445Z"
+                },
+                {
+                    "text": " i wonder yes i did  sometimes you know ",
+                    "created": "2020-07-20T15:33:25.467446Z",
+                    "updated": "2020-07-20T15:33:25.467446Z"
+                },
+                {
+                    "text": " basically yea i  did sometimes",
+                    "created": "2020-07-20T15:33:25.467448Z",
+                    "updated": "2020-07-20T15:33:25.467448Z"
+                },
+                {
+                    "text": " i did sometimes at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467450Z",
+                    "updated": "2020-07-20T15:33:25.467450Z"
+                },
+                {
+                    "text": "oh   i did sometimes",
+                    "created": "2020-07-20T15:33:25.467451Z",
+                    "updated": "2020-07-20T15:33:25.467451Z"
+                },
+                {
+                    "text": " so yes  i had sometimes",
+                    "created": "2020-07-20T15:33:25.467452Z",
+                    "updated": "2020-07-20T15:33:25.467452Z"
+                },
+                {
+                    "text": " okay yea i had  really  sometimes i think ",
+                    "created": "2020-07-20T15:33:25.467453Z",
+                    "updated": "2020-07-20T15:33:25.467453Z"
+                },
+                {
+                    "text": " so yeah i  oh  had sometimes could you ",
+                    "created": "2020-07-20T15:33:25.467455Z",
+                    "updated": "2020-07-20T15:33:25.467455Z"
+                },
+                {
+                    "text": "oh yeah i had sometimes ",
+                    "created": "2020-07-20T15:33:25.467456Z",
+                    "updated": "2020-07-20T15:33:25.467456Z"
+                },
+                {
+                    "text": " would you let me know oh  i  really  had sometimes in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467458Z",
+                    "updated": "2020-07-20T15:33:25.467458Z"
+                },
+                {
+                    "text": " right yes  from time to  yeah  time",
+                    "created": "2020-07-20T15:33:25.467459Z",
+                    "updated": "2020-07-20T15:33:25.467459Z"
+                },
+                {
+                    "text": " well oh yes   from time to time",
+                    "created": "2020-07-20T15:33:25.467460Z",
+                    "updated": "2020-07-20T15:33:25.467460Z"
+                },
+                {
+                    "text": " can you yea   from time to time",
+                    "created": "2020-07-20T15:33:25.467461Z",
+                    "updated": "2020-07-20T15:33:25.467461Z"
+                },
+                {
+                    "text": "yeah  from time  to time",
+                    "created": "2020-07-20T15:33:25.467462Z",
+                    "updated": "2020-07-20T15:33:25.467462Z"
+                },
+                {
+                    "text": "oh   from time to time ",
+                    "created": "2020-07-20T15:33:25.467463Z",
+                    "updated": "2020-07-20T15:33:25.467463Z"
+                },
+                {
+                    "text": "yea i am from time to time  at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467465Z",
+                    "updated": "2020-07-20T15:33:25.467465Z"
+                },
+                {
+                    "text": " would you let me know yeah i am from  time to time",
+                    "created": "2020-07-20T15:33:25.467466Z",
+                    "updated": "2020-07-20T15:33:25.467466Z"
+                },
+                {
+                    "text": " believe me oh  i am from time  to time",
+                    "created": "2020-07-20T15:33:25.467467Z",
+                    "updated": "2020-07-20T15:33:25.467467Z"
+                },
+                {
+                    "text": "yea i  hmm  do from time to time",
+                    "created": "2020-07-20T15:33:25.467468Z",
+                    "updated": "2020-07-20T15:33:25.467468Z"
+                },
+                {
+                    "text": "oh yeah i do from time  yeah  to time so ",
+                    "created": "2020-07-20T15:33:25.467469Z",
+                    "updated": "2020-07-20T15:33:25.467469Z"
+                },
+                {
+                    "text": "oh  i do from  time to time",
+                    "created": "2020-07-20T15:33:25.467470Z",
+                    "updated": "2020-07-20T15:33:25.467470Z"
+                },
+                {
+                    "text": "oh yea i  have from time to time",
+                    "created": "2020-07-20T15:33:25.467472Z",
+                    "updated": "2020-07-20T15:33:25.467472Z"
+                },
+                {
+                    "text": "i  uhm  have from time to time basically ",
+                    "created": "2020-07-20T15:33:25.467473Z",
+                    "updated": "2020-07-20T15:33:25.467473Z"
+                },
+                {
+                    "text": " i would like to hear oh   i have from time to time",
+                    "created": "2020-07-20T15:33:25.467475Z",
+                    "updated": "2020-07-20T15:33:25.467475Z"
+                },
+                {
+                    "text": "yes i would from  somehow  time to time can you ",
+                    "created": "2020-07-20T15:33:25.467476Z",
+                    "updated": "2020-07-20T15:33:25.467476Z"
+                },
+                {
+                    "text": " right  uhm  yea i would from time to time",
+                    "created": "2020-07-20T15:33:25.467477Z",
+                    "updated": "2020-07-20T15:33:25.467477Z"
+                },
+                {
+                    "text": "oh yea i would from time to  time",
+                    "created": "2020-07-20T15:33:25.467478Z",
+                    "updated": "2020-07-20T15:33:25.467478Z"
+                },
+                {
+                    "text": "yes i will from time to  uhm  time",
+                    "created": "2020-07-20T15:33:25.467480Z",
+                    "updated": "2020-07-20T15:33:25.467480Z"
+                },
+                {
+                    "text": " could you yea  hmm  i will from time to time could you ",
+                    "created": "2020-07-20T15:33:25.467481Z",
+                    "updated": "2020-07-20T15:33:25.467481Z"
+                },
+                {
+                    "text": " needless to say oh yea i will from time to  somehow  time believe me ",
+                    "created": "2020-07-20T15:33:25.467482Z",
+                    "updated": "2020-07-20T15:33:25.467482Z"
+                },
+                {
+                    "text": " oh yeah i will from time to time believe me ",
+                    "created": "2020-07-20T15:33:25.467483Z",
+                    "updated": "2020-07-20T15:33:25.467483Z"
+                },
+                {
+                    "text": " you know oh yes i did  uhm  from time to time would you let me know ",
+                    "created": "2020-07-20T15:33:25.467484Z",
+                    "updated": "2020-07-20T15:33:25.467484Z"
+                },
+                {
+                    "text": " okay oh yea i did  oh  from time to time you know ",
+                    "created": "2020-07-20T15:33:25.467485Z",
+                    "updated": "2020-07-20T15:33:25.467485Z"
+                },
+                {
+                    "text": " can you oh yeah i did from time  to time well ",
+                    "created": "2020-07-20T15:33:25.467487Z",
+                    "updated": "2020-07-20T15:33:25.467487Z"
+                },
+                {
+                    "text": " at the end of the day yes  i had from time to time",
+                    "created": "2020-07-20T15:33:25.467488Z",
+                    "updated": "2020-07-20T15:33:25.467488Z"
+                },
+                {
+                    "text": " at the end of the day oh yes i  had from time to time",
+                    "created": "2020-07-20T15:33:25.467489Z",
+                    "updated": "2020-07-20T15:33:25.467489Z"
+                },
+                {
+                    "text": " really  oh yeah i had from time to time believe me ",
+                    "created": "2020-07-20T15:33:25.467491Z",
+                    "updated": "2020-07-20T15:33:25.467491Z"
+                },
+                {
+                    "text": " hmm  i had from time to time at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467492Z",
+                    "updated": "2020-07-20T15:33:25.467492Z"
+                },
+                {
+                    "text": " uhm  yes  on some occasions",
+                    "created": "2020-07-20T15:33:25.467493Z",
+                    "updated": "2020-07-20T15:33:25.467493Z"
+                },
+                {
+                    "text": " i wonder oh yes  on some  somehow  occasions",
+                    "created": "2020-07-20T15:33:25.467494Z",
+                    "updated": "2020-07-20T15:33:25.467494Z"
+                },
+                {
+                    "text": " could you  yea  on some occasions well ",
+                    "created": "2020-07-20T15:33:25.467495Z",
+                    "updated": "2020-07-20T15:33:25.467495Z"
+                },
+                {
+                    "text": " i think oh yea  on some  occasions",
+                    "created": "2020-07-20T15:33:25.467497Z",
+                    "updated": "2020-07-20T15:33:25.467497Z"
+                },
+                {
+                    "text": " needless to say  hmm  yeah  on some occasions",
+                    "created": "2020-07-20T15:33:25.467498Z",
+                    "updated": "2020-07-20T15:33:25.467498Z"
+                },
+                {
+                    "text": "oh yeah   on some occasions",
+                    "created": "2020-07-20T15:33:25.467499Z",
+                    "updated": "2020-07-20T15:33:25.467499Z"
+                },
+                {
+                    "text": "oh   on some  occasions i want you to ",
+                    "created": "2020-07-20T15:33:25.467500Z",
+                    "updated": "2020-07-20T15:33:25.467500Z"
+                },
+                {
+                    "text": " i wonder yes  i am on some occasions needless to say ",
+                    "created": "2020-07-20T15:33:25.467501Z",
+                    "updated": "2020-07-20T15:33:25.467501Z"
+                },
+                {
+                    "text": " would you let me know oh  hmm  yeah i am on some occasions believe me ",
+                    "created": "2020-07-20T15:33:25.467503Z",
+                    "updated": "2020-07-20T15:33:25.467503Z"
+                },
+                {
+                    "text": " i would like to hear oh  i am on some occasions  hmm ",
+                    "created": "2020-07-20T15:33:25.467505Z",
+                    "updated": "2020-07-20T15:33:25.467505Z"
+                },
+                {
+                    "text": " at the end of the day yes i do on some  occasions",
+                    "created": "2020-07-20T15:33:25.467506Z",
+                    "updated": "2020-07-20T15:33:25.467506Z"
+                },
+                {
+                    "text": " at the end of the day  somehow  yeah i do on some occasions",
+                    "created": "2020-07-20T15:33:25.467507Z",
+                    "updated": "2020-07-20T15:33:25.467507Z"
+                },
+                {
+                    "text": "i do on some occasions ",
+                    "created": "2020-07-20T15:33:25.467508Z",
+                    "updated": "2020-07-20T15:33:25.467508Z"
+                },
+                {
+                    "text": " i wonder oh  i  do on some occasions for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467509Z",
+                    "updated": "2020-07-20T15:33:25.467509Z"
+                },
+                {
+                    "text": " oh yes i have on some occasions can you ",
+                    "created": "2020-07-20T15:33:25.467511Z",
+                    "updated": "2020-07-20T15:33:25.467511Z"
+                },
+                {
+                    "text": " i think oh yeah i have on some occasions  uhm ",
+                    "created": "2020-07-20T15:33:25.467513Z",
+                    "updated": "2020-07-20T15:33:25.467513Z"
+                },
+                {
+                    "text": " can you  i have on some occasions",
+                    "created": "2020-07-20T15:33:25.467514Z",
+                    "updated": "2020-07-20T15:33:25.467514Z"
+                },
+                {
+                    "text": "oh  somehow   i have on some occasions i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467515Z",
+                    "updated": "2020-07-20T15:33:25.467515Z"
+                },
+                {
+                    "text": " basically yes i would on  just  some occasions",
+                    "created": "2020-07-20T15:33:25.467516Z",
+                    "updated": "2020-07-20T15:33:25.467516Z"
+                },
+                {
+                    "text": " so yea i would on  some occasions",
+                    "created": "2020-07-20T15:33:25.467517Z",
+                    "updated": "2020-07-20T15:33:25.467517Z"
+                },
+                {
+                    "text": " sounds great oh yea i would on  somehow  some occasions for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467519Z",
+                    "updated": "2020-07-20T15:33:25.467519Z"
+                },
+                {
+                    "text": " for what it is worth i would  on some occasions i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467520Z",
+                    "updated": "2020-07-20T15:33:25.467520Z"
+                },
+                {
+                    "text": " i would like to hear oh   i would on some occasions i think ",
+                    "created": "2020-07-20T15:33:25.467521Z",
+                    "updated": "2020-07-20T15:33:25.467521Z"
+                },
+                {
+                    "text": " so yea  i will on some occasions",
+                    "created": "2020-07-20T15:33:25.467522Z",
+                    "updated": "2020-07-20T15:33:25.467522Z"
+                },
+                {
+                    "text": " i would like to hear oh yea i will on some occasions ",
+                    "created": "2020-07-20T15:33:25.467523Z",
+                    "updated": "2020-07-20T15:33:25.467523Z"
+                },
+                {
+                    "text": " somehow  yeah i will on some occasions in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467526Z",
+                    "updated": "2020-07-20T15:33:25.467526Z"
+                },
+                {
+                    "text": " at the end of the day  just  oh yeah i will on some occasions",
+                    "created": "2020-07-20T15:33:25.467527Z",
+                    "updated": "2020-07-20T15:33:25.467527Z"
+                },
+                {
+                    "text": "yes  i did on some occasions",
+                    "created": "2020-07-20T15:33:25.467529Z",
+                    "updated": "2020-07-20T15:33:25.467529Z"
+                },
+                {
+                    "text": " okay oh yes  oh  i did on some occasions",
+                    "created": "2020-07-20T15:33:25.467530Z",
+                    "updated": "2020-07-20T15:33:25.467530Z"
+                },
+                {
+                    "text": " sounds great oh  yea i did on some occasions",
+                    "created": "2020-07-20T15:33:25.467531Z",
+                    "updated": "2020-07-20T15:33:25.467531Z"
+                },
+                {
+                    "text": "i  did on some occasions sounds great ",
+                    "created": "2020-07-20T15:33:25.467532Z",
+                    "updated": "2020-07-20T15:33:25.467532Z"
+                },
+                {
+                    "text": "oh  i did on some occasions ",
+                    "created": "2020-07-20T15:33:25.467533Z",
+                    "updated": "2020-07-20T15:33:25.467533Z"
+                },
+                {
+                    "text": "oh yea i  oh  had on some occasions would you let me know ",
+                    "created": "2020-07-20T15:33:25.467535Z",
+                    "updated": "2020-07-20T15:33:25.467535Z"
+                },
+                {
+                    "text": " sounds great yeah i had on  uhm  some occasions would you let me know ",
+                    "created": "2020-07-20T15:33:25.467537Z",
+                    "updated": "2020-07-20T15:33:25.467537Z"
+                },
+                {
+                    "text": "oh  somehow  yeah i had on some occasions",
+                    "created": "2020-07-20T15:33:25.467538Z",
+                    "updated": "2020-07-20T15:33:25.467538Z"
+                },
+                {
+                    "text": "i had on some  occasions",
+                    "created": "2020-07-20T15:33:25.467539Z",
+                    "updated": "2020-07-20T15:33:25.467539Z"
+                },
+                {
+                    "text": " basically  uhm  oh  i had on some occasions",
+                    "created": "2020-07-20T15:33:25.467540Z",
+                    "updated": "2020-07-20T15:33:25.467540Z"
+                },
+                {
+                    "text": " sounds great  who doesn't",
+                    "created": "2020-07-20T15:33:25.467542Z",
+                    "updated": "2020-07-20T15:33:25.467542Z"
+                },
+                {
+                    "text": "who  wouldn't in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467543Z",
+                    "updated": "2020-07-20T15:33:25.467543Z"
+                },
+                {
+                    "text": " who hasn't",
+                    "created": "2020-07-20T15:33:25.467544Z",
+                    "updated": "2020-07-20T15:33:25.467544Z"
+                },
+                {
+                    "text": "i would  love  really  that i think ",
+                    "created": "2020-07-20T15:33:25.467545Z",
+                    "updated": "2020-07-20T15:33:25.467545Z"
+                },
+                {
+                    "text": "don't stop  just  basically ",
+                    "created": "2020-07-20T15:33:25.467546Z",
+                    "updated": "2020-07-20T15:33:25.467546Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "-17_L",
+            "created": "2020-07-20T15:33:25.467548Z",
+            "updated": "2020-07-20T15:33:25.467548Z",
+            "examples": [
+                {
+                    "text": " i want you to never  really  i wonder ",
+                    "created": "2020-07-20T15:33:25.467548Z",
+                    "updated": "2020-07-20T15:33:25.467548Z"
+                },
+                {
+                    "text": " okay no i'm  not",
+                    "created": "2020-07-20T15:33:25.467550Z",
+                    "updated": "2020-07-20T15:33:25.467550Z"
+                },
+                {
+                    "text": "oh  no i'm not needless to say ",
+                    "created": "2020-07-20T15:33:25.467551Z",
+                    "updated": "2020-07-20T15:33:25.467551Z"
+                },
+                {
+                    "text": " in my humble opinion oh  nope i'm not believe me ",
+                    "created": "2020-07-20T15:33:25.467552Z",
+                    "updated": "2020-07-20T15:33:25.467552Z"
+                },
+                {
+                    "text": " in my humble opinion nah i'm not ",
+                    "created": "2020-07-20T15:33:25.467553Z",
+                    "updated": "2020-07-20T15:33:25.467553Z"
+                },
+                {
+                    "text": "nope i am  not in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467555Z",
+                    "updated": "2020-07-20T15:33:25.467555Z"
+                },
+                {
+                    "text": " at the end of the day oh  nah i am not believe me ",
+                    "created": "2020-07-20T15:33:25.467556Z",
+                    "updated": "2020-07-20T15:33:25.467556Z"
+                },
+                {
+                    "text": " so nope i  just  don't i want you to ",
+                    "created": "2020-07-20T15:33:25.467557Z",
+                    "updated": "2020-07-20T15:33:25.467557Z"
+                },
+                {
+                    "text": " i want you to oh nope  uhm  i don't",
+                    "created": "2020-07-20T15:33:25.467558Z",
+                    "updated": "2020-07-20T15:33:25.467558Z"
+                },
+                {
+                    "text": "nah i don't ",
+                    "created": "2020-07-20T15:33:25.467560Z",
+                    "updated": "2020-07-20T15:33:25.467560Z"
+                },
+                {
+                    "text": " oh no i do not basically ",
+                    "created": "2020-07-20T15:33:25.467561Z",
+                    "updated": "2020-07-20T15:33:25.467561Z"
+                },
+                {
+                    "text": " you know oh nah i  oh  do not",
+                    "created": "2020-07-20T15:33:25.467562Z",
+                    "updated": "2020-07-20T15:33:25.467562Z"
+                },
+                {
+                    "text": " you know no  just  i haven't",
+                    "created": "2020-07-20T15:33:25.467563Z",
+                    "updated": "2020-07-20T15:33:25.467563Z"
+                },
+                {
+                    "text": " so nope  hmm  i haven't i wonder ",
+                    "created": "2020-07-20T15:33:25.467564Z",
+                    "updated": "2020-07-20T15:33:25.467564Z"
+                },
+                {
+                    "text": " basically oh  just  nah i haven't i think ",
+                    "created": "2020-07-20T15:33:25.467566Z",
+                    "updated": "2020-07-20T15:33:25.467566Z"
+                },
+                {
+                    "text": " i think no  i have not",
+                    "created": "2020-07-20T15:33:25.467568Z",
+                    "updated": "2020-07-20T15:33:25.467568Z"
+                },
+                {
+                    "text": "oh no i have not ",
+                    "created": "2020-07-20T15:33:25.467569Z",
+                    "updated": "2020-07-20T15:33:25.467569Z"
+                },
+                {
+                    "text": " could you oh nope i  uhm  have not i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467570Z",
+                    "updated": "2020-07-20T15:33:25.467570Z"
+                },
+                {
+                    "text": "no  i wouldn't",
+                    "created": "2020-07-20T15:33:25.467571Z",
+                    "updated": "2020-07-20T15:33:25.467571Z"
+                },
+                {
+                    "text": "nope i  wouldn't i want you to ",
+                    "created": "2020-07-20T15:33:25.467573Z",
+                    "updated": "2020-07-20T15:33:25.467573Z"
+                },
+                {
+                    "text": " so  nah i wouldn't",
+                    "created": "2020-07-20T15:33:25.467574Z",
+                    "updated": "2020-07-20T15:33:25.467574Z"
+                },
+                {
+                    "text": "nope i  would not can you ",
+                    "created": "2020-07-20T15:33:25.467575Z",
+                    "updated": "2020-07-20T15:33:25.467575Z"
+                },
+                {
+                    "text": "nah  i would not",
+                    "created": "2020-07-20T15:33:25.467577Z",
+                    "updated": "2020-07-20T15:33:25.467577Z"
+                },
+                {
+                    "text": "no i  hmm  won't",
+                    "created": "2020-07-20T15:33:25.467578Z",
+                    "updated": "2020-07-20T15:33:25.467578Z"
+                },
+                {
+                    "text": " okay oh no i  somehow  won't",
+                    "created": "2020-07-20T15:33:25.467580Z",
+                    "updated": "2020-07-20T15:33:25.467580Z"
+                },
+                {
+                    "text": " nope i won't sounds great ",
+                    "created": "2020-07-20T15:33:25.467581Z",
+                    "updated": "2020-07-20T15:33:25.467581Z"
+                },
+                {
+                    "text": " would you let me know  really  oh nope i won't",
+                    "created": "2020-07-20T15:33:25.467582Z",
+                    "updated": "2020-07-20T15:33:25.467582Z"
+                },
+                {
+                    "text": "oh  uhm  nope i will not i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467583Z",
+                    "updated": "2020-07-20T15:33:25.467583Z"
+                },
+                {
+                    "text": " nah i will not believe me ",
+                    "created": "2020-07-20T15:33:25.467585Z",
+                    "updated": "2020-07-20T15:33:25.467585Z"
+                },
+                {
+                    "text": "no i didn't ",
+                    "created": "2020-07-20T15:33:25.467586Z",
+                    "updated": "2020-07-20T15:33:25.467586Z"
+                },
+                {
+                    "text": " at the end of the day nope i  really  didn't",
+                    "created": "2020-07-20T15:33:25.467587Z",
+                    "updated": "2020-07-20T15:33:25.467587Z"
+                },
+                {
+                    "text": " could you oh nah i  oh  didn't",
+                    "created": "2020-07-20T15:33:25.467588Z",
+                    "updated": "2020-07-20T15:33:25.467588Z"
+                },
+                {
+                    "text": " i would like to hear no  i did not",
+                    "created": "2020-07-20T15:33:25.467589Z",
+                    "updated": "2020-07-20T15:33:25.467589Z"
+                },
+                {
+                    "text": "oh  just  no i did not can you ",
+                    "created": "2020-07-20T15:33:25.467591Z",
+                    "updated": "2020-07-20T15:33:25.467591Z"
+                },
+                {
+                    "text": " i think no  i hadn't well ",
+                    "created": "2020-07-20T15:33:25.467592Z",
+                    "updated": "2020-07-20T15:33:25.467592Z"
+                },
+                {
+                    "text": "oh nope i hadn't ",
+                    "created": "2020-07-20T15:33:25.467593Z",
+                    "updated": "2020-07-20T15:33:25.467593Z"
+                },
+                {
+                    "text": "oh  nah i hadn't so ",
+                    "created": "2020-07-20T15:33:25.467594Z",
+                    "updated": "2020-07-20T15:33:25.467594Z"
+                },
+                {
+                    "text": "nope i had not ",
+                    "created": "2020-07-20T15:33:25.467596Z",
+                    "updated": "2020-07-20T15:33:25.467596Z"
+                },
+                {
+                    "text": " oh nah i had not",
+                    "created": "2020-07-20T15:33:25.467599Z",
+                    "updated": "2020-07-20T15:33:25.467599Z"
+                },
+                {
+                    "text": "no  oh  i guess",
+                    "created": "2020-07-20T15:33:25.467600Z",
+                    "updated": "2020-07-20T15:33:25.467600Z"
+                },
+                {
+                    "text": " i wonder oh  oh  no i guess okay ",
+                    "created": "2020-07-20T15:33:25.467601Z",
+                    "updated": "2020-07-20T15:33:25.467601Z"
+                },
+                {
+                    "text": "oh nope i  guess",
+                    "created": "2020-07-20T15:33:25.467602Z",
+                    "updated": "2020-07-20T15:33:25.467602Z"
+                },
+                {
+                    "text": "oh  nah i guess",
+                    "created": "2020-07-20T15:33:25.467603Z",
+                    "updated": "2020-07-20T15:33:25.467603Z"
+                },
+                {
+                    "text": " okay  oh no i think",
+                    "created": "2020-07-20T15:33:25.467605Z",
+                    "updated": "2020-07-20T15:33:25.467605Z"
+                },
+                {
+                    "text": " at the end of the day nope  i think",
+                    "created": "2020-07-20T15:33:25.467606Z",
+                    "updated": "2020-07-20T15:33:25.467606Z"
+                },
+                {
+                    "text": "nah i think  basically ",
+                    "created": "2020-07-20T15:33:25.467607Z",
+                    "updated": "2020-07-20T15:33:25.467607Z"
+                },
+                {
+                    "text": " so  oh  oh nah i think",
+                    "created": "2020-07-20T15:33:25.467608Z",
+                    "updated": "2020-07-20T15:33:25.467608Z"
+                },
+                {
+                    "text": " just  nah",
+                    "created": "2020-07-20T15:33:25.467610Z",
+                    "updated": "2020-07-20T15:33:25.467610Z"
+                },
+                {
+                    "text": " probably not",
+                    "created": "2020-07-20T15:33:25.467611Z",
+                    "updated": "2020-07-20T15:33:25.467611Z"
+                },
+                {
+                    "text": "that's  false i want you to ",
+                    "created": "2020-07-20T15:33:25.467612Z",
+                    "updated": "2020-07-20T15:33:25.467612Z"
+                },
+                {
+                    "text": " i wonder that's  negative",
+                    "created": "2020-07-20T15:33:25.467613Z",
+                    "updated": "2020-07-20T15:33:25.467613Z"
+                },
+                {
+                    "text": " for what it is worth  please don't",
+                    "created": "2020-07-20T15:33:25.467614Z",
+                    "updated": "2020-07-20T15:33:25.467614Z"
+                },
+                {
+                    "text": "don't  uhm ",
+                    "created": "2020-07-20T15:33:25.467616Z",
+                    "updated": "2020-07-20T15:33:25.467616Z"
+                },
+                {
+                    "text": "please don ",
+                    "created": "2020-07-20T15:33:25.467617Z",
+                    "updated": "2020-07-20T15:33:25.467617Z"
+                },
+                {
+                    "text": " for what it is worth please don't do  uhm  it for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467618Z",
+                    "updated": "2020-07-20T15:33:25.467618Z"
+                },
+                {
+                    "text": " needless to say please don do it ",
+                    "created": "2020-07-20T15:33:25.467619Z",
+                    "updated": "2020-07-20T15:33:25.467619Z"
+                },
+                {
+                    "text": " i wonder  please don continue",
+                    "created": "2020-07-20T15:33:25.467621Z",
+                    "updated": "2020-07-20T15:33:25.467621Z"
+                },
+                {
+                    "text": " you know don continue  just  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467622Z",
+                    "updated": "2020-07-20T15:33:25.467622Z"
+                },
+                {
+                    "text": " at the end of the day no  idea",
+                    "created": "2020-07-20T15:33:25.467623Z",
+                    "updated": "2020-07-20T15:33:25.467623Z"
+                },
+                {
+                    "text": "definitely not  just  you know ",
+                    "created": "2020-07-20T15:33:25.467624Z",
+                    "updated": "2020-07-20T15:33:25.467624Z"
+                },
+                {
+                    "text": " would you let me know  probably no",
+                    "created": "2020-07-20T15:33:25.467626Z",
+                    "updated": "2020-07-20T15:33:25.467626Z"
+                },
+                {
+                    "text": " just  i think i'm not",
+                    "created": "2020-07-20T15:33:25.467627Z",
+                    "updated": "2020-07-20T15:33:25.467627Z"
+                },
+                {
+                    "text": "i think i don't  oh ",
+                    "created": "2020-07-20T15:33:25.467629Z",
+                    "updated": "2020-07-20T15:33:25.467629Z"
+                },
+                {
+                    "text": " i think i  think i have not believe me ",
+                    "created": "2020-07-20T15:33:25.467630Z",
+                    "updated": "2020-07-20T15:33:25.467630Z"
+                },
+                {
+                    "text": "i think i  won't",
+                    "created": "2020-07-20T15:33:25.467632Z",
+                    "updated": "2020-07-20T15:33:25.467632Z"
+                },
+                {
+                    "text": " basically i think  i will not",
+                    "created": "2020-07-20T15:33:25.467633Z",
+                    "updated": "2020-07-20T15:33:25.467633Z"
+                },
+                {
+                    "text": " can you i think i didn't  really ",
+                    "created": "2020-07-20T15:33:25.467634Z",
+                    "updated": "2020-07-20T15:33:25.467634Z"
+                },
+                {
+                    "text": "i think i did not ",
+                    "created": "2020-07-20T15:33:25.467635Z",
+                    "updated": "2020-07-20T15:33:25.467635Z"
+                },
+                {
+                    "text": "i think  somehow  i hadn't",
+                    "created": "2020-07-20T15:33:25.467636Z",
+                    "updated": "2020-07-20T15:33:25.467636Z"
+                },
+                {
+                    "text": " would you let me know  just  i don't think i am",
+                    "created": "2020-07-20T15:33:25.467638Z",
+                    "updated": "2020-07-20T15:33:25.467638Z"
+                },
+                {
+                    "text": " you know i don't think  somehow  i do",
+                    "created": "2020-07-20T15:33:25.467639Z",
+                    "updated": "2020-07-20T15:33:25.467639Z"
+                },
+                {
+                    "text": " so i don't  think i did",
+                    "created": "2020-07-20T15:33:25.467640Z",
+                    "updated": "2020-07-20T15:33:25.467640Z"
+                },
+                {
+                    "text": "i don't think that's  a good idea believe me ",
+                    "created": "2020-07-20T15:33:25.467642Z",
+                    "updated": "2020-07-20T15:33:25.467642Z"
+                },
+                {
+                    "text": " basically i'm  not sounds great ",
+                    "created": "2020-07-20T15:33:25.467644Z",
+                    "updated": "2020-07-20T15:33:25.467644Z"
+                },
+                {
+                    "text": "i don't  somehow  well ",
+                    "created": "2020-07-20T15:33:25.467645Z",
+                    "updated": "2020-07-20T15:33:25.467645Z"
+                },
+                {
+                    "text": " in my humble opinion  i do not right ",
+                    "created": "2020-07-20T15:33:25.467646Z",
+                    "updated": "2020-07-20T15:33:25.467646Z"
+                },
+                {
+                    "text": "i haven't ",
+                    "created": "2020-07-20T15:33:25.467647Z",
+                    "updated": "2020-07-20T15:33:25.467647Z"
+                },
+                {
+                    "text": " i would like to hear i  would not",
+                    "created": "2020-07-20T15:33:25.467649Z",
+                    "updated": "2020-07-20T15:33:25.467649Z"
+                },
+                {
+                    "text": "i will not ",
+                    "created": "2020-07-20T15:33:25.467650Z",
+                    "updated": "2020-07-20T15:33:25.467650Z"
+                },
+                {
+                    "text": " would you let me know i didn't  uhm ",
+                    "created": "2020-07-20T15:33:25.467651Z",
+                    "updated": "2020-07-20T15:33:25.467651Z"
+                },
+                {
+                    "text": " i wonder i hadn't  well ",
+                    "created": "2020-07-20T15:33:25.467652Z",
+                    "updated": "2020-07-20T15:33:25.467652Z"
+                },
+                {
+                    "text": "haven't  oh ",
+                    "created": "2020-07-20T15:33:25.467653Z",
+                    "updated": "2020-07-20T15:33:25.467653Z"
+                },
+                {
+                    "text": " so  didn't basically ",
+                    "created": "2020-07-20T15:33:25.467655Z",
+                    "updated": "2020-07-20T15:33:25.467655Z"
+                },
+                {
+                    "text": " at the end of the day  none",
+                    "created": "2020-07-20T15:33:25.467656Z",
+                    "updated": "2020-07-20T15:33:25.467656Z"
+                },
+                {
+                    "text": " uhm  i have no",
+                    "created": "2020-07-20T15:33:25.467657Z",
+                    "updated": "2020-07-20T15:33:25.467657Z"
+                },
+                {
+                    "text": "i have none  uhm ",
+                    "created": "2020-07-20T15:33:25.467658Z",
+                    "updated": "2020-07-20T15:33:25.467658Z"
+                },
+                {
+                    "text": " somehow  i have not",
+                    "created": "2020-07-20T15:33:25.467660Z",
+                    "updated": "2020-07-20T15:33:25.467660Z"
+                },
+                {
+                    "text": " sounds great maybe  later",
+                    "created": "2020-07-20T15:33:25.467662Z",
+                    "updated": "2020-07-20T15:33:25.467662Z"
+                },
+                {
+                    "text": " needless to say that's   not okay in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467663Z",
+                    "updated": "2020-07-20T15:33:25.467663Z"
+                },
+                {
+                    "text": " i think  that's absolutely not okay can you ",
+                    "created": "2020-07-20T15:33:25.467664Z",
+                    "updated": "2020-07-20T15:33:25.467664Z"
+                },
+                {
+                    "text": " would you let me know  that's  not ok i wonder ",
+                    "created": "2020-07-20T15:33:25.467666Z",
+                    "updated": "2020-07-20T15:33:25.467666Z"
+                },
+                {
+                    "text": "that's totally  just  not ok",
+                    "created": "2020-07-20T15:33:25.467667Z",
+                    "updated": "2020-07-20T15:33:25.467667Z"
+                },
+                {
+                    "text": " i think that's definitely not  uhm  ok",
+                    "created": "2020-07-20T15:33:25.467668Z",
+                    "updated": "2020-07-20T15:33:25.467668Z"
+                },
+                {
+                    "text": " in my humble opinion that's really  oh  not ok",
+                    "created": "2020-07-20T15:33:25.467669Z",
+                    "updated": "2020-07-20T15:33:25.467669Z"
+                },
+                {
+                    "text": " just  that's totally not ok",
+                    "created": "2020-07-20T15:33:25.467674Z",
+                    "updated": "2020-07-20T15:33:25.467674Z"
+                },
+                {
+                    "text": " so that's really not ok ",
+                    "created": "2020-07-20T15:33:25.467675Z",
+                    "updated": "2020-07-20T15:33:25.467675Z"
+                },
+                {
+                    "text": " i wonder that's  just   not o.k. basically ",
+                    "created": "2020-07-20T15:33:25.467676Z",
+                    "updated": "2020-07-20T15:33:25.467676Z"
+                },
+                {
+                    "text": " i think that's totally not o.k.  basically ",
+                    "created": "2020-07-20T15:33:25.467677Z",
+                    "updated": "2020-07-20T15:33:25.467677Z"
+                },
+                {
+                    "text": " i wonder that's  really  really not o.k.",
+                    "created": "2020-07-20T15:33:25.467679Z",
+                    "updated": "2020-07-20T15:33:25.467679Z"
+                },
+                {
+                    "text": "i don't  really  really wanna i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467680Z",
+                    "updated": "2020-07-20T15:33:25.467680Z"
+                },
+                {
+                    "text": " basically i don't  feel like  it well ",
+                    "created": "2020-07-20T15:33:25.467681Z",
+                    "updated": "2020-07-20T15:33:25.467681Z"
+                },
+                {
+                    "text": "i don't really feel like it  just  sounds great ",
+                    "created": "2020-07-20T15:33:25.467682Z",
+                    "updated": "2020-07-20T15:33:25.467682Z"
+                },
+                {
+                    "text": " in my humble opinion  just  not  now in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467684Z",
+                    "updated": "2020-07-20T15:33:25.467684Z"
+                },
+                {
+                    "text": "that's okay ",
+                    "created": "2020-07-20T15:33:25.467685Z",
+                    "updated": "2020-07-20T15:33:25.467685Z"
+                },
+                {
+                    "text": " i would like to hear that's ok  really  needless to say ",
+                    "created": "2020-07-20T15:33:25.467686Z",
+                    "updated": "2020-07-20T15:33:25.467686Z"
+                },
+                {
+                    "text": " that's o.k.",
+                    "created": "2020-07-20T15:33:25.467687Z",
+                    "updated": "2020-07-20T15:33:25.467687Z"
+                },
+                {
+                    "text": " i would like to hear that's  ok alexa",
+                    "created": "2020-07-20T15:33:25.467688Z",
+                    "updated": "2020-07-20T15:33:25.467688Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "-18_L",
+            "created": "2020-07-20T15:33:25.467690Z",
+            "updated": "2020-07-20T15:33:25.467690Z",
+            "examples": [
+                {
+                    "text": "may be ",
+                    "created": "2020-07-20T15:33:25.467690Z",
+                    "updated": "2020-07-20T15:33:25.467690Z"
+                },
+                {
+                    "text": " i would like to hear don't really  uhm  know needless to say ",
+                    "created": "2020-07-20T15:33:25.467691Z",
+                    "updated": "2020-07-20T15:33:25.467691Z"
+                },
+                {
+                    "text": " would you let me know do  yeah  not really know believe me ",
+                    "created": "2020-07-20T15:33:25.467694Z",
+                    "updated": "2020-07-20T15:33:25.467694Z"
+                },
+                {
+                    "text": " okay  i don't  know for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467695Z",
+                    "updated": "2020-07-20T15:33:25.467695Z"
+                },
+                {
+                    "text": "do not   know believe me ",
+                    "created": "2020-07-20T15:33:25.467696Z",
+                    "updated": "2020-07-20T15:33:25.467696Z"
+                },
+                {
+                    "text": " believe me i do not   know",
+                    "created": "2020-07-20T15:33:25.467697Z",
+                    "updated": "2020-07-20T15:33:25.467697Z"
+                },
+                {
+                    "text": " believe me i'm  oh  not  sure i think ",
+                    "created": "2020-07-20T15:33:25.467699Z",
+                    "updated": "2020-07-20T15:33:25.467699Z"
+                },
+                {
+                    "text": " can you i am  not  sure",
+                    "created": "2020-07-20T15:33:25.467700Z",
+                    "updated": "2020-07-20T15:33:25.467700Z"
+                },
+                {
+                    "text": " at the end of the day not  quite sure at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467701Z",
+                    "updated": "2020-07-20T15:33:25.467701Z"
+                },
+                {
+                    "text": " at the end of the day i am not  really  quite sure believe me ",
+                    "created": "2020-07-20T15:33:25.467702Z",
+                    "updated": "2020-07-20T15:33:25.467702Z"
+                },
+                {
+                    "text": "possibly  oh  sounds great ",
+                    "created": "2020-07-20T15:33:25.467704Z",
+                    "updated": "2020-07-20T15:33:25.467704Z"
+                },
+                {
+                    "text": " basically i'm  hmm  indifferent sounds great ",
+                    "created": "2020-07-20T15:33:25.467705Z",
+                    "updated": "2020-07-20T15:33:25.467705Z"
+                },
+                {
+                    "text": " can you  i am indifferent",
+                    "created": "2020-07-20T15:33:25.467706Z",
+                    "updated": "2020-07-20T15:33:25.467706Z"
+                },
+                {
+                    "text": " oh  indifferent sounds great ",
+                    "created": "2020-07-20T15:33:25.467707Z",
+                    "updated": "2020-07-20T15:33:25.467707Z"
+                },
+                {
+                    "text": " yeah  i can't remember you know ",
+                    "created": "2020-07-20T15:33:25.467709Z",
+                    "updated": "2020-07-20T15:33:25.467709Z"
+                },
+                {
+                    "text": " i wonder  uhm  can't remember basically ",
+                    "created": "2020-07-20T15:33:25.467711Z",
+                    "updated": "2020-07-20T15:33:25.467711Z"
+                },
+                {
+                    "text": " cannot remember so ",
+                    "created": "2020-07-20T15:33:25.467712Z",
+                    "updated": "2020-07-20T15:33:25.467712Z"
+                },
+                {
+                    "text": "i  can not remember",
+                    "created": "2020-07-20T15:33:25.467713Z",
+                    "updated": "2020-07-20T15:33:25.467713Z"
+                },
+                {
+                    "text": "can  not remember i think ",
+                    "created": "2020-07-20T15:33:25.467715Z",
+                    "updated": "2020-07-20T15:33:25.467715Z"
+                },
+                {
+                    "text": "that  really  doesn't  matter",
+                    "created": "2020-07-20T15:33:25.467716Z",
+                    "updated": "2020-07-20T15:33:25.467716Z"
+                },
+                {
+                    "text": " i think i think it doesn't  really matter at the end of the day ",
+                    "created": "2020-07-20T15:33:25.467717Z",
+                    "updated": "2020-07-20T15:33:25.467717Z"
+                },
+                {
+                    "text": " i would like to hear it  doesn't really matter",
+                    "created": "2020-07-20T15:33:25.467718Z",
+                    "updated": "2020-07-20T15:33:25.467718Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "stop_G",
+            "created": "2020-07-20T15:33:25.467720Z",
+            "updated": "2020-07-20T15:33:25.467720Z",
+            "examples": [
+                {
+                    "text": " i want to quit i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467720Z",
+                    "updated": "2020-07-20T15:33:25.467720Z"
+                },
+                {
+                    "text": " somehow  exit",
+                    "created": "2020-07-20T15:33:25.467721Z",
+                    "updated": "2020-07-20T15:33:25.467721Z"
+                },
+                {
+                    "text": " you know stop  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467723Z",
+                    "updated": "2020-07-20T15:33:25.467723Z"
+                },
+                {
+                    "text": " oh  i want to stop i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467725Z",
+                    "updated": "2020-07-20T15:33:25.467725Z"
+                },
+                {
+                    "text": " for what it is worth stop  just  it",
+                    "created": "2020-07-20T15:33:25.467726Z",
+                    "updated": "2020-07-20T15:33:25.467726Z"
+                },
+                {
+                    "text": " i think  oh  turn you off i wonder ",
+                    "created": "2020-07-20T15:33:25.467727Z",
+                    "updated": "2020-07-20T15:33:25.467727Z"
+                },
+                {
+                    "text": " i would like to hear i  uhm  want to turn you off well ",
+                    "created": "2020-07-20T15:33:25.467729Z",
+                    "updated": "2020-07-20T15:33:25.467729Z"
+                },
+                {
+                    "text": "don't talk  just  okay ",
+                    "created": "2020-07-20T15:33:25.467730Z",
+                    "updated": "2020-07-20T15:33:25.467730Z"
+                },
+                {
+                    "text": " well stop talking ",
+                    "created": "2020-07-20T15:33:25.467731Z",
+                    "updated": "2020-07-20T15:33:25.467731Z"
+                },
+                {
+                    "text": "i  don't want to play  anymore",
+                    "created": "2020-07-20T15:33:25.467733Z",
+                    "updated": "2020-07-20T15:33:25.467733Z"
+                },
+                {
+                    "text": " in my humble opinion  yeah  i don't want to play any game anymore",
+                    "created": "2020-07-20T15:33:25.467734Z",
+                    "updated": "2020-07-20T15:33:25.467734Z"
+                },
+                {
+                    "text": "i don't want  somehow  to play any game you know ",
+                    "created": "2020-07-20T15:33:25.467735Z",
+                    "updated": "2020-07-20T15:33:25.467735Z"
+                },
+                {
+                    "text": " so i don't like this game anymore ",
+                    "created": "2020-07-20T15:33:25.467736Z",
+                    "updated": "2020-07-20T15:33:25.467736Z"
+                },
+                {
+                    "text": " needless to say i'm not enjoying  this game right ",
+                    "created": "2020-07-20T15:33:25.467738Z",
+                    "updated": "2020-07-20T15:33:25.467738Z"
+                },
+                {
+                    "text": " in my humble opinion  oh  goodbye",
+                    "created": "2020-07-20T15:33:25.467739Z",
+                    "updated": "2020-07-20T15:33:25.467739Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "Repeat_G",
+            "created": "2020-07-20T15:33:25.467740Z",
+            "updated": "2020-07-20T15:33:25.467740Z",
+            "examples": [
+                {
+                    "text": " i want you to repeat  yeah  i want you to ",
+                    "created": "2020-07-20T15:33:25.467740Z",
+                    "updated": "2020-07-20T15:33:25.467740Z"
+                },
+                {
+                    "text": " i think could you  oh  repeat it so ",
+                    "created": "2020-07-20T15:33:25.467742Z",
+                    "updated": "2020-07-20T15:33:25.467742Z"
+                },
+                {
+                    "text": " well could you  really  repeat the question right ",
+                    "created": "2020-07-20T15:33:25.467743Z",
+                    "updated": "2020-07-20T15:33:25.467743Z"
+                },
+                {
+                    "text": "can  you repeat the question",
+                    "created": "2020-07-20T15:33:25.467745Z",
+                    "updated": "2020-07-20T15:33:25.467745Z"
+                },
+                {
+                    "text": "can you  repeat that please",
+                    "created": "2020-07-20T15:33:25.467747Z",
+                    "updated": "2020-07-20T15:33:25.467747Z"
+                },
+                {
+                    "text": " for what it is worth could you  repeat it please",
+                    "created": "2020-07-20T15:33:25.467748Z",
+                    "updated": "2020-07-20T15:33:25.467748Z"
+                },
+                {
+                    "text": " in my humble opinion  uhm  can you repeat it please so ",
+                    "created": "2020-07-20T15:33:25.467749Z",
+                    "updated": "2020-07-20T15:33:25.467749Z"
+                },
+                {
+                    "text": " can you  once more right ",
+                    "created": "2020-07-20T15:33:25.467751Z",
+                    "updated": "2020-07-20T15:33:25.467751Z"
+                },
+                {
+                    "text": " yeah  once more please for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467752Z",
+                    "updated": "2020-07-20T15:33:25.467752Z"
+                },
+                {
+                    "text": "say that again  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467753Z",
+                    "updated": "2020-07-20T15:33:25.467753Z"
+                },
+                {
+                    "text": " so what are  you saying",
+                    "created": "2020-07-20T15:33:25.467755Z",
+                    "updated": "2020-07-20T15:33:25.467755Z"
+                },
+                {
+                    "text": " hmm  what i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467758Z",
+                    "updated": "2020-07-20T15:33:25.467758Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "playOtherGame_G",
+            "created": "2020-07-20T15:33:25.467760Z",
+            "updated": "2020-07-20T15:33:25.467760Z",
+            "examples": [
+                {
+                    "text": "i  want to play  more games",
+                    "created": "2020-07-20T15:33:25.467760Z",
+                    "updated": "2020-07-20T15:33:25.467760Z"
+                },
+                {
+                    "text": " can you let's  play  more games basically ",
+                    "created": "2020-07-20T15:33:25.467761Z",
+                    "updated": "2020-07-20T15:33:25.467761Z"
+                },
+                {
+                    "text": " right play  more games  uhm  i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467762Z",
+                    "updated": "2020-07-20T15:33:25.467762Z"
+                },
+                {
+                    "text": " you know  let's open  more games",
+                    "created": "2020-07-20T15:33:25.467764Z",
+                    "updated": "2020-07-20T15:33:25.467764Z"
+                },
+                {
+                    "text": "start  more  games i think ",
+                    "created": "2020-07-20T15:33:25.467765Z",
+                    "updated": "2020-07-20T15:33:25.467765Z"
+                },
+                {
+                    "text": " right  somehow  let's play some more games i wonder ",
+                    "created": "2020-07-20T15:33:25.467767Z",
+                    "updated": "2020-07-20T15:33:25.467767Z"
+                },
+                {
+                    "text": "let's open some  yeah  more games",
+                    "created": "2020-07-20T15:33:25.467768Z",
+                    "updated": "2020-07-20T15:33:25.467768Z"
+                },
+                {
+                    "text": " really  open some more games i want you to ",
+                    "created": "2020-07-20T15:33:25.467769Z",
+                    "updated": "2020-07-20T15:33:25.467769Z"
+                },
+                {
+                    "text": "i want to start some more games ",
+                    "created": "2020-07-20T15:33:25.467771Z",
+                    "updated": "2020-07-20T15:33:25.467771Z"
+                },
+                {
+                    "text": "let's start some more  uhm  games",
+                    "created": "2020-07-20T15:33:25.467772Z",
+                    "updated": "2020-07-20T15:33:25.467772Z"
+                },
+                {
+                    "text": "start  uhm  some more games you know ",
+                    "created": "2020-07-20T15:33:25.467773Z",
+                    "updated": "2020-07-20T15:33:25.467773Z"
+                },
+                {
+                    "text": "i want  to play a few more games",
+                    "created": "2020-07-20T15:33:25.467775Z",
+                    "updated": "2020-07-20T15:33:25.467775Z"
+                },
+                {
+                    "text": "let's play a  few more games",
+                    "created": "2020-07-20T15:33:25.467776Z",
+                    "updated": "2020-07-20T15:33:25.467776Z"
+                },
+                {
+                    "text": "play  hmm  a few more games",
+                    "created": "2020-07-20T15:33:25.467777Z",
+                    "updated": "2020-07-20T15:33:25.467777Z"
+                },
+                {
+                    "text": " you know i want to open a few more  games right ",
+                    "created": "2020-07-20T15:33:25.467779Z",
+                    "updated": "2020-07-20T15:33:25.467779Z"
+                },
+                {
+                    "text": " i think let's open  oh  a few more games i wonder ",
+                    "created": "2020-07-20T15:33:25.467780Z",
+                    "updated": "2020-07-20T15:33:25.467780Z"
+                },
+                {
+                    "text": " you know open  yeah  a few more games",
+                    "created": "2020-07-20T15:33:25.467783Z",
+                    "updated": "2020-07-20T15:33:25.467783Z"
+                },
+                {
+                    "text": "i want  oh  to start a few more games sounds great ",
+                    "created": "2020-07-20T15:33:25.467785Z",
+                    "updated": "2020-07-20T15:33:25.467785Z"
+                },
+                {
+                    "text": " can you let's play   other games needless to say ",
+                    "created": "2020-07-20T15:33:25.467786Z",
+                    "updated": "2020-07-20T15:33:25.467786Z"
+                },
+                {
+                    "text": "i want  to open  other games",
+                    "created": "2020-07-20T15:33:25.467788Z",
+                    "updated": "2020-07-20T15:33:25.467788Z"
+                },
+                {
+                    "text": " would you let me know let's open   somehow  other games",
+                    "created": "2020-07-20T15:33:25.467789Z",
+                    "updated": "2020-07-20T15:33:25.467789Z"
+                },
+                {
+                    "text": "i want  to start  other games",
+                    "created": "2020-07-20T15:33:25.467790Z",
+                    "updated": "2020-07-20T15:33:25.467790Z"
+                },
+                {
+                    "text": "start  other  games",
+                    "created": "2020-07-20T15:33:25.467793Z",
+                    "updated": "2020-07-20T15:33:25.467793Z"
+                },
+                {
+                    "text": " you know i want  oh  to play some other games for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467794Z",
+                    "updated": "2020-07-20T15:33:25.467794Z"
+                },
+                {
+                    "text": " basically let's play  just  some other games i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467795Z",
+                    "updated": "2020-07-20T15:33:25.467795Z"
+                },
+                {
+                    "text": " needless to say play  uhm  some other games",
+                    "created": "2020-07-20T15:33:25.467797Z",
+                    "updated": "2020-07-20T15:33:25.467797Z"
+                },
+                {
+                    "text": "i want to  uhm  open some other games",
+                    "created": "2020-07-20T15:33:25.467798Z",
+                    "updated": "2020-07-20T15:33:25.467798Z"
+                },
+                {
+                    "text": "let's open  really  some other games",
+                    "created": "2020-07-20T15:33:25.467800Z",
+                    "updated": "2020-07-20T15:33:25.467800Z"
+                },
+                {
+                    "text": " well i want to start some  really  other games okay ",
+                    "created": "2020-07-20T15:33:25.467801Z",
+                    "updated": "2020-07-20T15:33:25.467801Z"
+                },
+                {
+                    "text": "let's play  somehow  a few other games so ",
+                    "created": "2020-07-20T15:33:25.467802Z",
+                    "updated": "2020-07-20T15:33:25.467802Z"
+                },
+                {
+                    "text": "i want to  open a few other games for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467804Z",
+                    "updated": "2020-07-20T15:33:25.467804Z"
+                },
+                {
+                    "text": " right i want to  start a few other games",
+                    "created": "2020-07-20T15:33:25.467805Z",
+                    "updated": "2020-07-20T15:33:25.467805Z"
+                },
+                {
+                    "text": " let's start another  game",
+                    "created": "2020-07-20T15:33:25.467806Z",
+                    "updated": "2020-07-20T15:33:25.467806Z"
+                },
+                {
+                    "text": " well start  somehow  another  game",
+                    "created": "2020-07-20T15:33:25.467808Z",
+                    "updated": "2020-07-20T15:33:25.467808Z"
+                },
+                {
+                    "text": "let's open a different  game  i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467809Z",
+                    "updated": "2020-07-20T15:33:25.467809Z"
+                },
+                {
+                    "text": " i would like to hear  open a different  game would you let me know ",
+                    "created": "2020-07-20T15:33:25.467810Z",
+                    "updated": "2020-07-20T15:33:25.467810Z"
+                },
+                {
+                    "text": " sounds great  i want to start a different  game could you ",
+                    "created": "2020-07-20T15:33:25.467812Z",
+                    "updated": "2020-07-20T15:33:25.467812Z"
+                },
+                {
+                    "text": " sounds great let's start  a different  game you know ",
+                    "created": "2020-07-20T15:33:25.467813Z",
+                    "updated": "2020-07-20T15:33:25.467813Z"
+                },
+                {
+                    "text": "start a different   just  game in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467814Z",
+                    "updated": "2020-07-20T15:33:25.467814Z"
+                },
+                {
+                    "text": " basically i  hmm  want to play one more  game you know ",
+                    "created": "2020-07-20T15:33:25.467816Z",
+                    "updated": "2020-07-20T15:33:25.467816Z"
+                },
+                {
+                    "text": " could you open  yeah  one more  game",
+                    "created": "2020-07-20T15:33:25.467817Z",
+                    "updated": "2020-07-20T15:33:25.467817Z"
+                },
+                {
+                    "text": "let's start  uhm  one more  game in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467818Z",
+                    "updated": "2020-07-20T15:33:25.467818Z"
+                },
+                {
+                    "text": " right start one  more  game you know ",
+                    "created": "2020-07-20T15:33:25.467820Z",
+                    "updated": "2020-07-20T15:33:25.467820Z"
+                },
+                {
+                    "text": " would you let me know  somehow  let's play another memory game",
+                    "created": "2020-07-20T15:33:25.467821Z",
+                    "updated": "2020-07-20T15:33:25.467821Z"
+                },
+                {
+                    "text": "play  another memory game well ",
+                    "created": "2020-07-20T15:33:25.467822Z",
+                    "updated": "2020-07-20T15:33:25.467822Z"
+                },
+                {
+                    "text": " needless to say i want to open  another memory game",
+                    "created": "2020-07-20T15:33:25.467824Z",
+                    "updated": "2020-07-20T15:33:25.467824Z"
+                },
+                {
+                    "text": " really  open another memory game",
+                    "created": "2020-07-20T15:33:25.467827Z",
+                    "updated": "2020-07-20T15:33:25.467827Z"
+                },
+                {
+                    "text": "start another  hmm  memory game",
+                    "created": "2020-07-20T15:33:25.467828Z",
+                    "updated": "2020-07-20T15:33:25.467828Z"
+                },
+                {
+                    "text": "i want to  open a different memory game",
+                    "created": "2020-07-20T15:33:25.467830Z",
+                    "updated": "2020-07-20T15:33:25.467830Z"
+                },
+                {
+                    "text": " i would like to hear let's open a different  somehow  memory game",
+                    "created": "2020-07-20T15:33:25.467831Z",
+                    "updated": "2020-07-20T15:33:25.467831Z"
+                },
+                {
+                    "text": " at the end of the day  open a different memory game",
+                    "created": "2020-07-20T15:33:25.467832Z",
+                    "updated": "2020-07-20T15:33:25.467832Z"
+                },
+                {
+                    "text": " uhm  i want to start a different memory game would you let me know ",
+                    "created": "2020-07-20T15:33:25.467834Z",
+                    "updated": "2020-07-20T15:33:25.467834Z"
+                },
+                {
+                    "text": "let's  open one more memory game i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467835Z",
+                    "updated": "2020-07-20T15:33:25.467835Z"
+                },
+                {
+                    "text": " at the end of the day i want  yeah  to start one more memory game",
+                    "created": "2020-07-20T15:33:25.467837Z",
+                    "updated": "2020-07-20T15:33:25.467837Z"
+                },
+                {
+                    "text": " so let's start  yeah  one more memory game",
+                    "created": "2020-07-20T15:33:25.467838Z",
+                    "updated": "2020-07-20T15:33:25.467838Z"
+                },
+                {
+                    "text": " could you  i don't want to end  yet",
+                    "created": "2020-07-20T15:33:25.467839Z",
+                    "updated": "2020-07-20T15:33:25.467839Z"
+                },
+                {
+                    "text": " believe me i don't want to turn you off  oh   yet can you ",
+                    "created": "2020-07-20T15:33:25.467841Z",
+                    "updated": "2020-07-20T15:33:25.467841Z"
+                },
+                {
+                    "text": " can you i don't want to end just yet ",
+                    "created": "2020-07-20T15:33:25.467842Z",
+                    "updated": "2020-07-20T15:33:25.467842Z"
+                },
+                {
+                    "text": " i think don't turn off  yet  uhm  you know ",
+                    "created": "2020-07-20T15:33:25.467843Z",
+                    "updated": "2020-07-20T15:33:25.467843Z"
+                },
+                {
+                    "text": "no don't turn off   yet",
+                    "created": "2020-07-20T15:33:25.467845Z",
+                    "updated": "2020-07-20T15:33:25.467845Z"
+                },
+                {
+                    "text": "no don't turn  really  off just yet you know ",
+                    "created": "2020-07-20T15:33:25.467846Z",
+                    "updated": "2020-07-20T15:33:25.467846Z"
+                },
+                {
+                    "text": " i would like to hear i  don't wanna play this game sounds great ",
+                    "created": "2020-07-20T15:33:25.467847Z",
+                    "updated": "2020-07-20T15:33:25.467847Z"
+                },
+                {
+                    "text": " would you let me know i don't like this game  just ",
+                    "created": "2020-07-20T15:33:25.467849Z",
+                    "updated": "2020-07-20T15:33:25.467849Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "totalStop_G",
+            "created": "2020-07-20T15:33:25.467850Z",
+            "updated": "2020-07-20T15:33:25.467850Z",
+            "examples": [
+                {
+                    "text": "stop  and shut up can you ",
+                    "created": "2020-07-20T15:33:25.467850Z",
+                    "updated": "2020-07-20T15:33:25.467850Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "wait_G",
+            "created": "2020-07-20T15:33:25.467852Z",
+            "updated": "2020-07-20T15:33:25.467852Z",
+            "examples": [
+                {
+                    "text": " really  wait",
+                    "created": "2020-07-20T15:33:25.467852Z",
+                    "updated": "2020-07-20T15:33:25.467852Z"
+                },
+                {
+                    "text": "wait a second ",
+                    "created": "2020-07-20T15:33:25.467853Z",
+                    "updated": "2020-07-20T15:33:25.467853Z"
+                },
+                {
+                    "text": " believe me wait  please  would you let me know ",
+                    "created": "2020-07-20T15:33:25.467856Z",
+                    "updated": "2020-07-20T15:33:25.467856Z"
+                },
+                {
+                    "text": "one  somehow  moment",
+                    "created": "2020-07-20T15:33:25.467857Z",
+                    "updated": "2020-07-20T15:33:25.467857Z"
+                },
+                {
+                    "text": "one  moment please",
+                    "created": "2020-07-20T15:33:25.467860Z",
+                    "updated": "2020-07-20T15:33:25.467860Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "listOfGames_G",
+            "created": "2020-07-20T15:33:25.467861Z",
+            "updated": "2020-07-20T15:33:25.467861Z",
+            "examples": [
+                {
+                    "text": " can you what  uhm   games can i play",
+                    "created": "2020-07-20T15:33:25.467861Z",
+                    "updated": "2020-07-20T15:33:25.467861Z"
+                },
+                {
+                    "text": "which other  games can i play",
+                    "created": "2020-07-20T15:33:25.467863Z",
+                    "updated": "2020-07-20T15:33:25.467863Z"
+                },
+                {
+                    "text": "which  game can i play ",
+                    "created": "2020-07-20T15:33:25.467864Z",
+                    "updated": "2020-07-20T15:33:25.467864Z"
+                },
+                {
+                    "text": "which other game can  uhm  i play",
+                    "created": "2020-07-20T15:33:25.467866Z",
+                    "updated": "2020-07-20T15:33:25.467866Z"
+                },
+                {
+                    "text": "which  games  can we play",
+                    "created": "2020-07-20T15:33:25.467867Z",
+                    "updated": "2020-07-20T15:33:25.467867Z"
+                },
+                {
+                    "text": "which other games can we play  i think ",
+                    "created": "2020-07-20T15:33:25.467869Z",
+                    "updated": "2020-07-20T15:33:25.467869Z"
+                },
+                {
+                    "text": " for what it is worth which  game can we play  basically ",
+                    "created": "2020-07-20T15:33:25.467870Z",
+                    "updated": "2020-07-20T15:33:25.467870Z"
+                },
+                {
+                    "text": " well what   just  game can we play",
+                    "created": "2020-07-20T15:33:25.467871Z",
+                    "updated": "2020-07-20T15:33:25.467871Z"
+                },
+                {
+                    "text": " believe me which other game  oh  can we play in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467873Z",
+                    "updated": "2020-07-20T15:33:25.467873Z"
+                },
+                {
+                    "text": " well what  else can we play could you ",
+                    "created": "2020-07-20T15:33:25.467874Z",
+                    "updated": "2020-07-20T15:33:25.467874Z"
+                },
+                {
+                    "text": "which  other games can you play",
+                    "created": "2020-07-20T15:33:25.467876Z",
+                    "updated": "2020-07-20T15:33:25.467876Z"
+                },
+                {
+                    "text": "what  somehow  other games can you play",
+                    "created": "2020-07-20T15:33:25.467877Z",
+                    "updated": "2020-07-20T15:33:25.467877Z"
+                },
+                {
+                    "text": "what   somehow  game can you play",
+                    "created": "2020-07-20T15:33:25.467879Z",
+                    "updated": "2020-07-20T15:33:25.467879Z"
+                },
+                {
+                    "text": " can you which  games do  you have could you ",
+                    "created": "2020-07-20T15:33:25.467880Z",
+                    "updated": "2020-07-20T15:33:25.467880Z"
+                },
+                {
+                    "text": " oh  which other games do you have",
+                    "created": "2020-07-20T15:33:25.467881Z",
+                    "updated": "2020-07-20T15:33:25.467881Z"
+                },
+                {
+                    "text": "which  game do  you have okay ",
+                    "created": "2020-07-20T15:33:25.467883Z",
+                    "updated": "2020-07-20T15:33:25.467883Z"
+                },
+                {
+                    "text": " can you which other game  just  do you have in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467884Z",
+                    "updated": "2020-07-20T15:33:25.467884Z"
+                },
+                {
+                    "text": " yeah  what other game do you have i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467886Z",
+                    "updated": "2020-07-20T15:33:25.467886Z"
+                },
+                {
+                    "text": "what else  somehow  do you have",
+                    "created": "2020-07-20T15:33:25.467887Z",
+                    "updated": "2020-07-20T15:33:25.467887Z"
+                },
+                {
+                    "text": "what  do you have",
+                    "created": "2020-07-20T15:33:25.467889Z",
+                    "updated": "2020-07-20T15:33:25.467889Z"
+                },
+                {
+                    "text": "which   games do you know i wonder ",
+                    "created": "2020-07-20T15:33:25.467890Z",
+                    "updated": "2020-07-20T15:33:25.467890Z"
+                },
+                {
+                    "text": " you know what  games do you know  hmm ",
+                    "created": "2020-07-20T15:33:25.467892Z",
+                    "updated": "2020-07-20T15:33:25.467892Z"
+                },
+                {
+                    "text": " could you what  game do you know  yeah ",
+                    "created": "2020-07-20T15:33:25.467894Z",
+                    "updated": "2020-07-20T15:33:25.467894Z"
+                },
+                {
+                    "text": "what  yeah  other game do you know",
+                    "created": "2020-07-20T15:33:25.467896Z",
+                    "updated": "2020-07-20T15:33:25.467896Z"
+                },
+                {
+                    "text": "what else  uhm  do you know in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467897Z",
+                    "updated": "2020-07-20T15:33:25.467897Z"
+                },
+                {
+                    "text": " okay  which  games is available i wonder ",
+                    "created": "2020-07-20T15:33:25.467898Z",
+                    "updated": "2020-07-20T15:33:25.467898Z"
+                },
+                {
+                    "text": " believe me what other games is available  uhm  needless to say ",
+                    "created": "2020-07-20T15:33:25.467900Z",
+                    "updated": "2020-07-20T15:33:25.467900Z"
+                },
+                {
+                    "text": " for what it is worth what  game  just  is available",
+                    "created": "2020-07-20T15:33:25.467901Z",
+                    "updated": "2020-07-20T15:33:25.467901Z"
+                },
+                {
+                    "text": " which other game is available",
+                    "created": "2020-07-20T15:33:25.467903Z",
+                    "updated": "2020-07-20T15:33:25.467903Z"
+                },
+                {
+                    "text": "which  games  oh  are available",
+                    "created": "2020-07-20T15:33:25.467904Z",
+                    "updated": "2020-07-20T15:33:25.467904Z"
+                },
+                {
+                    "text": "what other games are  available",
+                    "created": "2020-07-20T15:33:25.467907Z",
+                    "updated": "2020-07-20T15:33:25.467907Z"
+                },
+                {
+                    "text": "which  game are  available believe me ",
+                    "created": "2020-07-20T15:33:25.467908Z",
+                    "updated": "2020-07-20T15:33:25.467908Z"
+                },
+                {
+                    "text": " i would like to hear what  game are available ",
+                    "created": "2020-07-20T15:33:25.467910Z",
+                    "updated": "2020-07-20T15:33:25.467910Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "gamesCounter_G",
+            "created": "2020-07-20T15:33:25.467911Z",
+            "updated": "2020-07-20T15:33:25.467911Z",
+            "examples": [
+                {
+                    "text": "how many  games have  yeah  we played sounds great ",
+                    "created": "2020-07-20T15:33:25.467911Z",
+                    "updated": "2020-07-20T15:33:25.467911Z"
+                },
+                {
+                    "text": " well how many memory games have i  played i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467913Z",
+                    "updated": "2020-07-20T15:33:25.467913Z"
+                },
+                {
+                    "text": "how many  really   games have i played so far",
+                    "created": "2020-07-20T15:33:25.467914Z",
+                    "updated": "2020-07-20T15:33:25.467914Z"
+                },
+                {
+                    "text": "how many memory games  have i played so far in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467916Z",
+                    "updated": "2020-07-20T15:33:25.467916Z"
+                },
+                {
+                    "text": " i would like to hear how many memory games have we played in this session  i think ",
+                    "created": "2020-07-20T15:33:25.467917Z",
+                    "updated": "2020-07-20T15:33:25.467917Z"
+                },
+                {
+                    "text": "how  many memory games have i played in this session",
+                    "created": "2020-07-20T15:33:25.467919Z",
+                    "updated": "2020-07-20T15:33:25.467919Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "volumeUp_G",
+            "created": "2020-07-20T15:33:25.467920Z",
+            "updated": "2020-07-20T15:33:25.467920Z",
+            "examples": [
+                {
+                    "text": "would you speak  louder you know ",
+                    "created": "2020-07-20T15:33:25.467920Z",
+                    "updated": "2020-07-20T15:33:25.467920Z"
+                },
+                {
+                    "text": " i think could   speak louder",
+                    "created": "2020-07-20T15:33:25.467922Z",
+                    "updated": "2020-07-20T15:33:25.467922Z"
+                },
+                {
+                    "text": " needless to say will you talk  louder i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467924Z",
+                    "updated": "2020-07-20T15:33:25.467924Z"
+                },
+                {
+                    "text": "could  oh   talk louder i wonder ",
+                    "created": "2020-07-20T15:33:25.467925Z",
+                    "updated": "2020-07-20T15:33:25.467925Z"
+                },
+                {
+                    "text": " believe me can   yeah  talk louder basically ",
+                    "created": "2020-07-20T15:33:25.467927Z",
+                    "updated": "2020-07-20T15:33:25.467927Z"
+                },
+                {
+                    "text": " right will  talk louder  i wonder ",
+                    "created": "2020-07-20T15:33:25.467929Z",
+                    "updated": "2020-07-20T15:33:25.467929Z"
+                },
+                {
+                    "text": "would  talk louder  in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467931Z",
+                    "updated": "2020-07-20T15:33:25.467931Z"
+                },
+                {
+                    "text": " right  talk louder in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.467932Z",
+                    "updated": "2020-07-20T15:33:25.467932Z"
+                },
+                {
+                    "text": "you speak  more loud",
+                    "created": "2020-07-20T15:33:25.467934Z",
+                    "updated": "2020-07-20T15:33:25.467934Z"
+                },
+                {
+                    "text": " well could  speak  hmm  more loud well ",
+                    "created": "2020-07-20T15:33:25.467936Z",
+                    "updated": "2020-07-20T15:33:25.467936Z"
+                },
+                {
+                    "text": " for what it is worth would  speak more loud  uhm  i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467937Z",
+                    "updated": "2020-07-20T15:33:25.467937Z"
+                },
+                {
+                    "text": " could you speak more  loud",
+                    "created": "2020-07-20T15:33:25.467939Z",
+                    "updated": "2020-07-20T15:33:25.467939Z"
+                },
+                {
+                    "text": "can you talk more  oh  loud",
+                    "created": "2020-07-20T15:33:25.467940Z",
+                    "updated": "2020-07-20T15:33:25.467940Z"
+                },
+                {
+                    "text": "would you talk  more loud",
+                    "created": "2020-07-20T15:33:25.467942Z",
+                    "updated": "2020-07-20T15:33:25.467942Z"
+                },
+                {
+                    "text": "can  talk more  loud i wonder ",
+                    "created": "2020-07-20T15:33:25.467944Z",
+                    "updated": "2020-07-20T15:33:25.467944Z"
+                },
+                {
+                    "text": " believe me will  talk more loud  well ",
+                    "created": "2020-07-20T15:33:25.467945Z",
+                    "updated": "2020-07-20T15:33:25.467945Z"
+                },
+                {
+                    "text": " sounds great talk more  hmm  loud i think ",
+                    "created": "2020-07-20T15:33:25.467947Z",
+                    "updated": "2020-07-20T15:33:25.467947Z"
+                },
+                {
+                    "text": "could you speak higher  you know ",
+                    "created": "2020-07-20T15:33:25.467948Z",
+                    "updated": "2020-07-20T15:33:25.467948Z"
+                },
+                {
+                    "text": "can you speak  higher",
+                    "created": "2020-07-20T15:33:25.467950Z",
+                    "updated": "2020-07-20T15:33:25.467950Z"
+                },
+                {
+                    "text": " somehow  will you speak higher",
+                    "created": "2020-07-20T15:33:25.467951Z",
+                    "updated": "2020-07-20T15:33:25.467951Z"
+                },
+                {
+                    "text": " really  can  speak higher i think ",
+                    "created": "2020-07-20T15:33:25.467953Z",
+                    "updated": "2020-07-20T15:33:25.467953Z"
+                },
+                {
+                    "text": " for what it is worth will  speak higher  yeah ",
+                    "created": "2020-07-20T15:33:25.467954Z",
+                    "updated": "2020-07-20T15:33:25.467954Z"
+                },
+                {
+                    "text": " so  oh  speak higher can you ",
+                    "created": "2020-07-20T15:33:25.467956Z",
+                    "updated": "2020-07-20T15:33:25.467956Z"
+                },
+                {
+                    "text": " would you let me know can  hmm  you talk higher right ",
+                    "created": "2020-07-20T15:33:25.467957Z",
+                    "updated": "2020-07-20T15:33:25.467957Z"
+                },
+                {
+                    "text": " would you let me know  would you talk higher",
+                    "created": "2020-07-20T15:33:25.467959Z",
+                    "updated": "2020-07-20T15:33:25.467959Z"
+                },
+                {
+                    "text": " really  you talk higher would you let me know ",
+                    "created": "2020-07-20T15:33:25.467960Z",
+                    "updated": "2020-07-20T15:33:25.467960Z"
+                },
+                {
+                    "text": "could   talk higher",
+                    "created": "2020-07-20T15:33:25.467962Z",
+                    "updated": "2020-07-20T15:33:25.467962Z"
+                },
+                {
+                    "text": " would you let me know would   talk higher",
+                    "created": "2020-07-20T15:33:25.467963Z",
+                    "updated": "2020-07-20T15:33:25.467963Z"
+                },
+                {
+                    "text": " you know talk higher  for what it is worth ",
+                    "created": "2020-07-20T15:33:25.467965Z",
+                    "updated": "2020-07-20T15:33:25.467965Z"
+                },
+                {
+                    "text": " needless to say i can't hear you very  hmm  well",
+                    "created": "2020-07-20T15:33:25.467967Z",
+                    "updated": "2020-07-20T15:33:25.467967Z"
+                },
+                {
+                    "text": "i can't  oh  hear you  well",
+                    "created": "2020-07-20T15:33:25.467969Z",
+                    "updated": "2020-07-20T15:33:25.467969Z"
+                },
+                {
+                    "text": " i can't hear you very i want you to ",
+                    "created": "2020-07-20T15:33:25.467970Z",
+                    "updated": "2020-07-20T15:33:25.467970Z"
+                },
+                {
+                    "text": " okay  just  you are talking too quiet right ",
+                    "created": "2020-07-20T15:33:25.467972Z",
+                    "updated": "2020-07-20T15:33:25.467972Z"
+                },
+                {
+                    "text": "you are speaking too low  somehow  basically ",
+                    "created": "2020-07-20T15:33:25.467973Z",
+                    "updated": "2020-07-20T15:33:25.467973Z"
+                },
+                {
+                    "text": "you are talking too  uhm  low basically ",
+                    "created": "2020-07-20T15:33:25.467975Z",
+                    "updated": "2020-07-20T15:33:25.467975Z"
+                },
+                {
+                    "text": " you are  too low",
+                    "created": "2020-07-20T15:33:25.467976Z",
+                    "updated": "2020-07-20T15:33:25.467976Z"
+                },
+                {
+                    "text": "you are  speaking too quietly believe me ",
+                    "created": "2020-07-20T15:33:25.467978Z",
+                    "updated": "2020-07-20T15:33:25.467978Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "volumeDown_G",
+            "created": "2020-07-20T15:33:25.467979Z",
+            "updated": "2020-07-20T15:33:25.467979Z",
+            "examples": [
+                {
+                    "text": " sounds great could you speak quiet  yeah  i wonder ",
+                    "created": "2020-07-20T15:33:25.467979Z",
+                    "updated": "2020-07-20T15:33:25.467979Z"
+                },
+                {
+                    "text": " can you speak quiet",
+                    "created": "2020-07-20T15:33:25.467981Z",
+                    "updated": "2020-07-20T15:33:25.467981Z"
+                },
+                {
+                    "text": "will you speak quiet  somehow  i would like to hear ",
+                    "created": "2020-07-20T15:33:25.467983Z",
+                    "updated": "2020-07-20T15:33:25.467983Z"
+                },
+                {
+                    "text": "would you  speak quiet",
+                    "created": "2020-07-20T15:33:25.467984Z",
+                    "updated": "2020-07-20T15:33:25.467984Z"
+                },
+                {
+                    "text": "could   speak quiet right ",
+                    "created": "2020-07-20T15:33:25.467986Z",
+                    "updated": "2020-07-20T15:33:25.467986Z"
+                },
+                {
+                    "text": " at the end of the day would  speak  just  quiet",
+                    "created": "2020-07-20T15:33:25.467987Z",
+                    "updated": "2020-07-20T15:33:25.467987Z"
+                },
+                {
+                    "text": " okay  hmm  speak quiet",
+                    "created": "2020-07-20T15:33:25.467989Z",
+                    "updated": "2020-07-20T15:33:25.467989Z"
+                },
+                {
+                    "text": "could you  talk quiet",
+                    "created": "2020-07-20T15:33:25.467991Z",
+                    "updated": "2020-07-20T15:33:25.467991Z"
+                },
+                {
+                    "text": "can you talk  oh  quiet i wonder ",
+                    "created": "2020-07-20T15:33:25.467993Z",
+                    "updated": "2020-07-20T15:33:25.467993Z"
+                },
+                {
+                    "text": " needless to say  you talk quiet well ",
+                    "created": "2020-07-20T15:33:25.467994Z",
+                    "updated": "2020-07-20T15:33:25.467994Z"
+                },
+                {
+                    "text": " sounds great can   talk quiet right ",
+                    "created": "2020-07-20T15:33:25.467996Z",
+                    "updated": "2020-07-20T15:33:25.467996Z"
+                },
+                {
+                    "text": " i want you to talk quiet  just ",
+                    "created": "2020-07-20T15:33:25.467997Z",
+                    "updated": "2020-07-20T15:33:25.467997Z"
+                },
+                {
+                    "text": "could  yeah  you speak more quiet i want you to ",
+                    "created": "2020-07-20T15:33:25.467999Z",
+                    "updated": "2020-07-20T15:33:25.467999Z"
+                },
+                {
+                    "text": " could you can you speak  uhm  more quiet i would like to hear ",
+                    "created": "2020-07-20T15:33:25.468000Z",
+                    "updated": "2020-07-20T15:33:25.468000Z"
+                },
+                {
+                    "text": " believe me will you speak more  quiet can you ",
+                    "created": "2020-07-20T15:33:25.468002Z",
+                    "updated": "2020-07-20T15:33:25.468002Z"
+                },
+                {
+                    "text": "would you speak more  uhm  quiet",
+                    "created": "2020-07-20T15:33:25.468004Z",
+                    "updated": "2020-07-20T15:33:25.468004Z"
+                },
+                {
+                    "text": "could you talk more quiet  uhm  sounds great ",
+                    "created": "2020-07-20T15:33:25.468006Z",
+                    "updated": "2020-07-20T15:33:25.468006Z"
+                },
+                {
+                    "text": " i wonder can you talk more quiet  needless to say ",
+                    "created": "2020-07-20T15:33:25.468008Z",
+                    "updated": "2020-07-20T15:33:25.468008Z"
+                },
+                {
+                    "text": "would you talk more  oh  quiet in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.468009Z",
+                    "updated": "2020-07-20T15:33:25.468009Z"
+                },
+                {
+                    "text": " needless to say could  talk more quiet  yeah  in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.468011Z",
+                    "updated": "2020-07-20T15:33:25.468011Z"
+                },
+                {
+                    "text": " sounds great will   talk more quiet would you let me know ",
+                    "created": "2020-07-20T15:33:25.468012Z",
+                    "updated": "2020-07-20T15:33:25.468012Z"
+                },
+                {
+                    "text": " for what it is worth  yeah  talk more quiet",
+                    "created": "2020-07-20T15:33:25.468015Z",
+                    "updated": "2020-07-20T15:33:25.468015Z"
+                },
+                {
+                    "text": " would you let me know can you speak  uhm  less loud right ",
+                    "created": "2020-07-20T15:33:25.468016Z",
+                    "updated": "2020-07-20T15:33:25.468016Z"
+                },
+                {
+                    "text": "you speak less  loud",
+                    "created": "2020-07-20T15:33:25.468018Z",
+                    "updated": "2020-07-20T15:33:25.468018Z"
+                },
+                {
+                    "text": " you know will  speak less  just  loud",
+                    "created": "2020-07-20T15:33:25.468019Z",
+                    "updated": "2020-07-20T15:33:25.468019Z"
+                },
+                {
+                    "text": "would   somehow  speak less loud",
+                    "created": "2020-07-20T15:33:25.468021Z",
+                    "updated": "2020-07-20T15:33:25.468021Z"
+                },
+                {
+                    "text": "can you talk less loud  in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.468023Z",
+                    "updated": "2020-07-20T15:33:25.468023Z"
+                },
+                {
+                    "text": "will you  talk less loud",
+                    "created": "2020-07-20T15:33:25.468024Z",
+                    "updated": "2020-07-20T15:33:25.468024Z"
+                },
+                {
+                    "text": "can  talk  less loud can you ",
+                    "created": "2020-07-20T15:33:25.468026Z",
+                    "updated": "2020-07-20T15:33:25.468026Z"
+                },
+                {
+                    "text": "will  talk less  uhm  loud",
+                    "created": "2020-07-20T15:33:25.468027Z",
+                    "updated": "2020-07-20T15:33:25.468027Z"
+                },
+                {
+                    "text": "would   uhm  talk less loud sounds great ",
+                    "created": "2020-07-20T15:33:25.468029Z",
+                    "updated": "2020-07-20T15:33:25.468029Z"
+                },
+                {
+                    "text": " believe me talk less loud ",
+                    "created": "2020-07-20T15:33:25.468030Z",
+                    "updated": "2020-07-20T15:33:25.468030Z"
+                },
+                {
+                    "text": " basically could you  speak quieter needless to say ",
+                    "created": "2020-07-20T15:33:25.468032Z",
+                    "updated": "2020-07-20T15:33:25.468032Z"
+                },
+                {
+                    "text": " sounds great can you speak  really  quieter",
+                    "created": "2020-07-20T15:33:25.468033Z",
+                    "updated": "2020-07-20T15:33:25.468033Z"
+                },
+                {
+                    "text": " at the end of the day will you speak  quieter sounds great ",
+                    "created": "2020-07-20T15:33:25.468035Z",
+                    "updated": "2020-07-20T15:33:25.468035Z"
+                },
+                {
+                    "text": "you  speak quieter",
+                    "created": "2020-07-20T15:33:25.468036Z",
+                    "updated": "2020-07-20T15:33:25.468036Z"
+                },
+                {
+                    "text": "could  speak quieter  i want you to ",
+                    "created": "2020-07-20T15:33:25.468038Z",
+                    "updated": "2020-07-20T15:33:25.468038Z"
+                },
+                {
+                    "text": " hmm  will  speak quieter",
+                    "created": "2020-07-20T15:33:25.468039Z",
+                    "updated": "2020-07-20T15:33:25.468039Z"
+                },
+                {
+                    "text": " at the end of the day speak  just  quieter",
+                    "created": "2020-07-20T15:33:25.468041Z",
+                    "updated": "2020-07-20T15:33:25.468041Z"
+                },
+                {
+                    "text": " uhm  would you talk quieter well ",
+                    "created": "2020-07-20T15:33:25.468043Z",
+                    "updated": "2020-07-20T15:33:25.468043Z"
+                },
+                {
+                    "text": " okay you talk  quieter",
+                    "created": "2020-07-20T15:33:25.468045Z",
+                    "updated": "2020-07-20T15:33:25.468045Z"
+                },
+                {
+                    "text": " i want you to  hmm  could  talk quieter",
+                    "created": "2020-07-20T15:33:25.468047Z",
+                    "updated": "2020-07-20T15:33:25.468047Z"
+                },
+                {
+                    "text": " you know  can  talk quieter",
+                    "created": "2020-07-20T15:33:25.468048Z",
+                    "updated": "2020-07-20T15:33:25.468048Z"
+                },
+                {
+                    "text": " in my humble opinion would  talk quieter ",
+                    "created": "2020-07-20T15:33:25.468050Z",
+                    "updated": "2020-07-20T15:33:25.468050Z"
+                },
+                {
+                    "text": "you speak  silently would you let me know ",
+                    "created": "2020-07-20T15:33:25.468051Z",
+                    "updated": "2020-07-20T15:33:25.468051Z"
+                },
+                {
+                    "text": "would   speak silently needless to say ",
+                    "created": "2020-07-20T15:33:25.468053Z",
+                    "updated": "2020-07-20T15:33:25.468053Z"
+                },
+                {
+                    "text": " i think could  just  you talk silently",
+                    "created": "2020-07-20T15:33:25.468054Z",
+                    "updated": "2020-07-20T15:33:25.468054Z"
+                },
+                {
+                    "text": "will you talk silently  right ",
+                    "created": "2020-07-20T15:33:25.468056Z",
+                    "updated": "2020-07-20T15:33:25.468056Z"
+                },
+                {
+                    "text": "you talk  uhm  silently at the end of the day ",
+                    "created": "2020-07-20T15:33:25.468057Z",
+                    "updated": "2020-07-20T15:33:25.468057Z"
+                },
+                {
+                    "text": "can  talk  really  silently",
+                    "created": "2020-07-20T15:33:25.468059Z",
+                    "updated": "2020-07-20T15:33:25.468059Z"
+                },
+                {
+                    "text": "talk silently ",
+                    "created": "2020-07-20T15:33:25.468060Z",
+                    "updated": "2020-07-20T15:33:25.468060Z"
+                },
+                {
+                    "text": "can you  somehow  speak down",
+                    "created": "2020-07-20T15:33:25.468062Z",
+                    "updated": "2020-07-20T15:33:25.468062Z"
+                },
+                {
+                    "text": " in my humble opinion would you speak down  uhm ",
+                    "created": "2020-07-20T15:33:25.468064Z",
+                    "updated": "2020-07-20T15:33:25.468064Z"
+                },
+                {
+                    "text": "could   uhm  speak down i would like to hear ",
+                    "created": "2020-07-20T15:33:25.468065Z",
+                    "updated": "2020-07-20T15:33:25.468065Z"
+                },
+                {
+                    "text": " for what it is worth can  speak  somehow  down",
+                    "created": "2020-07-20T15:33:25.468067Z",
+                    "updated": "2020-07-20T15:33:25.468067Z"
+                },
+                {
+                    "text": " will  speak down",
+                    "created": "2020-07-20T15:33:25.468068Z",
+                    "updated": "2020-07-20T15:33:25.468068Z"
+                },
+                {
+                    "text": " would you let me know speak  hmm  down in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.468070Z",
+                    "updated": "2020-07-20T15:33:25.468070Z"
+                },
+                {
+                    "text": " right will you talk  oh  down at the end of the day ",
+                    "created": "2020-07-20T15:33:25.468071Z",
+                    "updated": "2020-07-20T15:33:25.468071Z"
+                },
+                {
+                    "text": " i wonder would you talk  down could you ",
+                    "created": "2020-07-20T15:33:25.468073Z",
+                    "updated": "2020-07-20T15:33:25.468073Z"
+                },
+                {
+                    "text": "could  talk  uhm  down at the end of the day ",
+                    "created": "2020-07-20T15:33:25.468074Z",
+                    "updated": "2020-07-20T15:33:25.468074Z"
+                },
+                {
+                    "text": " could you keep it down  yeah  please at the end of the day ",
+                    "created": "2020-07-20T15:33:25.468076Z",
+                    "updated": "2020-07-20T15:33:25.468076Z"
+                },
+                {
+                    "text": " for what it is worth  oh  volume down",
+                    "created": "2020-07-20T15:33:25.468077Z",
+                    "updated": "2020-07-20T15:33:25.468077Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "timesPlayed_G",
+            "created": "2020-07-20T15:33:25.468079Z",
+            "updated": "2020-07-20T15:33:25.468079Z",
+            "examples": [
+                {
+                    "text": " how many times have we chatted already",
+                    "created": "2020-07-20T15:33:25.468079Z",
+                    "updated": "2020-07-20T15:33:25.468079Z"
+                },
+                {
+                    "text": " right how  many times have we spoken already",
+                    "created": "2020-07-20T15:33:25.468083Z",
+                    "updated": "2020-07-20T15:33:25.468083Z"
+                },
+                {
+                    "text": "how  really  many times have i launched you already in my humble opinion ",
+                    "created": "2020-07-20T15:33:25.468085Z",
+                    "updated": "2020-07-20T15:33:25.468085Z"
+                },
+                {
+                    "text": "how  many times have we talked so far",
+                    "created": "2020-07-20T15:33:25.468087Z",
+                    "updated": "2020-07-20T15:33:25.468087Z"
+                },
+                {
+                    "text": " right how many  yeah  times have we spoken so far",
+                    "created": "2020-07-20T15:33:25.468088Z",
+                    "updated": "2020-07-20T15:33:25.468088Z"
+                },
+                {
+                    "text": " believe me how many times have i opened you so  far",
+                    "created": "2020-07-20T15:33:25.468090Z",
+                    "updated": "2020-07-20T15:33:25.468090Z"
+                },
+                {
+                    "text": " in my humble opinion  how many times have we talked",
+                    "created": "2020-07-20T15:33:25.468091Z",
+                    "updated": "2020-07-20T15:33:25.468091Z"
+                },
+                {
+                    "text": " sounds great  uhm  how many times have i launched you",
+                    "created": "2020-07-20T15:33:25.468093Z",
+                    "updated": "2020-07-20T15:33:25.468093Z"
+                },
+                {
+                    "text": " could you how many times have i  started you",
+                    "created": "2020-07-20T15:33:25.468094Z",
+                    "updated": "2020-07-20T15:33:25.468094Z"
+                },
+                {
+                    "text": " believe me how many times have i opened you  right ",
+                    "created": "2020-07-20T15:33:25.468097Z",
+                    "updated": "2020-07-20T15:33:25.468097Z"
+                },
+                {
+                    "text": "how many times  have i talked to you okay ",
+                    "created": "2020-07-20T15:33:25.468099Z",
+                    "updated": "2020-07-20T15:33:25.468099Z"
+                }
+            ],
+            "description": null
+        },
+        {
+            "intent": "stillThere_G",
+            "created": "2020-07-20T15:33:25.468100Z",
+            "updated": "2020-07-20T15:33:25.468100Z",
+            "examples": [
+                {
+                    "text": " are you still there",
+                    "created": "2020-07-20T15:33:25.468100Z",
+                    "updated": "2020-07-20T15:33:25.468100Z"
+                },
+                {
+                    "text": "are you  sleeping",
+                    "created": "2020-07-20T15:33:25.468102Z",
+                    "updated": "2020-07-20T15:33:25.468102Z"
+                },
+                {
+                    "text": "have you turned  just  off",
+                    "created": "2020-07-20T15:33:25.468104Z",
+                    "updated": "2020-07-20T15:33:25.468104Z"
+                },
+                {
+                    "text": "have you  stopped",
+                    "created": "2020-07-20T15:33:25.468105Z",
+                    "updated": "2020-07-20T15:33:25.468105Z"
+                }
+            ],
+            "description": null
+        }
+    ],
+    "entities": []
+}

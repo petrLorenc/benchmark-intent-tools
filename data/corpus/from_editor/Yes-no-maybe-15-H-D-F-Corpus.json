@@ -1,0 +1,1471 @@
+{
+    "name": "Yes-no-maybe-15-H-D-F-Corpus",
+    "desc": "Petr Lorencc",
+    "lang": "en",
+    "sentences": [
+        {
+            "text": " yes",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me oh  yes  yeah",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion  just  alright",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " right absolutely  well ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh  somehow  absolutely",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "definitely ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so yes i am ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh  somehow  sure i am",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh  uhm  all right i am",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " well  really  oh absolutely i am okay ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " could you oh  definitely i am i want you to ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to yes i do  sounds great ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to oh yeah i  do",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "sure  i do i wonder ",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "alright  yes  i do",
+            "intent": "YesNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion no  basically ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " sounds great oh nah i'm  hmm  not needless to say ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion oh nope i am not  uhm  for what it is worth ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "no i don't ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh no i  don't well ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me nope i  oh  do not i want you to ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " for what it is worth nah i do not ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " would you let me know oh no i  haven't",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "nah i  haven't basically ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh nope i  wouldn't",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh no i would  not you know ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " could you oh nope  i would not",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " oh nah i would not at the end of the day ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh no i didn't  uhm  at the end of the day ",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "oh nope i  oh  didn't",
+            "intent": "NoNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "might  uhm  at the end of the day ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " for what it is worth  i don't really know i wonder ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "don't   know",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " would you let me know not   sure",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " basically i do not  remember",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to  oh  do not remember",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " sounds great don't remember  uhm ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i think i don't  care ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "that doesn't really matter  yes  so ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i think doesn't really  matter so ",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " well it's the  same for me",
+            "intent": "MaybeNode",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "quit  uhm ",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " close",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "i  just  want to close",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i wonder turn  off ",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " could you leave  me be",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so i've  somehow  had enough of this sounds great ",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "bye  yes ",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " sounds great  farewell",
+            "intent": "stop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "could you repeat that  right ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " can you repeat it right ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so  come again you know ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " at the end of the day i  didn't get that",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i wonder i don't understand  uhm ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " basically what  did you say could you ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "i want  really  to start  more games believe me ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " needless to say let's start   more games i wonder ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " you know play  somehow  some more games",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to start  really  a few more games i would like to hear ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " really  i want to play  other games",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " well  play  other games believe me ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " right open some  other games would you let me know ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "let's start  yes  a few other games",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "start a few other games  basically ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "i want to play  another  game would you let me know ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " right play another  game  just ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " okay i want to open another  game  at the end of the day ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " okay let's open  another  game",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "i want to play a different  game ",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " for what it is worth let's play a different   hmm  game",
+            "intent": "playOtherGame",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " at the end of the day shut  up basically ",
+            "intent": "totalStop",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion wait  a minute believe me ",
+            "intent": "wait",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "wait a second please ",
+            "intent": "wait",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " pause",
+            "intent": "wait",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "what  game can  i play i think ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "what else  can i play",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "what can i play  i would like to hear ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to what other game can  we play well ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me what  games  can you play",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i wonder which  uhm  other game can you play needless to say ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i wonder what other game can you play  uhm  well ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me what can you  hmm  play",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " sounds great which  somehow  other games do you know",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " at the end of the day which other  game do you know basically ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " what do you know i would like to hear ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me what   games is available",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion which other  really  games is available needless to say ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me which  game is available  needless to say ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " well what other game is available  can you ",
+            "intent": "listOfGames",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so how  many  games have i played in my humble opinion ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "how many  games have  we played so far for what it is worth ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " needless to say how  many  games have i played in this session sounds great ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "could you speak  yes  louder i would like to hear ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " for what it is worth can you speak  louder in my humble opinion ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so  will you speak louder",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i think  you speak louder",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so  just  can  speak louder",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "you talk louder  oh  sounds great ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " for what it is worth can  somehow  you speak more loud",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "will you speak more  uhm  loud right ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " hmm  will  speak more loud",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " basically will you talk more loud  at the end of the day ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "you talk  yes  more loud",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "would you speak  higher okay ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "you  really  speak higher at the end of the day ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "could  yes   speak higher",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me would  speak higher ",
+            "intent": "volumeUp",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " sounds great you speak  quiet basically ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion will  speak  quiet",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " so would you talk  yes  quiet basically ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "could  talk  quiet",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "would  talk quiet ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "will  uhm   speak more quiet",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i want you to would  speak more quiet  you know ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "will  you talk more quiet",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "you talk more  really  quiet can you ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " in my humble opinion would  talk  somehow  more quiet at the end of the day ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "could you  speak less loud so ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " at the end of the day would you speak  less loud okay ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " could you could you talk less loud  believe me ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " can you would you talk less loud  could you ",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " at the end of the day you talk less  really  loud",
+            "intent": "volumeDown",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " you know how many times have i opened you already  oh ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "how many times have we  chatted so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "how many times have i launched  you so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "how many  times have i started you so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " i wonder how many times have i talked  oh  to you so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "are  you  there for what it is worth ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": "did you turn  really  off could you ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": true
+        },
+        {
+            "text": " believe me  maybe",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " at the end of the day may  somehow  be believe me ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "might be ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "don't  somehow  really know well ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " needless to say do not really  know",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i do  not really know",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " can you  oh  i don't  know you know ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " do not  know",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " needless to say i  do not  know",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i'm not   sure i would like to hear ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i  just  am not  sure for what it is worth ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i would like to hear  not quite sure",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i'm not quite  really  sure i want you to ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i am  uhm  not quite sure at the end of the day ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion possibly  just  i wonder ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i'm indifferent  right ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " sounds great i am  indifferent would you let me know ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " could you indifferent  somehow  well ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i can't remember  believe me ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "can't remember ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i think i cannot remember  for what it is worth ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " right  cannot remember i would like to hear ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i can not remember  i think ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i think can not remember  really  i think ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i  really  don't remember in my humble opinion ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i don't really  just  care in my humble opinion ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " yes  i think it doesn't  matter needless to say ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " you know it doesn't  somehow   matter at the end of the day ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " could you that doesn't  matter  sounds great ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " doesn't  matter",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i think it  doesn't really matter i would like to hear ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion it doesn't really  matter",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "it's the same  oh  so ",
+            "intent": "-18",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "stop  uhm ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i want you to i  just  want to quit you know ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "exit  oh ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " would you let me know  hmm  i want to exit i would like to hear ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " so stop  just ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i want to stop ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " okay  stop it would you let me know ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i  really  want to stop it",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " basically i want to turn   off at the end of the day ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " for what it is worth  turn you off i would like to hear ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i want to turn you off",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "don't  somehow  talk i would like to hear ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " basically stop talking  oh  well ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i don't want to play   anymore",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " can you i don't want to  uhm  play any game anymore i want you to ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " can you i  yes  don't want to play sounds great ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " needless to say i don't  really  want to play any game in my humble opinion ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i don't like this game anymore",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "i'm  somehow  not enjoying this in my humble opinion ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " so  i'm not enjoying this game",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " right this  is boring believe me ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "bye bye ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " goodbye i want you to ",
+            "intent": "stop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "repeat  somehow ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion can you repeat  that",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " oh  could you repeat it",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "could you repeat  really  the question",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " sounds great can you repeat  yes  the question",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " basically could  yes  you repeat that please okay ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " just  can you repeat that please",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " for what it is worth could you repeat it please  i wonder ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "can you repeat  yes  it please i want you to ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " needless to say could you repeat the question please  can you ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "can you repeat  really  the question please sounds great ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i wonder once  just  more",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "once more please  hmm ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i want you to say that  again",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " you know say that  just  again please",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " in my humble opinion what was  that right ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " yes  what are you saying",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "what  somehow ",
+            "intent": "Repeat",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " sounds great stop and  somehow  shut up",
+            "intent": "totalStop",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " you know wait  i want you to ",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " so  really  wait a second you know ",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " sounds great  wait a while",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "wait   please",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "wait a minute please  in my humble opinion ",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " okay wait a  somehow  while please",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i would like to hear one  moment okay ",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " for what it is worth  uhm  one moment please",
+            "intent": "wait",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many   games have we played basically ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " okay how many memory  games have we played",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " would you let me know how many memory  games have i played",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " could you how many memory games have we  really  played so far",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " believe me how  just  many  games have i played so far",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " so how many memory games have i played so  far",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many   games have we played in this session believe me ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i would like to hear how many memory games have we played in this  really  session would you let me know ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many memory games have i played in this session  in my humble opinion ",
+            "intent": "gamesCounter",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " believe me  yes  how many times have we talked already i want you to ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " somehow  how many times have we chatted already i would like to hear ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how  uhm  many times have we spoken already so ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have i launched  you already i want you to ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " basically how many  really  times have i started you already could you ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have  i talked to you already i think ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have we talked so far  hmm ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have we  spoken so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have i  oh  opened you so far",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many  just  times have we talked so ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " would you let me know  somehow  how many times have we chatted",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " i would like to hear how  hmm  many times have we spoken",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " needless to say how many times have i  somehow  launched you",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "how many times have i started you  just  so ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " basically how many times have i opened you ",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " sounds great how many times  really  have i talked to you",
+            "intent": "timesPlayed",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " so are  you still there for what it is worth ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "are you sleeping  yes  i want you to ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " are you asleep",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": "have  you turned off you know ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " have you stopped",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " you know  hmm  did you stop needless to say ",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        },
+        {
+            "text": " could you did  oh  you quit",
+            "intent": "stillThere",
+            "entities": [],
+            "training": false
+        }
+    ]
+}

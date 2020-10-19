@@ -1,0 +1,853 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "gamesCounter",
+      "features": []
+    },
+    {
+      "name": "listOfGames",
+      "features": []
+    },
+    {
+      "name": "MaybeNode",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "NoNode",
+      "features": []
+    },
+    {
+      "name": "playOtherGame",
+      "features": []
+    },
+    {
+      "name": "Repeat",
+      "features": []
+    },
+    {
+      "name": "stillThere",
+      "features": []
+    },
+    {
+      "name": "stop",
+      "features": []
+    },
+    {
+      "name": "timesPlayed",
+      "features": []
+    },
+    {
+      "name": "totalStop",
+      "features": []
+    },
+    {
+      "name": "volumeDown",
+      "features": []
+    },
+    {
+      "name": "volumeUp",
+      "features": []
+    },
+    {
+      "name": "wait",
+      "features": []
+    },
+    {
+      "name": "YesNode",
+      "features": []
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "absolutely",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "alright i do i think",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "are you there",
+      "intent": "stillThere",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day leave me be uhm",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day start a few more games okay",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day uhm would you speak quieter",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day wait a second hmm please i want you to",
+      "intent": "wait",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day will you speak louder uhm",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day will you speak more loud hmm",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "at the end of the day would speak quieter",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "basically doesn't really uhm matter",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "basically might just",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "basically uhm oh no i hadn't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "basically what other game can you play can you",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "believe me could speak higher i think",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "believe me hmm oh yeah i do",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "believe me i want to play other games",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "believe me would talk more quiet basically",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "can oh you speak more loud okay",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "can speak quieter yes",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "can you oh hmm no i haven't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "can you oh yes i will",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "close",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "come again",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "could really you talk higher",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "could yes you talk quieter",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "could you i want somehow to play a different memory game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "could you nope i did not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "could you oh nope i would not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "could you speak less loud",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "could you speak louder really basically",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "could you talk hmm less loud needless to say",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "could you yea i somehow have okay",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "do not remember i would like to hear",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "for what it is worth could talk quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "for what it is worth let's start a few other games basically",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "for what it is worth will talk really higher",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "for what it is worth you speak higher yes needless to say",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "how many games have i played i would like to hear",
+      "intent": "gamesCounter",
+      "entities": []
+    },
+    {
+      "text": "how many games have we really played so far so",
+      "intent": "gamesCounter",
+      "entities": []
+    },
+    {
+      "text": "how many just games have i played in this session",
+      "intent": "gamesCounter",
+      "entities": []
+    },
+    {
+      "text": "how many times have i started you so far",
+      "intent": "timesPlayed",
+      "entities": []
+    },
+    {
+      "text": "how many times have i talked to you so far so",
+      "intent": "timesPlayed",
+      "entities": []
+    },
+    {
+      "text": "how many times just have we chatted so far",
+      "intent": "timesPlayed",
+      "entities": []
+    },
+    {
+      "text": "i didn't get that",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "i don't really know",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "i don't understand for what it is worth",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "i think can you repeat it",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "i think it's the same for me right",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "i think oh oh nope i did not so",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "i think oh sure i yes have would you let me know",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "i think play other games can you",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "i want to close",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "i want to play another game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "i want to play another memory game at the end of the day",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "i want you to how many times have i opened you already",
+      "intent": "timesPlayed",
+      "entities": []
+    },
+    {
+      "text": "i want you to play some more games yes i think",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "i want you to you speak hmm louder you know",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "i wonder oh nah i did not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "i wonder oh nope i wouldn't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "i wonder oh would talk quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "i wonder what else can i play",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "i wonder what oh did you say so",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "i wonder yes i am i would like to hear",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear i don't care okay",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear i want to start more games could you",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear really pause",
+      "intent": "wait",
+      "entities": []
+    },
+    {
+      "text": "in my humble opinion could you repeat that somehow okay",
+      "intent": "Repeat",
+      "entities": []
+    },
+    {
+      "text": "just would you speak less loud i wonder",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "let's open another game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "let's open another memory game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "let's play a different uhm game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "let's play one more game so",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "let's start more games i would like to hear",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "nah i haven't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "needless to say alright for what it is worth",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "needless to say don't know okay",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "needless to say i want to play a different game somehow",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "needless to say oh yeah",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "needless to say start a just few other games sounds great",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "needless to say that doesn't oh really matter would you let me know",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "not sure",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "oh absolutely",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "oh all right i am really",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "oh all yes right i do for what it is worth",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "oh definitely i do needless to say",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "oh nah i did not i wonder",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh nah i would not for what it is worth",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh nah just i'm not at the end of the day",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh no i didn't uhm",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh no i don't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh no i would not so",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh nope i am not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh nope i didn't",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "oh sure i just am okay",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "oh uhm absolutely i am",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "okay don't remember sounds great",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "okay how many times have i launched you so far i would like to hear",
+      "intent": "timesPlayed",
+      "entities": []
+    },
+    {
+      "text": "okay i can't hear you basically",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "okay somehow oh no i don't i wonder",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "okay what can you play yes",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "open some other games",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "play another game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "quit",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "really bye i want you to",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "really nah i do not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "right i do not remember",
+      "intent": "MaybeNode",
+      "entities": []
+    },
+    {
+      "text": "right you uhm talk more loud",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "so did you turn off",
+      "intent": "stillThere",
+      "entities": []
+    },
+    {
+      "text": "so i want to start another memory game i want you to",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "so oh will talk quieter",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "so shut up",
+      "intent": "totalStop",
+      "entities": []
+    },
+    {
+      "text": "so which yes other game can you play",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "sounds great i've had enough of this right",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "sounds great you are speaking oh too quiet okay",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "sure i do sounds great",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "turn hmm off",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "uhm oh definitely i am",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "wait a minute for what it is worth",
+      "intent": "wait",
+      "entities": []
+    },
+    {
+      "text": "well can speak louder would you let me know",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "well definitely uhm",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "well just what can i play",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "well just yes believe me",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "well nope i uhm do not",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "well would you speak higher can you",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "what do you know",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "what games can you play",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "what games is available",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "what other game can somehow we play in my humble opinion",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "what other game is available i think",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "what other yes game are available i want you to",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "which game is available yes",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "which other game do you know",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "which other games do you know",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "which other games is available",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "will really you talk more loud sounds great",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "will uhm speak more loud",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "will you talk more quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "would really you talk less loud could you",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "would speak more quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "would you let me know farewell oh believe me",
+      "intent": "stop",
+      "entities": []
+    },
+    {
+      "text": "would you let me know hmm can you speak louder",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "would you let me know i want to open another game",
+      "intent": "playOtherGame",
+      "entities": []
+    },
+    {
+      "text": "would you let me know will speak more quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "would you talk quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "yes somehow i do",
+      "intent": "YesNode",
+      "entities": []
+    },
+    {
+      "text": "you know no",
+      "intent": "NoNode",
+      "entities": []
+    },
+    {
+      "text": "you know what game can i play basically",
+      "intent": "listOfGames",
+      "entities": []
+    },
+    {
+      "text": "you know will speak quiet",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "you know would somehow speak higher",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "you oh talk louder",
+      "intent": "volumeUp",
+      "entities": []
+    },
+    {
+      "text": "you speak quiet i would like to hear",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "you talk less oh loud could you",
+      "intent": "volumeDown",
+      "entities": []
+    },
+    {
+      "text": "you talk more quiet so",
+      "intent": "volumeDown",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1.0",
+  "name": "YesNoMaybe20HDF",
+  "desc": "Petr Lorencc",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

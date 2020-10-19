@@ -1,0 +1,1530 @@
+{
+    "results": [
+        {
+            "confidence": 0.994934031230637,
+            "confidencesOther": {
+                "Software Recommendation": 0.994934031230637,
+                "None": 0.004966114432569466,
+                "Shutdown Computer": 6.38266297377905e-05,
+                "Setup Printer": 3.538233478965907e-05,
+                "Make Update": 6.453722661722745e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What software can I use to view epub documents?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999983019711051,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999983019711051,
+                "None": 1.4831242662659253e-06,
+                "Shutdown Computer": 2.1077175644300661e-07,
+                "Setup Printer": 3.606787423342459e-09,
+                "Make Update": 5.260847563698694e-10
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Which PDF Viewer would you recommend?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999901523760129,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999901523760129,
+                "Shutdown Computer": 5.048161168096035e-06,
+                "Setup Printer": 2.7703962946905373e-06,
+                "Make Update": 1.55371186475506e-06,
+                "None": 4.7535465965950996e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What IDEs are available for Ubuntu?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999994889173668,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999994889173668,
+                "None": 1.7924316859359808e-07,
+                "Shutdown Computer": 1.7418120491416212e-07,
+                "Setup Printer": 1.2078626601900445e-07,
+                "Make Update": 3.687199369544809e-08
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What's the best Mind Mapping Software?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999932660246807,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999932660246807,
+                "Setup Printer": 2.9746776168762206e-06,
+                "Shutdown Computer": 2.8495964755962034e-06,
+                "None": 7.861601198499014e-07,
+                "Make Update": 1.235411068634024e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Software to read a QR code?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998216810688777,
+            "confidencesOther": {
+                "Software Recommendation": 0.9998216810688777,
+                "Shutdown Computer": 8.676076318116627e-05,
+                "None": 7.015033389788262e-05,
+                "Setup Printer": 1.1530462437909556e-05,
+                "Make Update": 9.877371605448976e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "PDF to word conversion software?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999841387687006,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999841387687006,
+                "None": 1.520170809504146e-05,
+                "Setup Printer": 3.214596199724962e-07,
+                "Shutdown Computer": 1.7239654204204146e-07,
+                "Make Update": 1.6566704232176758e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there software that can view .dwg files?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.998994558483099,
+            "confidencesOther": {
+                "Software Recommendation": 0.998994558483099,
+                "None": 0.0004965565050499333,
+                "Shutdown Computer": 0.00034814364126118145,
+                "Setup Printer": 0.00015686688380782263,
+                "Make Update": 3.874486782114158e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What are some good PHP editors?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9409216651543646,
+            "confidencesOther": {
+                "Software Recommendation": 0.9409216651543646,
+                "None": 0.04518713820757303,
+                "Make Update": 0.01368009715433118,
+                "Shutdown Computer": 0.0001934267953398772,
+                "Setup Printer": 1.7672688391196246e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8674908470168999,
+            "confidencesOther": {
+                "Software Recommendation": 0.8674908470168999,
+                "Setup Printer": 0.07209639031631661,
+                "Make Update": 0.029267450699262638,
+                "Shutdown Computer": 0.026994551139277564,
+                "None": 0.004150760828243177
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Please recommend a hex editor for shell",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994451194278081,
+            "confidencesOther": {
+                "Software Recommendation": 0.9994451194278081,
+                "Setup Printer": 0.0003749110903704777,
+                "Make Update": 0.00015367518788827935,
+                "None": 2.046315797844254e-05,
+                "Shutdown Computer": 5.83113595460443e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there LAN topology mapping software available in Ubuntu?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997967300211499,
+            "confidencesOther": {
+                "Software Recommendation": 0.9997967300211499,
+                "Setup Printer": 0.00017927185542621803,
+                "Shutdown Computer": 1.2285008211722489e-05,
+                "Make Update": 6.43605989368327e-06,
+                "None": 5.277055318515876e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there a tool like wifi analyzer for ubuntu?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8567770958847492,
+            "confidencesOther": {
+                "Shutdown Computer": 0.8567770958847492,
+                "Software Recommendation": 0.13338338836302494,
+                "None": 0.009321288552831293,
+                "Make Update": 0.00026584515897385476,
+                "Setup Printer": 0.0002523820404208115
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Shutdown Computer",
+            "queryText": "Tool for recovering deleted data from a flash drive",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994735580559125,
+            "confidencesOther": {
+                "Software Recommendation": 0.9994735580559125,
+                "Shutdown Computer": 0.00034706523074308076,
+                "Setup Printer": 0.00015838585452722858,
+                "None": 1.894734372660957e-05,
+                "Make Update": 2.043515090632159e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What's a simple \"colour picker\" app for GNOME?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9318166953153159,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9318166953153159,
+                "Software Recommendation": 0.06711929287870609,
+                "Setup Printer": 0.0006129772403381811,
+                "None": 0.00034161032840722134,
+                "Make Update": 0.00010942423723273815
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Shutdown Computer",
+            "queryText": "Any app that tells me to take regular breaks from working?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8179161931436543,
+            "confidencesOther": {
+                "Setup Printer": 0.8179161931436543,
+                "Software Recommendation": 0.18083893286424393,
+                "None": 0.0005938954555575032,
+                "Make Update": 0.0005851161114601759,
+                "Shutdown Computer": 6.586242508421056e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Setup Printer",
+            "queryText": "What are some good ASCII art generators?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999615261429674,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999615261429674,
+                "Setup Printer": 1.5546457149611345e-05,
+                "Shutdown Computer": 1.534583295112665e-05,
+                "None": 6.658468876711808e-06,
+                "Make Update": 9.230980553253921e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What are some good GUI binary viewers/editors?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999790024640862,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999790024640862,
+                "Setup Printer": 1.596231986983029e-05,
+                "None": 3.6396703704434768e-06,
+                "Shutdown Computer": 9.438116679245788e-07,
+                "Make Update": 4.517340054868764e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Which is the best PDF metadata viewer for Ubuntu?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9339960225518181,
+            "confidencesOther": {
+                "Software Recommendation": 0.9339960225518181,
+                "Shutdown Computer": 0.0659848913128159,
+                "None": 1.5958640237680548e-05,
+                "Setup Printer": 2.3089736756526293e-06,
+                "Make Update": 8.185214527134541e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.997804230543916,
+            "confidencesOther": {
+                "Software Recommendation": 0.997804230543916,
+                "None": 0.0016624377801841873,
+                "Shutdown Computer": 0.0004047405251316368,
+                "Setup Printer": 0.00012510772656701497,
+                "Make Update": 3.4834242011873107e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Which application do you recommend for watching TV (DVB)?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9963618093879435,
+            "confidencesOther": {
+                "Software Recommendation": 0.9963618093879435,
+                "Setup Printer": 0.003289924179877661,
+                "Make Update": 0.00030953362642406867,
+                "None": 3.7901000872232335e-05,
+                "Shutdown Computer": 8.318048826000464e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What Is The Best HDR Software?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9749537310655298,
+            "confidencesOther": {
+                "Software Recommendation": 0.9749537310655298,
+                "Setup Printer": 0.01896356904837709,
+                "None": 0.00587121029570081,
+                "Shutdown Computer": 0.00014010679627700189,
+                "Make Update": 7.1382794115196e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What do you use to edit Microsoft Word documents (docx)?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9497847751076302,
+            "confidencesOther": {
+                "Software Recommendation": 0.9497847751076302,
+                "Setup Printer": 0.04673922794015663,
+                "Make Update": 0.0033218033983574307,
+                "None": 0.0001427876064057287,
+                "Shutdown Computer": 1.1405947450066683e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What's the best Wireframing tool?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9368008605039198,
+            "confidencesOther": {
+                "Software Recommendation": 0.9368008605039198,
+                "None": 0.06251521667960118,
+                "Make Update": 0.0004644591104576969,
+                "Shutdown Computer": 0.00017567477189473225,
+                "Setup Printer": 4.378893412664643e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there any software that will do face recognition in photos?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9769317057377421,
+            "confidencesOther": {
+                "Software Recommendation": 0.9769317057377421,
+                "Shutdown Computer": 0.01711311790167999,
+                "Setup Printer": 0.0042775144723343145,
+                "Make Update": 0.001661933991720407,
+                "None": 1.5727896523287856e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Applications to replace iTunes for iPod synchronization?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9867995984944662,
+            "confidencesOther": {
+                "Software Recommendation": 0.9867995984944662,
+                "Shutdown Computer": 0.006293290632909262,
+                "Make Update": 0.004376558611321651,
+                "None": 0.002328908684057588,
+                "Setup Printer": 0.000201643577245263
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there an SSH connection manager?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9975304314874641,
+            "confidencesOther": {
+                "Software Recommendation": 0.9975304314874641,
+                "None": 0.0008939376609377495,
+                "Make Update": 0.0008266279866434577,
+                "Shutdown Computer": 0.0006193679390469732,
+                "Setup Printer": 0.00012963492590747946
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "A light alternative to gnome-system-monitor?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999991311868309,
+            "confidencesOther": {
+                "Software Recommendation": 0.999991311868309,
+                "None": 5.960770367617986e-06,
+                "Shutdown Computer": 1.751483918692526e-06,
+                "Setup Printer": 8.560492515600334e-07,
+                "Make Update": 1.198281530600042e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Software to create a video slideshow?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999928357818951,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999928357818951,
+                "Shutdown Computer": 2.8466974805378184e-06,
+                "Setup Printer": 2.777847955465064e-06,
+                "None": 1.1790794502760115e-06,
+                "Make Update": 3.60593218708529e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there a project management software for Ubuntu like Microsoft Project?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998245886680921,
+            "confidencesOther": {
+                "Software Recommendation": 0.9998245886680921,
+                "Shutdown Computer": 0.00016648201340633084,
+                "None": 6.8034967254985e-06,
+                "Setup Printer": 1.3689916831167567e-06,
+                "Make Update": 7.568300931180677e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there any recovery software available for ext4?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999972607156088,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999972607156088,
+                "Shutdown Computer": 2.656582528596542e-06,
+                "None": 5.467053808990264e-08,
+                "Setup Printer": 2.6098441199346823e-08,
+                "Make Update": 1.9328834906759845e-09
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "What blog editor software are available?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999732312870905,
+            "confidencesOther": {
+                "Software Recommendation": 0.9999732312870905,
+                "Make Update": 1.4062139191980143e-05,
+                "None": 6.748878241476566e-06,
+                "Shutdown Computer": 5.047160578701585e-06,
+                "Setup Printer": 9.105348971693541e-07
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Can you recommend a good modern GUI download manager (wget wrapper?)",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9984232671544745,
+            "confidencesOther": {
+                "Software Recommendation": 0.9984232671544745,
+                "None": 0.0012353323980426306,
+                "Make Update": 0.00016598443353561319,
+                "Setup Printer": 0.00011499287570519386,
+                "Shutdown Computer": 6.0423138242050925e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Is there any program for fuzzy string matching which provides a match score?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9265278076012783,
+            "confidencesOther": {
+                "Software Recommendation": 0.9265278076012783,
+                "None": 0.04722151748937531,
+                "Make Update": 0.0170081796180539,
+                "Setup Printer": 0.009217197186541213,
+                "Shutdown Computer": 2.5298104751120725e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Are there any hardware diagnostic tools?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.777236433178205,
+            "confidencesOther": {
+                "Software Recommendation": 0.777236433178205,
+                "None": 0.1802907209648623,
+                "Make Update": 0.019869449499935847,
+                "Shutdown Computer": 0.015271079683017367,
+                "Setup Printer": 0.007332316673979463
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Recommendation for Regex editor?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.997932912689676,
+            "confidencesOther": {
+                "Software Recommendation": 0.997932912689676,
+                "None": 0.0020597948578021373,
+                "Shutdown Computer": 2.923210457050384e-06,
+                "Make Update": 2.2090721709377762e-06,
+                "Setup Printer": 2.1601698940839146e-06
+            },
+            "goldenIntent": "None",
+            "intent": "Software Recommendation",
+            "queryText": "Is there a Document scanning and archiving software?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999941421616109,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999941421616109,
+                "Software Recommendation": 5.819025456227538e-06,
+                "None": 2.8621600680783267e-08,
+                "Setup Printer": 8.894602095483149e-09,
+                "Make Update": 1.2967301601304228e-09
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "Keyboard shortcut to shutdown?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.6040404409318448,
+            "confidencesOther": {
+                "Shutdown Computer": 0.6040404409318448,
+                "Software Recommendation": 0.3804989721417308,
+                "None": 0.012092902006773473,
+                "Setup Printer": 0.0030213357277366058,
+                "Make Update": 0.00034634919191437293
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "My system doesn't go shutdown",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9893859723646232,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9893859723646232,
+                "Software Recommendation": 0.010437874324278534,
+                "Make Update": 0.00017329450257126176,
+                "None": 2.5779211290594776e-06,
+                "Setup Printer": 2.8088739794498416e-07
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "How to troubleshoot slow shutdown?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999998280248494,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999998280248494,
+                "None": 1.3090329525044141e-07,
+                "Setup Printer": 1.7652137687025825e-08,
+                "Make Update": 1.3142014214373303e-08,
+                "Software Recommendation": 1.0277703291380162e-08
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "How can I shutdown the computer when a certain process ends?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999981134300029,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999981134300029,
+                "Software Recommendation": 1.6579919466189215e-06,
+                "Setup Printer": 2.229648102691872e-07,
+                "None": 3.03217757631362e-09,
+                "Make Update": 2.5810627114721896e-09
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "Ubuntu Shut down app",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999921980583087,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999921980583087,
+                "Software Recommendation": 7.76640723562375e-06,
+                "Setup Printer": 2.228115871371112e-08,
+                "None": 1.322534209891716e-08,
+                "Make Update": 2.7954844659452433e-11
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "What does my computer do when I click 'Shut Down'?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9619709212921953,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9619709212921953,
+                "None": 0.03622957737534357,
+                "Software Recommendation": 0.0010804657477802094,
+                "Make Update": 0.000442745076472812,
+                "Setup Printer": 0.00027629050820818343
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "How do I shut down without the confirmation prompt?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999999063046706,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999999063046706,
+                "Software Recommendation": 5.612795969806377e-08,
+                "None": 1.7348383816177926e-08,
+                "Setup Printer": 1.6561808083503974e-08,
+                "Make Update": 3.657177724519473e-09
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "No action when shutdown pressed",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999774283084176,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999774283084176,
+                "Software Recommendation": 1.2338975784049971e-05,
+                "Setup Printer": 8.372090613866119e-06,
+                "Make Update": 1.1294864360224674e-06,
+                "None": 7.311387484249013e-07
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "what is the right way to shutdown ubuntu using the command line?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9832903152290955,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9832903152290955,
+                "None": 0.013267000015720084,
+                "Setup Printer": 0.0028004393928334702,
+                "Software Recommendation": 0.0005965522266607074,
+                "Make Update": 4.569313569022799e-05
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "How can I make shutdown not require admin password?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999981578121196,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999981578121196,
+                "Software Recommendation": 1.8015978969343843e-06,
+                "Setup Printer": 1.8203970371047037e-08,
+                "None": 1.568992912860639e-08,
+                "Make Update": 6.6960839782268555e-09
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "shutdown in specific way if no-one uses computer",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998364550338507,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9998364550338507,
+                "Software Recommendation": 0.00013280520746349343,
+                "Make Update": 1.838328376552978e-05,
+                "None": 8.36689875022661e-06,
+                "Setup Printer": 3.989576170050871e-06
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "What is the command to open the shutdown dialog?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999756181115845,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9999756181115845,
+                "Setup Printer": 1.2224588805861019e-05,
+                "Software Recommendation": 1.205387759761628e-05,
+                "None": 9.68163141180605e-08,
+                "Make Update": 6.605697849751928e-09
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "How to Shut down Ubuntu by using keyboard?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.996447266865426,
+            "confidencesOther": {
+                "Shutdown Computer": 0.996447266865426,
+                "Software Recommendation": 0.003088190872281726,
+                "Setup Printer": 0.0004473926994157568,
+                "None": 1.4371284575479975e-05,
+                "Make Update": 2.7782783010467525e-06
+            },
+            "goldenIntent": "Shutdown Computer",
+            "intent": "Shutdown Computer",
+            "queryText": "shutdown 5:30pm every day",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999998893781297,
+            "confidencesOther": {
+                "Make Update": 0.9999998893781297,
+                "None": 1.0647131717318994e-07,
+                "Setup Printer": 2.132773069005559e-09,
+                "Shutdown Computer": 1.7788522849743591e-09,
+                "Software Recommendation": 2.389280505589752e-10
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading from 11.10 to 12.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7346747783163526,
+            "confidencesOther": {
+                "Make Update": 0.7346747783163526,
+                "Software Recommendation": 0.22895662124561086,
+                "None": 0.018217260931154628,
+                "Shutdown Computer": 0.012170320920267291,
+                "Setup Printer": 0.005981018586614568
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How do I upgrade to the release version of 16.04 if I am running Beta?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9982297527157713,
+            "confidencesOther": {
+                "Make Update": 0.9982297527157713,
+                "None": 0.001571051148180638,
+                "Setup Printer": 0.00019531105925052486,
+                "Shutdown Computer": 2.258992682727078e-06,
+                "Software Recommendation": 1.6260841148486575e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9977493859950806,
+            "confidencesOther": {
+                "Make Update": 0.9977493859950806,
+                "Shutdown Computer": 0.0014621068258084775,
+                "None": 0.0007400116940543286,
+                "Software Recommendation": 2.5041304959428806e-05,
+                "Setup Printer": 2.3454180097243728e-05
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Is any offline upgrade from 13.10 to 14.04 possible?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999993130566875,
+            "confidencesOther": {
+                "Make Update": 0.9999993130566875,
+                "Shutdown Computer": 2.3850185129618483e-07,
+                "Setup Printer": 2.045915376298261e-07,
+                "Software Recommendation": 1.2885304878042147e-07,
+                "None": 1.1499687477265823e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading from ubuntu 12.04 to 13.10",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994568174899412,
+            "confidencesOther": {
+                "Shutdown Computer": 0.9994568174899412,
+                "Software Recommendation": 0.0005281146581632954,
+                "Setup Printer": 9.232144477322e-06,
+                "Make Update": 5.517212778624924e-06,
+                "None": 3.184946395003607e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Shutdown Computer",
+            "queryText": "Ubuntu upgrade failed",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999926712120901,
+            "confidencesOther": {
+                "Make Update": 0.9999926712120901,
+                "None": 7.063234280332223e-06,
+                "Setup Printer": 1.3814368271858231e-07,
+                "Shutdown Computer": 1.1600249682003445e-07,
+                "Software Recommendation": 1.140745007483548e-08
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading from 12.04 to 13.10 ( Unanswered questions )",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999910877015303,
+            "confidencesOther": {
+                "Make Update": 0.9999910877015303,
+                "Setup Printer": 3.435527890801202e-06,
+                "Software Recommendation": 2.6441106976864075e-06,
+                "Shutdown Computer": 2.1794867744921123e-06,
+                "None": 6.531731066426718e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "upgrading to Ubuntu 13.10 from Ubuntu 13.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9997980898147325,
+            "confidencesOther": {
+                "Make Update": 0.9997980898147325,
+                "Setup Printer": 0.0001392072485468025,
+                "Software Recommendation": 3.496392619812038e-05,
+                "None": 1.7846762942879434e-05,
+                "Shutdown Computer": 9.892247579592633e-06
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Make Update",
+            "queryText": "Is it recommended to upgrade to Lubuntu 15.04?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999980692929729,
+            "confidencesOther": {
+                "Make Update": 0.9999980692929729,
+                "None": 1.8397075710324604e-06,
+                "Setup Printer": 7.338282561086958e-08,
+                "Shutdown Computer": 1.739257108207975e-08,
+                "Software Recommendation": 2.2405938102685499e-10
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Force upgrade 12.10 to 13.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999929239963763,
+            "confidencesOther": {
+                "Make Update": 0.9999929239963763,
+                "None": 2.8820173059798614e-06,
+                "Software Recommendation": 2.348795879019046e-06,
+                "Setup Printer": 1.4827312737791181e-06,
+                "Shutdown Computer": 3.6245916488493133e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9953794707306675,
+            "confidencesOther": {
+                "Make Update": 0.9953794707306675,
+                "Software Recommendation": 0.0035027772515473826,
+                "Shutdown Computer": 0.000894085234860199,
+                "Setup Printer": 0.00018574876169108551,
+                "None": 3.79180212339432e-05
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Problem upgrading Ubuntu 9.10",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999753640439929,
+            "confidencesOther": {
+                "Make Update": 0.9999753640439929,
+                "None": 2.403042160250729e-05,
+                "Setup Printer": 5.87164043234486e-07,
+                "Shutdown Computer": 1.659512750399972e-08,
+                "Software Recommendation": 1.7752340697139122e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Is it necessary to upgrade to 15.10 from 14.04?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994686049469482,
+            "confidencesOther": {
+                "Make Update": 0.9994686049469482,
+                "None": 0.0004485449146078345,
+                "Setup Printer": 7.863064144861114e-05,
+                "Software Recommendation": 2.918918565038478e-06,
+                "Shutdown Computer": 1.3005784303633708e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998788281729285,
+            "confidencesOther": {
+                "Make Update": 0.9998788281729285,
+                "None": 6.391045842831357e-05,
+                "Shutdown Computer": 5.4759027888370014e-05,
+                "Setup Printer": 2.499962199546529e-06,
+                "Software Recommendation": 2.378555180146372e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Why did the upgrade from 11.10 to 12.04 ruin my system?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999986305627602,
+            "confidencesOther": {
+                "Make Update": 0.9999986305627602,
+                "None": 1.0115446968810882e-06,
+                "Setup Printer": 2.4986558303926434e-07,
+                "Shutdown Computer": 8.092335358889715e-08,
+                "Software Recommendation": 2.710360616550955e-08
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Problems upgrading from 12.04 to 14.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999883859323988,
+            "confidencesOther": {
+                "Make Update": 0.9999883859323988,
+                "Shutdown Computer": 4.9828922514399965e-06,
+                "Setup Printer": 3.4994559532245153e-06,
+                "Software Recommendation": 2.2654636648351724e-06,
+                "None": 8.662557317499128e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Problems upgrading Ubuntu 12.10 to 13.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999222389919143,
+            "confidencesOther": {
+                "Make Update": 0.9999222389919143,
+                "None": 6.988632769387785e-05,
+                "Shutdown Computer": 3.896977056021981e-06,
+                "Software Recommendation": 2.511419323173534e-06,
+                "Setup Printer": 1.466284012617314e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrade from 12.04 to 12.10 without losing files?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9096717414073187,
+            "confidencesOther": {
+                "Make Update": 0.9096717414073187,
+                "Software Recommendation": 0.046509655995998635,
+                "Setup Printer": 0.04317978529673688,
+                "Shutdown Computer": 0.0005265638512232009,
+                "None": 0.00011225344872271298
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Make Update",
+            "queryText": "On really old Ubuntu 6.06 - How to upgrade",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999492102548339,
+            "confidencesOther": {
+                "Make Update": 0.9999492102548339,
+                "None": 4.980102643694304e-05,
+                "Setup Printer": 8.61799144038978e-07,
+                "Shutdown Computer": 1.2152399196079317e-07,
+                "Software Recommendation": 5.395593237478143e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Do I need to uninstall 10.04 to upgrade to 12.04?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9985420672233628,
+            "confidencesOther": {
+                "Make Update": 0.9985420672233628,
+                "None": 0.0014437142968903233,
+                "Setup Printer": 1.0546833205030851e-05,
+                "Shutdown Computer": 3.55210061058554e-06,
+                "Software Recommendation": 1.1954593130544695e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Do I need to reinstall everything to upgrade from 13.10 to 14.10?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999353005008415,
+            "confidencesOther": {
+                "Make Update": 0.9999353005008415,
+                "None": 3.9843748053426174e-05,
+                "Setup Printer": 1.7795714061595265e-05,
+                "Shutdown Computer": 6.572618568987313e-06,
+                "Software Recommendation": 4.874184744854981e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "update-manager: upgrade to 15.04 rather than 16.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999941513553805,
+            "confidencesOther": {
+                "Make Update": 0.9999941513553805,
+                "Setup Printer": 3.732053987805085e-06,
+                "None": 1.6999568233731866e-06,
+                "Shutdown Computer": 2.947758946991392e-07,
+                "Software Recommendation": 1.2185791348779538e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading 16.04 to 16.04.1",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998874035206996,
+            "confidencesOther": {
+                "Make Update": 0.9998874035206996,
+                "Software Recommendation": 4.181521878432205e-05,
+                "Setup Printer": 3.9905636962286835e-05,
+                "None": 2.4886197424604722e-05,
+                "Shutdown Computer": 5.989426129028105e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading Ubuntu Server 9.10 to 10.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9360452215484019,
+            "confidencesOther": {
+                "Make Update": 0.9360452215484019,
+                "None": 0.056832267210935414,
+                "Software Recommendation": 0.006533873793870494,
+                "Shutdown Computer": 0.0005720604328530846,
+                "Setup Printer": 1.6577013939173953e-05
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Ho do I update to 13.04 from the beta?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999993159845084,
+            "confidencesOther": {
+                "Make Update": 0.9999993159845084,
+                "None": 6.568081416586343e-07,
+                "Setup Printer": 2.6091500721240947e-08,
+                "Shutdown Computer": 9.366939067052042e-10,
+                "Software Recommendation": 1.7915539909584045e-10
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How to upgrade from 12.10 to 14.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999947392612588,
+            "confidencesOther": {
+                "Make Update": 0.9999947392612588,
+                "None": 2.5944573994730646e-06,
+                "Setup Printer": 2.2215639029555067e-06,
+                "Software Recommendation": 4.409724821349767e-07,
+                "Shutdown Computer": 3.7449565426677395e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading from 10.10 to 11.04 how much space is needed?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9988473376680321,
+            "confidencesOther": {
+                "Make Update": 0.9988473376680321,
+                "None": 0.0011353727521701237,
+                "Shutdown Computer": 1.3666009027101347e-05,
+                "Setup Printer": 3.1519351051029615e-06,
+                "Software Recommendation": 4.716356655757957e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Do I need to backup my 12.04 system to upgrade to 12.04.1?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9884598888098242,
+            "confidencesOther": {
+                "Make Update": 0.9884598888098242,
+                "Shutdown Computer": 0.009416734450581651,
+                "None": 0.0015412868496134484,
+                "Setup Printer": 0.0005795571554336105,
+                "Software Recommendation": 2.5327345469598976e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Cannot upgrade from 12.04LTS to 14.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999986078064196,
+            "confidencesOther": {
+                "Make Update": 0.9999986078064196,
+                "None": 1.3830960338224229e-06,
+                "Shutdown Computer": 5.715384152504405e-09,
+                "Setup Printer": 3.169255903891735e-09,
+                "Software Recommendation": 2.1290653051797605e-10
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrade 10.10 to 11.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999137228802194,
+            "confidencesOther": {
+                "Make Update": 0.9999137228802194,
+                "None": 5.83835318301696e-05,
+                "Setup Printer": 2.7293539992674688e-05,
+                "Shutdown Computer": 4.928847068049357e-07,
+                "Software Recommendation": 1.0716325082168354e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999336307917562,
+            "confidencesOther": {
+                "Make Update": 0.9999336307917562,
+                "None": 3.407403049187476e-05,
+                "Setup Printer": 3.1959314127173956e-05,
+                "Software Recommendation": 3.1167224843943274e-07,
+                "Shutdown Computer": 2.4191376078519745e-08
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How to upgrade from 16.04 LTS to 16.04.1 LTS",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999992886577562,
+            "confidencesOther": {
+                "Make Update": 0.9999992886577562,
+                "None": 7.017538449906515e-07,
+                "Shutdown Computer": 4.613073710693924e-09,
+                "Software Recommendation": 2.5208951775357217e-09,
+                "Setup Printer": 2.4544298143553e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading from 10.04 to 11.10",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9887122523490767,
+            "confidencesOther": {
+                "Make Update": 0.9887122523490767,
+                "Setup Printer": 0.008910751839814927,
+                "None": 0.0021550687817399297,
+                "Software Recommendation": 0.00017142626204015584,
+                "Shutdown Computer": 5.0500767328190924e-05
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.999996315408745,
+            "confidencesOther": {
+                "Make Update": 0.999996315408745,
+                "None": 3.643585622788202e-06,
+                "Setup Printer": 3.814979334880626e-08,
+                "Software Recommendation": 1.6705801629978528e-09,
+                "Shutdown Computer": 1.1852586137706585e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Is there an upgrade procedure from 12.04 LTS to 14.04 LTS",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999909491979475,
+            "confidencesOther": {
+                "Make Update": 0.9999909491979475,
+                "None": 9.014891229893908e-06,
+                "Shutdown Computer": 2.525236546851674e-08,
+                "Setup Printer": 9.652829860317531e-09,
+                "Software Recommendation": 1.0056273936863065e-09
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrade from 9.10 to 11.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8429197063550795,
+            "confidencesOther": {
+                "Make Update": 0.8429197063550795,
+                "Setup Printer": 0.15455612997592486,
+                "None": 0.0017794330645024717,
+                "Shutdown Computer": 0.00040003787428260313,
+                "Software Recommendation": 0.00034469273021039206
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8853830168102577,
+            "confidencesOther": {
+                "Software Recommendation": 0.8853830168102577,
+                "Setup Printer": 0.11219152057936183,
+                "Make Update": 0.001577548651232854,
+                "None": 0.0007554745930850932,
+                "Shutdown Computer": 9.24393660624665e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Software Recommendation",
+            "queryText": "Wubi Device /dev/loop0 full. How to get more space?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9951319604458922,
+            "confidencesOther": {
+                "Make Update": 0.9951319604458922,
+                "None": 0.00476025355569065,
+                "Setup Printer": 9.107486963864857e-05,
+                "Software Recommendation": 1.0463983978420585e-05,
+                "Shutdown Computer": 6.247144800051934e-06
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Using 12.04 can I compile packages with gcc for 10.04?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9465618185790682,
+            "confidencesOther": {
+                "Make Update": 0.9465618185790682,
+                "Shutdown Computer": 0.05325477142954254,
+                "Software Recommendation": 0.00013009480083209614,
+                "None": 3.327489685603379e-05,
+                "Setup Printer": 2.0040293701217434e-05
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "Make Update",
+            "queryText": "Removing Recently used items in 12.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999971287139033,
+            "confidencesOther": {
+                "Make Update": 0.9999971287139033,
+                "None": 1.1712717619369712e-06,
+                "Software Recommendation": 8.409429931731603e-07,
+                "Shutdown Computer": 5.953226829388622e-07,
+                "Setup Printer": 2.637486586720098e-07
+            },
+            "goldenIntent": "Make Update",
+            "intent": "Make Update",
+            "queryText": "Upgrading From 11.04 (32bit) to 12.04 (64bit)",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.7121657142058286,
+            "confidencesOther": {
+                "Software Recommendation": 0.7121657142058286,
+                "Shutdown Computer": 0.2746470898392377,
+                "None": 0.012899779519027729,
+                "Setup Printer": 0.00022937777825868646,
+                "Make Update": 5.8038657647298986e-05
+            },
+            "goldenIntent": "None",
+            "intent": "Software Recommendation",
+            "queryText": "How is rm command different from the delete button?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9280026261349151,
+            "confidencesOther": {
+                "None": 0.9280026261349151,
+                "Make Update": 0.04938415514965787,
+                "Software Recommendation": 0.016443722741047467,
+                "Setup Printer": 0.005799844769891608,
+                "Shutdown Computer": 0.00036965120448793464
+            },
+            "goldenIntent": "Software Recommendation",
+            "intent": "None",
+            "queryText": "In Unity how do I see the details of a given launcher?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9978419528516086,
+            "confidencesOther": {
+                "Software Recommendation": 0.9978419528516086,
+                "None": 0.0012811361831856383,
+                "Shutdown Computer": 0.0005964626960920398,
+                "Make Update": 0.0001444973264070596,
+                "Setup Printer": 0.00013595094270660066
+            },
+            "goldenIntent": "None",
+            "intent": "Software Recommendation",
+            "queryText": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.40654673143142916,
+            "confidencesOther": {
+                "Software Recommendation": 0.40654673143142916,
+                "Shutdown Computer": 0.4043069232666661,
+                "Make Update": 0.1805793180856414,
+                "None": 0.007338439616510861,
+                "Setup Printer": 0.0012285875997524688
+            },
+            "goldenIntent": "None",
+            "intent": "Software Recommendation",
+            "queryText": "Security enhancements prevent mounting /dev/sdb1",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.49154440714575387,
+            "confidencesOther": {
+                "Shutdown Computer": 0.49154440714575387,
+                "Make Update": 0.2698733701945526,
+                "None": 0.10283409885123614,
+                "Software Recommendation": 0.0845187060637281,
+                "Setup Printer": 0.0512294177447291
+            },
+            "goldenIntent": "None",
+            "intent": "Shutdown Computer",
+            "queryText": "How do I show grub when resuming from suspend?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999992654278036,
+            "confidencesOther": {
+                "Setup Printer": 0.9999992654278036,
+                "Make Update": 3.483416757619313e-07,
+                "None": 2.6230615767058837e-07,
+                "Software Recommendation": 1.224512089623852e-07,
+                "Shutdown Computer": 1.4731537617081038e-09
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How to install a Lexmark z600 series printer?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9953708354747256,
+            "confidencesOther": {
+                "Setup Printer": 0.9953708354747256,
+                "Shutdown Computer": 0.004544203956633141,
+                "Software Recommendation": 6.406320448725192e-05,
+                "Make Update": 1.0752347038676877e-05,
+                "None": 1.0145017115311145e-05
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "Cannot setup HP All in one DJ3630",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9874783728742692,
+            "confidencesOther": {
+                "Setup Printer": 0.9874783728742692,
+                "Make Update": 0.012181576917020612,
+                "None": 0.00021812643292656392,
+                "Software Recommendation": 0.0001128042129999618,
+                "Shutdown Computer": 9.119562783827207e-06
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How to add a network printer on Ubuntu 15.10?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.8212615285761442,
+            "confidencesOther": {
+                "Setup Printer": 0.8212615285761442,
+                "Shutdown Computer": 0.1786643269737695,
+                "Software Recommendation": 6.077514815451406e-05,
+                "None": 1.1845277791682448e-05,
+                "Make Update": 1.5240241402050405e-06
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "Cannot install printer driver epson l210",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999601792668404,
+            "confidencesOther": {
+                "Setup Printer": 0.9999601792668404,
+                "Software Recommendation": 3.463204724315075e-05,
+                "None": 4.736952263015497e-06,
+                "Shutdown Computer": 2.7180430746661763e-07,
+                "Make Update": 1.7992934594636617e-07
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How do I install Dell 2150cdn printer",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999317407507553,
+            "confidencesOther": {
+                "Setup Printer": 0.9999317407507553,
+                "Software Recommendation": 5.939438426431676e-05,
+                "Make Update": 5.95855288250169e-06,
+                "Shutdown Computer": 2.705068495025813e-06,
+                "None": 2.0124360299577464e-07
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "Installing Epson XP-424 wireless printer",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9715610014642343,
+            "confidencesOther": {
+                "Setup Printer": 0.9715610014642343,
+                "Make Update": 0.01611854471028429,
+                "Software Recommendation": 0.012082349286676237,
+                "Shutdown Computer": 0.00021420827819842558,
+                "None": 2.3896260606682748e-05
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "Installing EPSON L355 on Ubuntu 14.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999979234798294,
+            "confidencesOther": {
+                "Setup Printer": 0.9999979234798294,
+                "Make Update": 1.0620530341490865e-06,
+                "None": 8.083602973861854e-07,
+                "Software Recommendation": 1.9930912168400954e-07,
+                "Shutdown Computer": 6.797717373437647e-09
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How do I install the HP F4280 printer?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9998893958976474,
+            "confidencesOther": {
+                "Setup Printer": 0.9998893958976474,
+                "Make Update": 8.325505015251353e-05,
+                "Software Recommendation": 2.1172365673492788e-05,
+                "None": 4.950967859020831e-06,
+                "Shutdown Computer": 1.2257186676910893e-06
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999813825869004,
+            "confidencesOther": {
+                "Setup Printer": 0.9999813825869004,
+                "Make Update": 1.2659787166845744e-05,
+                "None": 4.270328980362802e-06,
+                "Software Recommendation": 1.5287793621673716e-06,
+                "Shutdown Computer": 1.585175900678234e-07
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How to Install a Canon MF8040Cn Printer on Ubuntu 12.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999744982090658,
+            "confidencesOther": {
+                "Setup Printer": 0.9999744982090658,
+                "None": 2.06627840809206e-05,
+                "Make Update": 4.6013712278196946e-06,
+                "Software Recommendation": 2.0592643759478337e-07,
+                "Shutdown Computer": 3.1709187808225577e-08
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10?",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9999167850585451,
+            "confidencesOther": {
+                "Setup Printer": 0.9999167850585451,
+                "Make Update": 4.566132601290857e-05,
+                "Software Recommendation": 2.3330757370347957e-05,
+                "None": 1.23968579567702e-05,
+                "Shutdown Computer": 1.8260001148680611e-06
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "How to install Canon LBP330 in Lts 16.04",
+            "queryHit": "log_regression"
+        },
+        {
+            "confidence": 0.9994035656571055,
+            "confidencesOther": {
+                "Setup Printer": 0.9994035656571055,
+                "Make Update": 0.0005273108716699216,
+                "None": 5.9851021849161044e-05,
+                "Software Recommendation": 7.208176056245651e-06,
+                "Shutdown Computer": 2.0642733189999125e-06
+            },
+            "goldenIntent": "Setup Printer",
+            "intent": "Setup Printer",
+            "queryText": "Install printer Lexmark X4690 (ubuntu 12.04)",
+            "queryHit": "log_regression"
+        }
+    ]
+}

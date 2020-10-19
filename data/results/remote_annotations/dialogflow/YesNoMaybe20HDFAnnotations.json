@@ -1,0 +1,884 @@
+{
+    "results": [
+        {
+            "queryText": "just  maybe for what it is worth",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i wonder may be  yes  at the end of the day",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": " so  might be",
+            "intent": ""
+        },
+        {
+            "queryText": "uhm  don't really know i wonder",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i would like to hear do not really  know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i do not really  know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "you know  just  i don't  know would you let me know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "do not  know  oh  okay",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "can you i do not   know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i'm not  hmm   sure can you",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i am not   sure",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "in my humble opinion not quite sure  needless to say",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "for what it is worth i'm not  quite sure",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "i wonder i am not quite  hmm  sure could you",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": "possibly  hmm  i think",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "in my humble opinion  i'm indifferent",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "i  really  am indifferent",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "i would like to hear  indifferent",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i can't remember  in my humble opinion",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": " at the end of the day can't remember  hmm ",
+            "intent": ""
+        },
+        {
+            "queryText": "i cannot  just  remember so ",
+            "intent": ""
+        },
+        {
+            "queryText": " somehow  cannot remember",
+            "intent": ""
+        },
+        {
+            "queryText": " at the end of the day i can not  oh  remember so ",
+            "intent": ""
+        },
+        {
+            "queryText": " right can  not remember i wonder ",
+            "intent": ""
+        },
+        {
+            "queryText": "i don't remember",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "i don't really care",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "would you let me know i think it doesn't  matter  somehow  believe me",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "it doesn't  matter  so",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "that doesn't  yes   matter can you",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "you know  yes  doesn't  matter basically",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "okay i think it doesn't  really matter in my humble opinion",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "it doesn't really  matter well",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "needless to say it's  hmm  the same sounds great",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "stop  really  i would like to hear ",
+            "intent": ""
+        },
+        {
+            "queryText": "i want  somehow  to quit you know",
+            "intent": "stop"
+        },
+        {
+            "queryText": "would you let me know exit  okay",
+            "intent": "stop"
+        },
+        {
+            "queryText": "i want to exit at the end of the day",
+            "intent": "wait"
+        },
+        {
+            "queryText": " i would like to hear stop  uhm  so ",
+            "intent": ""
+        },
+        {
+            "queryText": "i want to stop  just ",
+            "intent": ""
+        },
+        {
+            "queryText": " i want you to stop it  just ",
+            "intent": ""
+        },
+        {
+            "queryText": " i want to stop it could you ",
+            "intent": ""
+        },
+        {
+            "queryText": "could you i want to turn  off  could you",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "turn you off  just  basically",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "i think i want to turn you  off",
+            "intent": "stop"
+        },
+        {
+            "queryText": "don't talk  basically",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": " can you  stop talking",
+            "intent": ""
+        },
+        {
+            "queryText": " basically i don't want to play  anymore  okay ",
+            "intent": ""
+        },
+        {
+            "queryText": "i  don't want to play any game anymore",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "for what it is worth i  just  don't want to play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i don't want  to play any game",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "can you i  yes  don't like this game anymore",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "you know i'm not enjoying this",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "so i'm  not enjoying this game",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "right  this is boring needless to say",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "would you let me know bye  uhm  bye",
+            "intent": "stop"
+        },
+        {
+            "queryText": " goodbye right ",
+            "intent": ""
+        },
+        {
+            "queryText": "so  repeat",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "can you  oh  repeat that basically",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "for what it is worth could you repeat  it",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "at the end of the day could you repeat the  question",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "can  somehow  you repeat the question",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "well could you repeat that  please i think",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "i want you to can you repeat that please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat it  yes  please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "you know  can you repeat it please",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "could you repeat the question please  hmm ",
+            "intent": ""
+        },
+        {
+            "queryText": "can you repeat  the question please sounds great",
+            "intent": "Repeat"
+        },
+        {
+            "queryText": "i wonder  just  once more",
+            "intent": "NoNode"
+        },
+        {
+            "queryText": " can you once  more please",
+            "intent": ""
+        },
+        {
+            "queryText": "i think say  uhm  that again",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "say  that again please",
+            "intent": ""
+        },
+        {
+            "queryText": " at the end of the day what was  yes  that i think ",
+            "intent": ""
+        },
+        {
+            "queryText": "what  are you saying so ",
+            "intent": ""
+        },
+        {
+            "queryText": " so what  yes ",
+            "intent": ""
+        },
+        {
+            "queryText": "at the end of the day stop  hmm  and shut up",
+            "intent": "totalStop"
+        },
+        {
+            "queryText": "wait  oh",
+            "intent": "wait"
+        },
+        {
+            "queryText": "sounds great wait a  just  second",
+            "intent": "wait"
+        },
+        {
+            "queryText": "wait a while  just",
+            "intent": "wait"
+        },
+        {
+            "queryText": " okay wait  please  in my humble opinion ",
+            "intent": ""
+        },
+        {
+            "queryText": "so  oh  wait a minute please i want you to",
+            "intent": "wait"
+        },
+        {
+            "queryText": " i wonder wait a  while please basically ",
+            "intent": ""
+        },
+        {
+            "queryText": "one  moment basically ",
+            "intent": ""
+        },
+        {
+            "queryText": "could you one moment please",
+            "intent": "wait"
+        },
+        {
+            "queryText": "okay which  games can i  play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "needless to say what  games  yes  can i play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i want you to which other games can i  play i wonder",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "believe me what other games can i  hmm  play i think",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "oh  which  game can i play i wonder",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which other  uhm  game can i play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "believe me what other game can  really  i play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i wonder which  games  oh  can we play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what  games can we play  basically",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "you know which other games can we play  hmm  could you",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games  somehow  can we play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "basically which  game can we  play i want you to",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "can you  what  game can we play okay",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other game can we play  hmm",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  really  else can we play right",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i want you to  really  what can we play at the end of the day",
+            "intent": "stop"
+        },
+        {
+            "queryText": "which  games can  you play",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "needless to say which other games can  you play okay",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  really  other games can you play sounds great",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which  game can  uhm  you play believe me",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "for what it is worth what  game can you play  hmm",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "just  what else can you play",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "would you let me know which  games do you have  uhm",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what  games do  you have",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which other games do you have  in my humble opinion",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what  hmm  other games do you have i think",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "could you which  yes   game do you have would you let me know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i would like to hear what  game  somehow  do you have",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "i would like to hear which other game  really  do you have i would like to hear",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what other game do you have  oh",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what else do you have  oh  needless to say",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "what do  you have i think",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "which   games do you know could you",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  games  do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "for what it is worth what  uhm  other games do you know sounds great",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i would like to hear which  game do you  really  know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i want you to what  game  hmm  do you know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "believe me what other game  really  do you know",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "what else do you  know",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "can you which  games  just  is available believe me",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what other games is  available can you",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "right what   game is available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other  game is available basically",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "believe me which   oh  games are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  just   games are available basically",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "i think which other games are available  i wonder",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "basically what other games are available",
+            "intent": "playOtherGame"
+        },
+        {
+            "queryText": "which   yes  game are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "what  game  are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "which other  game are available",
+            "intent": "listOfGames"
+        },
+        {
+            "queryText": "in my humble opinion how many  games have we played  oh  believe me",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have we  played basically",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "i would like to hear how many memory  games have i played so",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "well how  yes  many memory games have we played so far",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "i wonder how many  games have i  yes  played so far right",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory games have i played  so far",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many  somehow   games have we played in this session",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory  hmm  games have we played in this session at the end of the day",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "how many memory  games have i played in this session sounds great",
+            "intent": "gamesCounter"
+        },
+        {
+            "queryText": "so would  really  you speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could   yes  speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will   hmm  speak louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  speak louder  really  okay",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak  yes  louder so",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you  talk louder i wonder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "so  can you talk louder can you",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i would like to hear will you talk  louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  hmm  you talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "in my humble opinion could  talk  louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i wonder can  oh   talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will  talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you would  hmm   talk louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "talk  louder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "right could you speak  yes  more loud right",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you  speak more loud sounds great",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "you speak more loud  yes",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could  speak  more loud at the end of the day",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can  speak more loud  uhm",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  somehow   speak more loud at the end of the day",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak more  yes  loud",
+            "intent": ""
+        },
+        {
+            "queryText": "somehow  could you talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i wonder can you talk more loud  sounds great",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would  just  you talk more loud i think",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "basically  somehow  could  talk more loud so",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can   talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "basically will  talk more loud  right",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i wonder would   talk more loud",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "believe me  talk more loud for what it is worth",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "believe me  can you speak higher could you",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "will you  speak higher could you",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can   speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "okay will  speak  uhm  higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "speak higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "can you  yes  talk higher you know",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "well will  you talk higher i wonder",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "would you  talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i want you to you talk  higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i would like to hear  somehow  could  talk higher you know",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "for what it is worth  somehow  can  talk higher believe me",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "at the end of the day would  talk  higher can you",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "talk higher",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "right i can't hear  yes  you very well",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "believe me i  can't hear you  well i want you to",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "really  i can't hear you very i would like to hear",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "could you you are talking too quiet  believe me",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are   too quiet",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are speaking too low  uhm",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "i think you  hmm  are talking too low",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "you are  too  low well ",
+            "intent": ""
+        },
+        {
+            "queryText": "at the end of the day you are speaking  too quietly can you",
+            "intent": "volumeUp"
+        },
+        {
+            "queryText": "well you are talking too  yes  quietly",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "at the end of the day you are  too  just  quietly",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "okay volume  oh  up would you let me know",
+            "intent": "MaybeNode"
+        },
+        {
+            "queryText": "in my humble opinion how many times have  yes  we talked already would you let me know",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have we  yes  chatted already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "yes  how many times have we spoken already i would like to hear",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "somehow  how many times have i launched you already at the end of the day",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "i wonder how many times have  somehow  i started you already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "at the end of the day how many times have i talked  yes  to you already",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times  have we talked so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many  hmm  times have we spoken so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times  have i opened you so far",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "so how many times have  we talked believe me",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "right how  uhm  many times have we chatted for what it is worth",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times  have we spoken i want you to",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "needless to say how many times have i launched  just  you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "right how many times have i started  just  you",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "how many times have i  opened you i would like to hear",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "well how many times have i talked to you  needless to say",
+            "intent": "timesPlayed"
+        },
+        {
+            "queryText": "are you still there  yes",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": "needless to say  uhm  are you sleeping",
+            "intent": "YesNode"
+        },
+        {
+            "queryText": "needless to say are  you asleep at the end of the day",
+            "intent": "volumeDown"
+        },
+        {
+            "queryText": "well have you turned off  yes  you know",
+            "intent": "stillThere"
+        },
+        {
+            "queryText": " basically have you stopped  somehow  well ",
+            "intent": ""
+        },
+        {
+            "queryText": " did you stop believe me ",
+            "intent": ""
+        },
+        {
+            "queryText": "did you  quit",
+            "intent": "stop"
+        }
+    ]
+}

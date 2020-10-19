@@ -1,0 +1,91 @@
+[
+    {
+        "intents": [
+            {
+                "DepartureTime": [
+                    {
+                        "truePos": 31,
+                        "falseNeg": 4,
+                        "falsePos": 3,
+                        "precision": 0.9117647058823529,
+                        "recall": 0.8857142857142857,
+                        "f1": 0.8985507246376812
+                    }
+                ],
+                "FindConnection": [
+                    {
+                        "truePos": 68,
+                        "falseNeg": 3,
+                        "falsePos": 4,
+                        "precision": 0.9444444444444444,
+                        "recall": 0.9577464788732394,
+                        "f1": 0.951048951048951
+                    }
+                ],
+                "precision": 0.9339622641509434,
+                "recall": 0.9339622641509434,
+                "f1": 0.9339622641509434
+            }
+        ],
+        "entities": [
+            {
+                "Vehicle": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 35,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Line": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 1,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "StationDest": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 71,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Criterion": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 34,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "StationStart": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 102,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "precision": "n.a.",
+                "recall": 0.0,
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.9339622641509434,
+        "recall": 0.2836676217765043,
+        "f1": 0.4351648351648352
+    }
+]
