@@ -1,11 +1,13 @@
 If you use the data and publish please cite our preprint paper:
 
 ``` 
-@article{lorenc2020we,
-  title={Do We Need Online NLU Tools?},
+@article{lorenc2021benchmark,
+  title={Benchmark of public intent recognition services},
   author={Lorenc, Petr and Marek, Petr and Pichl, Jan and Konr{\'a}d, Jakub and {\v{S}}ediv{\`y}, Jan},
-  journal={arXiv preprint arXiv:2011.09825},
-  year={2020}
+  journal={Language Resources and Evaluation},
+  pages={1--19},
+  year={2021},
+  publisher={Springer}
 }
 ```
 
